@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interfaces\detail\idl
+2
+8
+b:protect.hpp|1|14b48602fc2|311|63d6f276|efde4800783411e38c3b0002c9bb1e4c|0
+7:end.hpp|1|14b4860382b|1159|ff7c1ab8|131eec10784211e38c3b0002c9bb1e4c|0
+e:access_control|2|0|0|0|2e5dd920782c11e38c3b0002c9bb1e4c|0
+9:begin.hpp|1|14b48602fc2|838|86446687|7b1e687c783711e38c3b0002c9bb1e4c|0
+b:extends.hpp|1|14b48602fb2|1bd|d9cf88f4|6c9ddbf0782c11e38c3b0002c9bb1e4c|0
+b:fn_impl.hpp|1|14b48602fc2|1392|75daec5d|f8de2f2c783211e38c3b0002c9bb1e4c|0
+11:no_access_control|2|0|0|0|f65dd6a4782b11e38c3b0002c9bb1e4c|0
+6:fn.hpp|1|14b4860382b|edc|a620da36|6b7eb34c783d11e38c3b0002c9bb1e4c|0

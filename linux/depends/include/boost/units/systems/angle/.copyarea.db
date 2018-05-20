@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\systems\angle
+2
+3
+b:degrees.hpp|1|14b4859ed4b|4fa|bae1a3bd|d32abcac7cea11e3ac0b0002c9bb1e4c|0
+f:revolutions.hpp|1|14b4859ed3c|528|e8b7b803|81daaad87ce911e3ac0b0002c9bb1e4c|0
+c:gradians.hpp|1|14b4859ed4b|50a|c770aa19|a4aaacb47ce911e3ac0b0002c9bb1e4c|0

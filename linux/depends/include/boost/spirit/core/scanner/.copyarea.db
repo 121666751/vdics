@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\core\scanner
+2
+5
+f:skipper_fwd.hpp|1|14b485dae59|486|bb3f65e7|9bd3c83c7cbd11e3880a0002c9bb1e4c|0
+f:scanner_fwd.hpp|1|14b485dae59|486|25716583|6e03f7b47cc111e3880a0002c9bb1e4c|0
+b:scanner.hpp|1|14b485dae59|472|ea065e23|d043d78c7cbe11e3880a0002c9bb1e4c|0
+4:impl|2|0|0|0|3323c2e07cbd11e3880a0002c9bb1e4c|0
+b:skipper.hpp|1|14b485dae68|472|7b335e87|84e42b007cc511e3880a0002c9bb1e4c|0

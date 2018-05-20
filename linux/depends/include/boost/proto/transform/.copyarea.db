@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\proto\transform
+2
+a
+8:make.hpp|1|14b485efb17|4ad7|e1dc80fd|43eb175278f711e3b42d0002c9bb1e4c|0
+7:arg.hpp|1|14b485efb17|278a|8f8dcfc6|4adb17a678f711e3b42d0002c9bb1e4c|0
+8:when.hpp|1|14b485efb17|203c|ebee2efc|594b186a78f711e3b42d0002c9bb1e4c|0
+8:call.hpp|1|14b485efb07|4c92|46869431|3a0b16c678f711e3b42d0002c9bb1e4c|0
+8:impl.hpp|1|14b485efb26|187c|518e656a|634b18f678f711e3b42d0002c9bb1e4c|0
+8:fold.hpp|1|14b485efb17|40bb|e36fc466|5b4b188678f711e3b42d0002c9bb1e4c|0
+d:fold_tree.hpp|1|14b485efb07|1956|b6c76933|3c0b16e278f711e3b42d0002c9bb1e4c|0
+b:default.hpp|1|14b485efb26|6676|146c7a6|671b192e78f711e3b42d0002c9bb1e4c|0
+8:lazy.hpp|1|14b485efb17|d8c|1bac0092|4ebb17de78f711e3b42d0002c9bb1e4c|0
+10:pass_through.hpp|1|14b485efaf7|2060|ced178e9|2ffb163a78f711e3b42d0002c9bb1e4c|0

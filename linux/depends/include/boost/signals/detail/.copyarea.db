@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\signals\detail
+2
+6
+f:signal_base.hpp|1|14b486485ff|13a5|bf89e9ea|e673cbf47cbd11e3880a0002c9bb1e4c|0
+12:named_slot_map.hpp|1|14b4864860f|1680|9a426a18|d55422247cc411e3880a0002c9bb1e4c|0
+f:gen_signal_N.pl|1|14b486485ff|fcc|a677a9b3|5e13c5107cbd11e3880a0002c9bb1e4c|0
+a:config.hpp|1|14b4864860f|4a6|8acf55ae|3753e9987cc011e3880a0002c9bb1e4c|0
+12:signals_common.hpp|1|14b4864860f|11bc|6f28300d|1253e7bc7cc011e3880a0002c9bb1e4c|0
+16:slot_call_iterator.hpp|1|14b4864860f|c11|29598517|4613d08c7cbe11e3880a0002c9bb1e4c|0

@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\detail\static\transforms
+2
+a
+f:as_sequence.hpp|1|14b485b0abf|701|e1090895|d87844247cf511e384270002c9bb1e4c|0
+e:as_inverse.hpp|1|14b485af7bb|b21|367763ca|33f82e287cf411e384270002c9bb1e4c|0
+e:as_matcher.hpp|1|14b485af7cb|620|328cca1d|135839c07cf511e384270002c9bb1e4c|0
+a:as_set.hpp|1|14b485af7cb|1e88|c30f9b7f|919840887cf511e384270002c9bb1e4c|0
+11:as_quantifier.hpp|1|14b485b0abf|35da|65f009ec|bad8429c7cf511e384270002c9bb1e4c|0
+10:as_alternate.hpp|1|14b485af7cb|1391|4ff74aef|88c840187cf511e384270002c9bb1e4c|0
+d:as_marker.hpp|1|14b485af7cb|839|eed55823|cdd836407cf411e384270002c9bb1e4c|0
+12:as_independent.hpp|1|14b485af7bb|1c5d|ff8c322f|7568318c7cf411e384270002c9bb1e4c|0
+f:as_modifier.hpp|1|14b485af7cb|ae1|97e11fed|4a083cb47cf511e384270002c9bb1e4c|0
+d:as_action.hpp|1|14b485b0ace|2efd|6856fd13|e63844e87cf511e384270002c9bb1e4c|0

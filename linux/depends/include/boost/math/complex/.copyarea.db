@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\math\complex
+2
+8
+9:asinh.hpp|1|14b4865bc11|3f8|8a8b3e87|4bde0d60783011e38c3b0002c9bb1e4c|0
+8:atan.hpp|1|14b4865bc02|4da|1b7d8113|026de398782d11e38c3b0002c9bb1e4c|0
+8:fabs.hpp|1|14b4865bc02|281|b944c8bc|74bdf684782e11e38c3b0002c9bb1e4c|0
+8:acos.hpp|1|14b4865bc02|1dca|85340c85|394dffec782f11e38c3b0002c9bb1e4c|0
+b:details.hpp|1|14b4865bc11|c20|aabcf784|c19e1fa4783111e38c3b0002c9bb1e4c|0
+9:atanh.hpp|1|14b4865bc11|1de0|9a2329f4|999ece88783f11e38c3b0002c9bb1e4c|0
+9:acosh.hpp|1|14b4865bc02|42e|c8e04e22|a9bdf940782e11e38c3b0002c9bb1e4c|0
+8:asin.hpp|1|14b4865bc11|1e51|fcc72671|433e0cf0783011e38c3b0002c9bb1e4c|0

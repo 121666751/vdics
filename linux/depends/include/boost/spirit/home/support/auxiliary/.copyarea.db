@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\auxiliary
+2
+3
+18:meta_function_holder.hpp|1|14b485bc94f|5f3|c2a8c36b|513d21be7cd011e3980e0002c9bb1e4c|0
+a:confix.hpp|1|14b485bc95f|ac4|66da166a|39dd59da7cd411e3980e0002c9bb1e4c|0
+12:functor_holder.hpp|1|14b485bc94f|392|85d30b8a|c1bd0b527cce11e3980e0002c9bb1e4c|0

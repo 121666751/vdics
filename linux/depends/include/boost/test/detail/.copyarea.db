@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\detail
+2
+d
+c:fwd_decl.hpp|1|14b485e1141|469|1c75c6d|31bd4b327cd311e3980e0002c9bb1e4c|0
+d:log_level.hpp|1|14b485e1843|653|b745afbd|62bd5c267cd411e3980e0002c9bb1e4c|0
+e:workaround.hpp|1|14b485e1141|60f|bfb6de52|0a2d49027cd311e3980e0002c9bb1e4c|0
+15:unit_test_monitor.hpp|1|14b485e1151|bb6|5d1e69ef|759d4f067cd311e3980e0002c9bb1e4c|0
+12:global_typedef.hpp|1|14b485e1151|9d7|da831732|ac8d52167cd311e3980e0002c9bb1e4c|0
+15:suppress_warnings.hpp|1|14b485e1151|5b1|a945c998|beed53127cd311e3980e0002c9bb1e4c|0
+e:nullstream.hpp|1|14b485e1151|d1f|fdc01ecd|41dd5a4a7cd411e3980e0002c9bb1e4c|0
+18:unit_test_parameters.hpp|1|14b485e1141|9ac|8770be1f|ee1d475e7cd211e3980e0002c9bb1e4c|0
+13:enable_warnings.hpp|1|14b485e1151|5bb|91e0cf34|182d57fe7cd411e3980e0002c9bb1e4c|0
+11:wrap_io_saver.hpp|1|14b485e1132|5e6|4b9cba0b|247d1f3a7cd011e3980e0002c9bb1e4c|0
+14:class_properties.hpp|1|14b485e1132|13dd|a6809093|58fd13be7ccf11e3980e0002c9bb1e4c|0
+14:unit_test_config.hpp|1|14b485e1132|8de|becba967|3fbd20c27cd011e3980e0002c9bb1e4c|0
+a:config.hpp|1|14b485e1141|e52|a522221e|32ad2e527cd111e3980e0002c9bb1e4c|0

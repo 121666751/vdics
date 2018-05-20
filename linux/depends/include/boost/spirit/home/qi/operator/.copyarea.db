@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\qi\operator
+2
+e
+c:sequence.hpp|1|14b485c1676|503|df237bc4|85fd41767cd211e3980e0002c9bb1e4c|0
+8:plus.hpp|1|14b485c1676|c17|8a906346|d99d0ca27cce11e3980e0002c9bb1e4c|0
+11:and_predicate.hpp|1|14b485c1676|79e|b20531ee|3bed208a7cd011e3980e0002c9bb1e4c|0
+f:permutation.hpp|1|14b485c0f17|cf1|e389c897|2aed03027cce11e3980e0002c9bb1e4c|0
+e:difference.hpp|1|14b485c1667|ca7|ace59615|367d03aa7cce11e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c1676|12bf|737a0e4c|9dcd26027cd011e3980e0002c9bb1e4c|0
+11:sequential_or.hpp|1|14b485c1686|a59|28071148|49ad5aba7cd411e3980e0002c9bb1e4c|0
+c:optional.hpp|1|14b485c0f17|b32|ce47409c|f4dcfff27ccd11e3980e0002c9bb1e4c|0
+8:list.hpp|1|14b485c1686|c9f|6baf79fc|199d49e27cd311e3980e0002c9bb1e4c|0
+a:kleene.hpp|1|14b485c1667|b0e|e28626be|43ad046e7cce11e3980e0002c9bb1e4c|0
+f:alternative.hpp|1|14b485c1676|ee9|5a0f881f|41dd2f327cd111e3980e0002c9bb1e4c|0
+11:not_predicate.hpp|1|14b485c0f17|79f|b9c83289|13bd01b27cce11e3980e0002c9bb1e4c|0
+a:expect.hpp|1|14b485c1696|60c|ee0c6ad|668d5c5e7cd411e3980e0002c9bb1e4c|0
+11:sequence_base.hpp|1|14b485c1686|cba|692cc4c1|a0ad516e7cd311e3980e0002c9bb1e4c|0

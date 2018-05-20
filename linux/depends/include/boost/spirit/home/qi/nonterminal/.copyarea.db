@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\qi\nonterminal
+2
+9
+8:rule.hpp|1|14b485c0660|2e91|77bafab8|5afd5bb67cd411e3980e0002c9bb1e4c|0
+18:nonterminal_director.hpp|1|14b485c0660|1ae0|b75e1d77|c31d534a7cd311e3980e0002c9bb1e4c|0
+18:error_handler_result.hpp|1|14b485c0660|2a3|3d09bd10|d24d1a867ccf11e3980e0002c9bb1e4c|0
+1a:virtual_component_base.hpp|1|14b485c0650|9f4|e587f58c|976d09067cce11e3980e0002c9bb1e4c|0
+f:nonterminal.hpp|1|14b485c0640|1484|2ecf5642|0c2d01427cce11e3980e0002c9bb1e4c|0
+b:grammar.hpp|1|14b485c0650|a5e|d95151d|ac6d18727ccf11e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c0650|928|511ca014|3a6d03e27cce11e3980e0002c9bb1e4c|0
+f:grammar_fwd.hpp|1|14b485c0660|326|af13ea55|2c4d3c6e7cd211e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|6e1cf9167ccd11e3980e0002c9bb1e4c|0

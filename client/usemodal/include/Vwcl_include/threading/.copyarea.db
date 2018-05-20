@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\threading
+2
+3
+14:vcriticalsection.hpp|1|14b4866f1e5|ebf|db3d755|d5242ef07cc511e3880a0002c9bb1e4c|0
+b:vthread.hpp|1|14b4866f1e5|5481|6673cb44|f64416e07cc311e3880a0002c9bb1e4c|0
+1e:vcriticallinkedlistmanager.hpp|1|14b4866f1e5|cea|854f2fa4|34c3dc787cbf11e3880a0002c9bb1e4c|0

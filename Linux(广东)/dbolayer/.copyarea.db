@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\Linux(广东)\dbolayer
+2
+7
+b:tb_multis.h|1|14efc63d9f1|29c|4fb6dc87|37a5953234f311e5981d0002c9bb1e4c|0
+b:db_common.h|1|14efc63daa8|1585|eac1e8f9|3db5954e34f311e5981d0002c9bb1e4c|0
+b:Dboperate.h|1|14efc63db59|8c4|ac51f07f|4305956a34f311e5981d0002c9bb1e4c|0
+8:Makefile|1|14efc63d86d|307|edb3da4e|2c4594fa34f311e5981d0002c9bb1e4c|0
+d:tb_vouchers.h|1|14efc63dc29|23f|682fbbbe|48b5958634f311e5981d0002c9bb1e4c|0
+d:db_common.cpp|1|14efc63dd32|be17|bcce3d67|4e6595a234f311e5981d0002c9bb1e4c|0
+d:Dboperate.cpp|1|14efc63d943|4548|4a3b81b5|3205951634f311e5981d0002c9bb1e4c|0

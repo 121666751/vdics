@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\lambda
+2
+e
+a:switch.hpp|1|14b485fdee3|4255|202fa17b|a1bea9ac783c11e38c3b0002c9bb1e4c|0
+b:numeric.hpp|1|14b485fd6d8|b3d|7bbd4a40|8d8e695c783711e38c3b0002c9bb1e4c|0
+d:construct.hpp|1|14b485fd6d8|1919|6a1b082a|3ede0cb8783011e38c3b0002c9bb1e4c|0
+9:loops.hpp|1|14b485fded4|378d|59b9993d|5a9ea62c783c11e38c3b0002c9bb1e4c|0
+d:algorithm.hpp|1|14b485fdee3|70f3|d3cdc13|d6aee938784111e38c3b0002c9bb1e4c|0
+8:bind.hpp|1|14b485fde76|254|9c5ab0d8|ff7e7ba0783811e38c3b0002c9bb1e4c|0
+a:lambda.hpp|1|14b485fded4|3e6|bc53b2e|052ea1e8783c11e38c3b0002c9bb1e4c|0
+6:if.hpp|1|14b485fd6d8|35d2|461b8e6|858e1ccc783111e38c3b0002c9bb1e4c|0
+9:casts.hpp|1|14b485fd6d8|15ea|2b59ffae|7dbe0334782f11e38c3b0002c9bb1e4c|0
+16:control_structures.hpp|1|14b485fdee3|2e5|d8e4f0ac|776ea798783c11e38c3b0002c9bb1e4c|0
+c:closures.hpp|1|14b485fded4|2766|42efd99f|c5ce8578783911e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|043dd734782c11e38c3b0002c9bb1e4c|0
+8:core.hpp|1|14b485fde76|974|4c3e0f6e|9a8e69e8783711e38c3b0002c9bb1e4c|0
+e:exceptions.hpp|1|14b485fded4|f03f|832d1770|01ce886c783a11e38c3b0002c9bb1e4c|0

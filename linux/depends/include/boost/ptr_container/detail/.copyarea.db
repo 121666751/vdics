@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\ptr_container\detail
+2
+e
+8:move.hpp|1|14b48604796|478|96356896|337277c278f911e3bc0d0002c9bb1e4c|0
+15:void_ptr_iterator.hpp|1|14b48604777|1a6d|7a3d0427|f752749678f811e3bc0d0002c9bb1e4c|0
+1d:serialize_reversible_cont.hpp|1|14b48604787|d0d|2c5a4988|1e5276aa78f911e3bc0d0002c9bb1e4c|0
+13:static_move_ptr.hpp|1|14b48604787|188e|2fc05d5b|2642771a78f911e3bc0d0002c9bb1e4c|0
+13:throw_exception.hpp|1|14b48604777|377|1dc40b46|08a2757678f911e3bc0d0002c9bb1e4c|0
+1d:associative_ptr_container.hpp|1|14b48604796|3623|24573ad2|314277a678f911e3bc0d0002c9bb1e4c|0
+1d:serialize_ptr_map_adapter.hpp|1|14b48604120|dce|baa76f6f|d092729e78f811e3bc0d0002c9bb1e4c|0
+10:map_iterator.hpp|1|14b486047a6|f2d|abb50019|376277fa78f911e3bc0d0002c9bb1e4c|0
+12:scoped_deleter.hpp|1|14b48604777|cf6|a7a01ef7|e52273b678f811e3bc0d0002c9bb1e4c|0
+1c:reversible_ptr_container.hpp|1|14b48604767|694d|7838ac33|dc82734678f811e3bc0d0002c9bb1e4c|0
+17:serialize_xml_names.hpp|1|14b48604787|38c|2c03114e|2a72775278f911e3bc0d0002c9bb1e4c|0
+12:is_convertible.hpp|1|14b48604796|9f7|67861fcb|355277de78f911e3bc0d0002c9bb1e4c|0
+13:default_deleter.hpp|1|14b48604787|8a1|502ad8de|1c42768e78f911e3bc0d0002c9bb1e4c|0
+12:meta_functions.hpp|1|14b48604796|5a4|f772bb3d|2cd2776e78f911e3bc0d0002c9bb1e4c|0

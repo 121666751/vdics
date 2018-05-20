@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iterator\detail
+2
+6
+14:minimum_category.hpp|1|14b48605195|b4b|f03a8036|80ddf72c782e11e38c3b0002c9bb1e4c|0
+1c:facade_iterator_category.hpp|1|14b48605195|198c|511341e2|69cdf5f8782e11e38c3b0002c9bb1e4c|0
+e:config_def.hpp|1|14b486051a4|11fb|fb0e66e6|870e8f18783a11e38c3b0002c9bb1e4c|0
+d:enable_if.hpp|1|14b486051a4|831|e7ba6a96|ec8ede9c784011e38c3b0002c9bb1e4c|0
+18:any_conversion_eater.hpp|1|14b48605195|27e|791cb5b|bd1e12f4783011e38c3b0002c9bb1e4c|0
+10:config_undef.hpp|1|14b48605185|2eb|7a85e633|0cddf128782e11e38c3b0002c9bb1e4c|0

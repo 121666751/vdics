@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\Linux(广东)\mdlsrv
+2
+7
+8:mdlsrv.h|1|14efc63f1b7|302|baf90665|b9b8326c365a11e58c370002c9bb1e4c|0
+7:mdl.txt|1|14efc63f449|111|75733ac7|bd283288365a11e58c370002c9bb1e4c|0
+f:mdlsrv_main.cpp|1|14efc63f5b3|fc|71ed4e9d|c11832a4365a11e58c370002c9bb1e4c|0
+8:Makefile|1|14efc63f07f|3ac|8bfe157b|b6a83250365a11e58c370002c9bb1e4c|0
+d:mdlsrv_main.h|1|14efc63f6ac|79|ceb4277a|c5a832c0365a11e58c370002c9bb1e4c|0
+8:read.txt|1|14efc63f9df|27|da61919|cd9832f8365a11e58c370002c9bb1e4c|0
+a:mdlsrv.cpp|1|14efc63f873|a97|202e41c9|c99832dc365a11e58c370002c9bb1e4c|0

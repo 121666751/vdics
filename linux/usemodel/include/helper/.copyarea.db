@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\helper
+2
+5
+5:win32|2|0|0|0|2d584ca07cf711e384270002c9bb1e4c|0
+4:unix|2|0|0|0|9403cb04776011e38c120002c9bb1e4c|0
+5:linux|2|0|0|0|2ff84cc47cf711e384270002c9bb1e4c|0
+8:zdev.hpp|1|14b48575768|26f|a1bcbed6|838851587cf711e384270002c9bb1e4c|0
+3:sys|2|0|0|0|26084c407cf711e384270002c9bb1e4c|0

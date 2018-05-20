@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\iterator\detail\transform_view_iterator
+2
+3
+10:value_traits.hpp|1|14b485d9462|587|f506b087|6a2403a07cc211e3880a0002c9bb1e4c|0
+10:deref_traits.hpp|1|14b485d9462|728|727e3262|4ea402507cc211e3880a0002c9bb1e4c|0
+f:next_traits.hpp|1|14b485d9462|744|fed54269|8cc3d4287cbe11e3880a0002c9bb1e4c|0

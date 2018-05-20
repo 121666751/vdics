@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\sync\emulation
+2
+6
+1a:interprocess_condition.hpp|1|14b485f37f8|1fac|22819cc7|f48e3b88783311e38c3b0002c9bb1e4c|0
+1a:named_creation_functor.hpp|1|14b485f37f8|845|367d82a8|66fe6780783711e38c3b0002c9bb1e4c|0
+18:interprocess_barrier.hpp|1|14b485f37f8|4f1|d558832b|2efe57f8783611e38c3b0002c9bb1e4c|0
+1a:interprocess_semaphore.hpp|1|14b485f3808|798|300467b6|894e75d4783811e38c3b0002c9bb1e4c|0
+20:interprocess_recursive_mutex.hpp|1|14b485f3808|e7b|9cf49208|02ae6f0c783811e38c3b0002c9bb1e4c|0
+16:interprocess_mutex.hpp|1|14b485f3808|857|efb8b76|e77ec61c783e11e38c3b0002c9bb1e4c|0

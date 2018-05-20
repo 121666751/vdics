@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\wave\cpplexer
+2
+a
+1b:validate_universal_char.hpp|1|14b485a21c4|34ea|f03132f5|000abf307ceb11e3ac0b0002c9bb1e4c|0
+11:cpp_lex_token.hpp|1|14b485a21b4|2461|482798dc|abcabab47cea11e3ac0b0002c9bb1e4c|0
+15:convert_trigraphs.hpp|1|14b485a12e5|1139|11dc2da|d1baaf387ce911e3ac0b0002c9bb1e4c|0
+14:cpp_lex_iterator.hpp|1|14b485a21c4|21cb|27a55e46|0f9ac0107ceb11e3ac0b0002c9bb1e4c|0
+f:token_cache.hpp|1|14b485a21c4|96b|83afad7d|cc7abc587cea11e3ac0b0002c9bb1e4c|0
+17:cpplexer_exceptions.hpp|1|14b485a21d3|2fc0|5dc7c460|2c6ac1b47ceb11e3ac0b0002c9bb1e4c|0
+7:re2clex|2|0|0|0|3b9aa7287ce911e3ac0b0002c9bb1e4c|0
+19:detect_include_guards.hpp|1|14b485a12f5|1f38|e79cbf9|2b9ab4087cea11e3ac0b0002c9bb1e4c|0
+1f:cpp_lex_interface_generator.hpp|1|14b485a12e5|f35|517a09f|c3faae747ce911e3ac0b0002c9bb1e4c|0
+15:cpp_lex_interface.hpp|1|14b485a12f5|99e|b02cd167|7caab84c7cea11e3ac0b0002c9bb1e4c|0

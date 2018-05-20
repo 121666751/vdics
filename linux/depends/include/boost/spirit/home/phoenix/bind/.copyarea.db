@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\bind
+2
+5
+11:bind_function.hpp|1|14b485c777b|806|f6625609|2c7d1faa7cd011e3980e0002c9bb1e4c|0
+18:bind_member_variable.hpp|1|14b485c777b|d23|1a64b332|8b5d503a7cd311e3980e0002c9bb1e4c|0
+18:bind_function_object.hpp|1|14b485c777b|5c0|add6c194|d01d540e7cd311e3980e0002c9bb1e4c|0
+18:bind_member_function.hpp|1|14b485c777b|b73|f9126c37|a8bd436e7cd211e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|aa5cfc0a7ccd11e3980e0002c9bb1e4c|0

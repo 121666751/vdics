@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\control
+2
+7
+c:deduce_d.hpp|1|14b4863bb2e|3a6|c87be542|06bde3d0782d11e38c3b0002c9bb1e4c|0
+7:iif.hpp|1|14b4863bc09|54f|d9d855b7|f49e87c4783911e38c3b0002c9bb1e4c|0
+6:if.hpp|1|14b4863bb2e|3a8|293615fc|a87e2b3c783211e38c3b0002c9bb1e4c|0
+9:while.hpp|1|14b4863bc18|45d1|5c6f70d|338ec99c783f11e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|470dda40782c11e38c3b0002c9bb1e4c|0
+b:expr_if.hpp|1|14b4863bb2e|3da|b8332a3e|65de0200782f11e38c3b0002c9bb1e4c|0
+c:expr_iif.hpp|1|14b4863bc09|4e7|a2004040|e47e2e30783211e38c3b0002c9bb1e4c|0

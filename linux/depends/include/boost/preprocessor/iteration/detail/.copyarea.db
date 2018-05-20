@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\iteration\detail
+2
+7
+8:self.hpp|1|14b4863c4cf|356|b0eec9bd|65dea6b8783c11e38c3b0002c9bb1e4c|0
+4:iter|2|0|0|0|b43dd3a4782b11e38c3b0002c9bb1e4c|0
+a:finish.hpp|1|14b4863c4cf|e84|5681e084|321ea434783c11e38c3b0002c9bb1e4c|0
+a:rlocal.hpp|1|14b4863c4c0|45cd|7f05a3f3|e19e2148783111e38c3b0002c9bb1e4c|0
+9:local.hpp|1|14b4863c4c0|544d|bdf2293|03adfd4c782f11e38c3b0002c9bb1e4c|0
+9:start.hpp|1|14b4863c4c0|e84|ed37e328|220e17e0783111e38c3b0002c9bb1e4c|0
+6:bounds|2|0|0|0|cc1dd4b8782b11e38c3b0002c9bb1e4c|0

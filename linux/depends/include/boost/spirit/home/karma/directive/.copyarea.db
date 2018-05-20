@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\karma\directive
+2
+9
+1a:alignment_meta_grammar.hpp|1|14b485c97a9|1a96|294f9627|87ad5e3a7cd411e3980e0002c9bb1e4c|0
+15:case_meta_grammar.hpp|1|14b485c945e|1369|471ba49f|45cd5a827cd411e3980e0002c9bb1e4c|0
+1a:delimiter_meta_grammar.hpp|1|14b485c944f|c0d|40675d6c|f2ecffd67ccd11e3980e0002c9bb1e4c|0
+12:left_alignment.hpp|1|14b485c945e|2262|fae7d41f|defd467e7cd211e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|94ecfaf67ccd11e3980e0002c9bb1e4c|0
+13:right_alignment.hpp|1|14b485c945e|22b1|a06bee26|475d2f867cd111e3980e0002c9bb1e4c|0
+c:verbatim.hpp|1|14b485c945e|aae|342f1635|b52d52867cd311e3980e0002c9bb1e4c|0
+b:delimit.hpp|1|14b485c944f|122f|bd93c19|76ed072a7cce11e3980e0002c9bb1e4c|0
+14:center_alignment.hpp|1|14b485c945e|2280|185ed9d3|325d1ffe7cd011e3980e0002c9bb1e4c|0

@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\karma\nonterminal
+2
+7
+8:rule.hpp|1|14b485c84e4|186d|f931e559|6ecd23627cd011e3980e0002c9bb1e4c|0
+18:nonterminal_director.hpp|1|14b485c84f3|19a9|5bbdc39d|49bd3e127cd211e3980e0002c9bb1e4c|0
+f:nonterminal.hpp|1|14b485c84e4|1573|54c8fbc|3a0d206e7cd011e3980e0002c9bb1e4c|0
+b:grammar.hpp|1|14b485c8cfe|9e5|3a68fb81|bc5d612e7cd411e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c84e4|97d|dbdea888|241d10ca7ccf11e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|c0ecfd1e7ccd11e3980e0002c9bb1e4c|0
+f:grammar_fwd.hpp|1|14b485c84e4|369|bf56fc89|844d07ee7cce11e3980e0002c9bb1e4c|0

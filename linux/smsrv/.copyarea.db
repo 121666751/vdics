@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\smsrv
+2
+4
+8:main.cpp|1|14b48662051|247|60ea8d64|2ead098eb8c311e38c290002c9bb1e4c|0
+e:SendMultis.cpp|1|14b48662042|427d|be076d01|2f9d0996b8c311e38c290002c9bb1e4c|0
+8:Makefile|1|14b48662061|405|7812991|d81836cc7cf411e384270002c9bb1e4c|0
+c:SendMultis.h|1|14b48662051|399|3cb01c25|5b78303c7cf411e384270002c9bb1e4c|0

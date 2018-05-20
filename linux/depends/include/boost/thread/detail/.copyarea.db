@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\thread\detail
+2
+a
+8:move.hpp|1|14b485aae5b|537|d0507736|e3851bee7cdc11e3881d0002c9bb1e4c|0
+c:platform.hpp|1|14b485aae6b|a97|5781573c|3ba520a27cdd11e3881d0002c9bb1e4c|0
+15:thread_heap_alloc.hpp|1|14b485aae6b|28e|b1b5cfd6|0ef51e3a7cdd11e3881d0002c9bb1e4c|0
+d:tss_hooks.hpp|1|14b485aae5b|d3f|460c0702|a435186e7cdc11e3881d0002c9bb1e4c|0
+13:read_write_lock.hpp|1|14b485aae4c|7dd7|6ab123e7|72f515ea7cdc11e3881d0002c9bb1e4c|0
+8:lock.hpp|1|14b485aae6b|134e|52600c3d|43f521127cdd11e3881d0002c9bb1e4c|0
+a:thread.hpp|1|14b485aae5b|3de9|ebcfd686|990517e27cdc11e3881d0002c9bb1e4c|0
+d:singleton.hpp|1|14b485aae6b|4df|2fe853e|f0351c967cdc11e3881d0002c9bb1e4c|0
+e:force_cast.hpp|1|14b485aae4c|40d|e73b5240|56d5147e7cdc11e3881d0002c9bb1e4c|0
+a:config.hpp|1|14b485aae5b|c1a|97ab9e2d|74f516067cdc11e3881d0002c9bb1e4c|0

@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\detail\utility\chset
+2
+5
+9:chset.hpp|1|14b485aef14|129d|b1d66418|aff827447cf311e384270002c9bb1e4c|0
+d:range_run.ipp|1|14b485af3c5|194d|84f0112a|f61838387cf411e384270002c9bb1e4c|0
+d:range_run.hpp|1|14b485af3d5|cae|d045b212|947840a47cf511e384270002c9bb1e4c|0
+f:basic_chset.ipp|1|14b485aef14|2b21|c41dcfba|cfd8365c7cf411e384270002c9bb1e4c|0
+f:basic_chset.hpp|1|14b485af3d5|1419|f60e0edf|72283ee47cf511e384270002c9bb1e4c|0

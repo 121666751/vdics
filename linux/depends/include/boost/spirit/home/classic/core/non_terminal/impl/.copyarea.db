@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\core\non_terminal\impl
+2
+5
+b:subrule.ipp|1|14b485cd101|1a02|dbf83f67|c0a437347cc711e3880a0002c9bb1e4c|0
+b:grammar.ipp|1|14b485cd101|31fb|490d9e36|d79438687cc711e3880a0002c9bb1e4c|0
+a:static.hpp|1|14b485cd620|d26|b1c8d279|44243d707cc811e3880a0002c9bb1e4c|0
+8:rule.ipp|1|14b485cd610|4938|3b08550e|0bd43ab47cc811e3880a0002c9bb1e4c|0
+12:object_with_id.ipp|1|14b485cd101|17a5|5f6b46cd|eb5439647cc711e3880a0002c9bb1e4c|0

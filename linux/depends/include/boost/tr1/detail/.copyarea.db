@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\tr1\detail
+2
+4
+e:config_all.hpp|1|14b48595aca|1245|ef3564f|8b65173a7cdc11e3881d0002c9bb1e4c|0
+12:math_overloads.hpp|1|14b48595aca|697|bd07016c|660515427cdc11e3881d0002c9bb1e4c|0
+14:functor2iterator.hpp|1|14b48595ada|395|fef8217c|ec451c5e7cdc11e3881d0002c9bb1e4c|0
+a:config.hpp|1|14b48595ada|1304|d7ae8b82|27951f8a7cdd11e3881d0002c9bb1e4c|0

@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail\lexer\parser\tokeniser
+2
+4
+17:re_tokeniser_helper.hpp|1|14b485bdde9|3818|efa67945|96ed34027cd111e3980e0002c9bb1e4c|0
+d:num_token.hpp|1|14b485be6ed|175a|586c3b11|762d5d3e7cd411e3980e0002c9bb1e4c|0
+16:re_tokeniser_state.hpp|1|14b485bdde9|8e6|b7189368|571d5b7e7cd411e3980e0002c9bb1e4c|0
+10:re_tokeniser.hpp|1|14b485bdde9|4401|835d6356|349d2e6e7cd111e3980e0002c9bb1e4c|0

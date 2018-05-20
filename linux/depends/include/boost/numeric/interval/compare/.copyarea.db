@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric\interval\compare
+2
+6
+b:tribool.hpp|1|14b4865143c|1293|80dc1aa6|3e5e58bc783611e38c3b0002c9bb1e4c|0
+c:explicit.hpp|1|14b4865143c|18d4|cacd004b|558e66a0783711e38c3b0002c9bb1e4c|0
+c:possible.hpp|1|14b4865143c|dc8|56a5882b|eb2e5494783511e38c3b0002c9bb1e4c|0
+11:lexicographic.hpp|1|14b4865143c|f93|d5bd0a5a|b30e6b1c783711e38c3b0002c9bb1e4c|0
+b:certain.hpp|1|14b4865142c|dbe|7d938525|5cde1ab8783111e38c3b0002c9bb1e4c|0
+7:set.hpp|1|14b4865143c|aa7|8707875b|b43e1f18783111e38c3b0002c9bb1e4c|0

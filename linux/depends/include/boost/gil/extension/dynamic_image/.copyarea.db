@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\gil\extension\dynamic_image
+2
+a
+d:algorithm.hpp|1|14b486084b6|1f8d|151169ae|635df5a4782e11e38c3b0002c9bb1e4c|0
+13:apply_operation.hpp|1|14b48607461|90b|f0e1d10e|1a9de4cc782d11e38c3b0002c9bb1e4c|0
+12:any_image_view.hpp|1|14b486084d5|154e|5309c6f0|4b8ee28c784111e38c3b0002c9bb1e4c|0
+16:image_view_factory.hpp|1|14b486084c6|3218|b8e6cb9a|b33e2bc8783211e38c3b0002c9bb1e4c|0
+d:any_image.hpp|1|14b486084d5|1897|40f8d98f|596ed7f0784011e38c3b0002c9bb1e4c|0
+18:apply_operation_base.hpp|1|14b486084c6|1fce|7341c034|28de7104783811e38c3b0002c9bb1e4c|0
+15:dynamic_image_all.hpp|1|14b486084d5|47b|b1503e59|504ebe90783e11e38c3b0002c9bb1e4c|0
+a:reduce.hpp|1|14b486084c6|84d7|bc4d62e5|05ce3c68783411e38c3b0002c9bb1e4c|0
+b:variant.hpp|1|14b48607461|243c|e028def5|9b9dde58782c11e38c3b0002c9bb1e4c|0
+10:dynamic_at_c.hpp|1|14b486084c6|17fe|2fc77ee|89ddf79c782e11e38c3b0002c9bb1e4c|0

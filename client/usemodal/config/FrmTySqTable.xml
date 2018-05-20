@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<FormTypeSequenceTable>
+	<FormItem Index="0" VoucherName="未知凭证" SortID="00" BankType="02" />
+	<FormItem Index="1" VoucherName="支款凭条" SortID="00" BankType="08" />
+	<FormItem Index="2" VoucherName="贷记凭证" SortID="00" BankType="60" />
+	<FormItem Index="3" VoucherName="支票" SortID="00" BankType="02" />
+	<FormItem Index="4" VoucherName="汇票委托书" SortID="00" BankType="61" />
+	<FormItem Index="5" VoucherName="电汇凭证" SortID="00" BankType="62" />
+	<FormItem Index="6" VoucherName="信汇凭证" SortID="00" BankType="63" />
+</FormTypeSequenceTable>

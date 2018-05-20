@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\graph\planar_detail
+2
+5
+12:face_iterators.hpp|1|14b4864509c|2e06|41694d84|ec4e3b18783311e38c3b0002c9bb1e4c|0
+15:add_edge_visitors.hpp|1|14b4864582b|61c|7341d679|314ebd08783e11e38c3b0002c9bb1e4c|0
+f:bucket_sort.hpp|1|14b4864509c|fbd|2d8fbcd6|4b1ea568783c11e38c3b0002c9bb1e4c|0
+10:face_handles.hpp|1|14b4864508d|35bf|97b423de|2eadff60782f11e38c3b0002c9bb1e4c|0
+16:boyer_myrvold_impl.hpp|1|14b4864583b|127a0|174480b|466eee78784211e38c3b0002c9bb1e4c|0

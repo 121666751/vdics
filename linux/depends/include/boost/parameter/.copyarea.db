@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\parameter
+2
+b
+10:preprocessor.hpp|1|14b4863e184|a742|911103b4|3dde8b60783a11e38c3b0002c9bb1e4c|0
+8:name.hpp|1|14b4863e184|1906|ee6f1b69|e0eeacbc783c11e38c3b0002c9bb1e4c|0
+9:match.hpp|1|14b4863e200|875|a8f66075|64bef000784211e38c3b0002c9bb1e4c|0
+a:macros.hpp|1|14b4863d949|131b|991cabb5|5d3e8054783911e38c3b0002c9bb1e4c|0
+e:parameters.hpp|1|14b4863e193|6d46|f968dfda|282ebc98783e11e38c3b0002c9bb1e4c|0
+e:value_type.hpp|1|14b4863d949|c74|f4fdf52|26ee6454783711e38c3b0002c9bb1e4c|0
+b:keyword.hpp|1|14b4863e184|154d|8f5ca598|edcead64783c11e38c3b0002c9bb1e4c|0
+b:binding.hpp|1|14b4863d93a|c34|5d31c5fb|8ade42f8783411e38c3b0002c9bb1e4c|0
+4:aux_|2|0|0|0|cb2dd4ac782b11e38c3b0002c9bb1e4c|0
+a:config.hpp|1|14b4863d93a|1cc|4be58b86|453e5910783611e38c3b0002c9bb1e4c|0
+a:python.hpp|1|14b4863d949|4d73|aae969e5|43be65c0783711e38c3b0002c9bb1e4c|0

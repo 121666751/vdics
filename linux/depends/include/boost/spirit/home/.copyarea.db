@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home
+2
+c
+7:lex.hpp|1|14b485bc440|284|a39ccc9d|43d3d0707cbe11e3880a0002c9bb1e4c|0
+7:classic|2|0|0|0|0453c0e87cbd11e3880a0002c9bb1e4c|0
+7:phoenix|2|0|0|0|738cf95e7ccd11e3980e0002c9bb1e4c|0
+6:qi.hpp|1|14b485bc431|3c8|eb9b3397|3743c3187cbd11e3880a0002c9bb1e4c|0
+b:phoenix.hpp|1|14b485bc450|438|22905f1a|fd840a847cc211e3880a0002c9bb1e4c|0
+b:support.hpp|1|14b485bc440|530|4ef3bfe2|0bb3f38c7cc111e3880a0002c9bb1e4c|0
+b:classic.hpp|1|14b485bc450|56b|924dadea|ba23fb187cc111e3880a0002c9bb1e4c|0
+2:qi|2|0|0|0|7b4cf9be7ccd11e3980e0002c9bb1e4c|0
+9:karma.hpp|1|14b485bc440|39f|557f3267|8413d3b87cbe11e3880a0002c9bb1e4c|0
+7:support|2|0|0|0|70dcf93a7ccd11e3980e0002c9bb1e4c|0
+3:lex|2|0|0|0|bcecfcee7ccd11e3980e0002c9bb1e4c|0
+5:karma|2|0|0|0|637cf8927ccd11e3980e0002c9bb1e4c|0

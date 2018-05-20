@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\thread
+2
+11
+5:win32|2|0|0|0|36e512d27cdc11e3881d0002c9bb1e4c|0
+9:locks.hpp|1|14b485aae3c|9f60|6912086b|02451d927cdd11e3881d0002c9bb1e4c|0
+d:condition.hpp|1|14b485aaa65|19c|5d7482a3|b5e5196a7cdc11e3881d0002c9bb1e4c|0
+b:barrier.hpp|1|14b485aaa46|629|8e0fbdf2|4c9513f27cdc11e3881d0002c9bb1e4c|0
+9:xtime.hpp|1|14b485aaa75|954|1d10db01|e8551c267cdc11e3881d0002c9bb1e4c|0
+16:condition_variable.hpp|1|14b485aaa75|28f|ca3bd1e8|c5851a4a7cdc11e3881d0002c9bb1e4c|0
+7:tss.hpp|1|14b485aae3c|c41|82ca769c|336520327cdd11e3881d0002c9bb1e4c|0
+14:read_write_mutex.hpp|1|14b485aae3c|23d2|ff905fd0|1b651ee27cdd11e3881d0002c9bb1e4c|0
+7:pthread|2|0|0|0|33e512ae7cdc11e3881d0002c9bb1e4c|0
+a:thread.hpp|1|14b485aa9c9|290|9a44cfc5|3fc5134a7cdc11e3881d0002c9bb1e4c|0
+f:thread_time.hpp|1|14b485aaa65|543|b4f698ef|907517727cdc11e3881d0002c9bb1e4c|0
+10:shared_mutex.hpp|1|14b485aaa75|271|b530c779|c1b51a127cdc11e3881d0002c9bb1e4c|0
+9:mutex.hpp|1|14b485aa9d9|24e|2270bacb|488513ba7cdc11e3881d0002c9bb1e4c|0
+8:once.hpp|1|14b485aaa56|320|9f51fa71|5d6514d27cdc11e3881d0002c9bb1e4c|0
+13:recursive_mutex.hpp|1|14b485aaa65|280|f10cd9e|ba1519a27cdc11e3881d0002c9bb1e4c|0
+e:exceptions.hpp|1|14b485aaa56|ad9|d81d7184|7f2516927cdc11e3881d0002c9bb1e4c|0
+6:detail|2|0|0|0|34c512ba7cdc11e3881d0002c9bb1e4c|0

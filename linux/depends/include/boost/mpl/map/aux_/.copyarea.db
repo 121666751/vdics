@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\map\aux_
+2
+13
+f:insert_impl.hpp|1|14b4862fae9|722|7c3b0c1c|24ce6438783711e38c3b0002c9bb1e4c|0
+7:tag.hpp|1|14b48630120|298|cb84c2f5|02dedfb4784111e38c3b0002c9bb1e4c|0
+b:at_impl.hpp|1|14b4862fae9|e39|fbcf3d61|3bee0008782f11e38c3b0002c9bb1e4c|0
+10:has_key_impl.hpp|1|14b48630120|4da|afcb7358|d8cee954784111e38c3b0002c9bb1e4c|0
+18:include_preprocessed.hpp|1|14b4862fae9|6de|eff2069b|06fe2324783211e38c3b0002c9bb1e4c|0
+11:contains_impl.hpp|1|14b4862fae9|494|97165852|a5ce052c782f11e38c3b0002c9bb1e4c|0
+c:numbered.hpp|1|14b48630120|a73|91dffdee|82dee548784111e38c3b0002c9bb1e4c|0
+12:erase_key_impl.hpp|1|14b4862fae9|5ab|887ba5ac|11dde45c782d11e38c3b0002c9bb1e4c|0
+8:map0.hpp|1|14b48630101|91c|7179aa7d|b1aecfbc783f11e38c3b0002c9bb1e4c|0
+13:value_type_impl.hpp|1|14b4862fae9|3ae|62341bc4|751e74d8783811e38c3b0002c9bb1e4c|0
+d:size_impl.hpp|1|14b4862fae9|337|1929f457|97ae0484782f11e38c3b0002c9bb1e4c|0
+c:iterator.hpp|1|14b4862fae9|f28|2b3f8c18|1f1dfe9c782f11e38c3b0002c9bb1e4c|0
+e:erase_impl.hpp|1|14b48630101|42c|b20e3b62|35aed630784011e38c3b0002c9bb1e4c|0
+e:clear_impl.hpp|1|14b486300f2|395|3576125d|bf2e8524783911e38c3b0002c9bb1e4c|0
+e:empty_impl.hpp|1|14b48630101|36c|58aa06f8|35bec9b8783f11e38c3b0002c9bb1e4c|0
+8:item.hpp|1|14b4862fae9|ffb|3322fc20|5f3e8070783911e38c3b0002c9bb1e4c|0
+c:preprocessed|2|0|0|0|dc3dbf70776911e3a82a0002c9bb1e4c|0
+12:begin_end_impl.hpp|1|14b48630101|572|5446a48d|9b2ea958783c11e38c3b0002c9bb1e4c|0
+11:key_type_impl.hpp|1|14b4862fae9|3a1|45d71738|722e41c4783411e38c3b0002c9bb1e4c|0

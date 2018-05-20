@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\base_units
+2
+8
+b:temperature|2|0|0|0|5f8084167ce511e398210002c9bb1e4c|0
+2:si|2|0|0|0|6190842e7ce511e398210002c9bb1e4c|0
+3:cgs|2|0|0|0|607084227ce511e398210002c9bb1e4c|0
+5:angle|2|0|0|0|5c8083f27ce511e398210002c9bb1e4c|0
+2:us|2|0|0|0|5a9083da7ce511e398210002c9bb1e4c|0
+6:metric|2|0|0|0|585083c27ce511e398210002c9bb1e4c|0
+8:imperial|2|0|0|0|5b9083e67ce511e398210002c9bb1e4c|0
+c:astronomical|2|0|0|0|5e90840a7ce511e398210002c9bb1e4c|0

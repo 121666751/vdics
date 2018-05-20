@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\core
+2
+c
+d:reference.hpp|1|14b485c7e01|806|5ab5b94|58fd222e7cd011e3980e0002c9bb1e4c|0
+d:composite.hpp|1|14b485c7de1|bf7|f79b72f0|7aad07627cce11e3980e0002c9bb1e4c|0
+c:argument.hpp|1|14b485c7df1|c6b|e1708847|d65d1abe7ccf11e3980e0002c9bb1e4c|0
+c:is_actor.hpp|1|14b485c7e01|3e0|e729143e|569d30667cd111e3980e0002c9bb1e4c|0
+a:limits.hpp|1|14b485c7e01|4ab|cf95630a|ae6d35527cd111e3980e0002c9bb1e4c|0
+c:as_actor.hpp|1|14b485c7df1|664|3e8ee5e3|35cd11c67ccf11e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|619cf87a7ccd11e3980e0002c9bb1e4c|0
+15:basic_environment.hpp|1|14b485c7e01|9c9|f0bcd28a|dafd46467cd211e3980e0002c9bb1e4c|0
+b:compose.hpp|1|14b485c7df1|1098|dc67968f|5ecd14127ccf11e3980e0002c9bb1e4c|0
+9:value.hpp|1|14b485c7e01|f13|181e52dc|0b8d3a927cd211e3980e0002c9bb1e4c|0
+b:nothing.hpp|1|14b485c7e01|495|bed73a24|3bfd2ede7cd111e3980e0002c9bb1e4c|0
+9:actor.hpp|1|14b485c7df1|1565|d30640a3|9d3d095a7cce11e3980e0002c9bb1e4c|0

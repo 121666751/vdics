@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\collections
+2
+8
+1b:vsortedstringlinkedlist.hpp|1|14b4866f704|26ea|8e2ae8ad|60e3ebc87cc011e3880a0002c9bb1e4c|0
+d:vptrarray.hpp|1|14b4866f1f5|1d44|80458202|7f73c6d07cbd11e3880a0002c9bb1e4c|0
+19:vcommandparameterpair.hpp|1|14b4866f713|e58|d9b599a4|47240e047cc311e3880a0002c9bb1e4c|0
+1d:vunsortedstringlinkedlist.hpp|1|14b4866f704|768|b956756b|5d0402f87cc211e3880a0002c9bb1e4c|0
+19:vlinkedliststringitem.hpp|1|14b4866f1f5|6cd|50a93d25|e893cc107cbd11e3880a0002c9bb1e4c|0
+16:vlinkedlistmanager.hpp|1|14b4866f1f5|13fa|66710c78|7263d2d87cbe11e3880a0002c9bb1e4c|0
+1d:vcommandparameterpairlist.hpp|1|14b4866f1f5|187f|8f5501ff|73a3dfa47cbf11e3880a0002c9bb1e4c|0
+13:vlinkedlistitem.hpp|1|14b4866f713|705|edf25170|02b417887cc411e3880a0002c9bb1e4c|0

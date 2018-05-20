@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\algorithm\detail
+2
+4
+b:find_if.ipp|1|14b485d5687|ecf|53738ce8|df93e51c7cbf11e3880a0002c9bb1e4c|0
+7:any.ipp|1|14b485d5678|51e|fc58953f|45c3c3dc7cbd11e3880a0002c9bb1e4c|0
+c:for_each.ipp|1|14b485d5687|4da|4af7837a|bae413d07cc311e3880a0002c9bb1e4c|0
+8:fold.ipp|1|14b485d5687|a47|a3fb1b85|aa53eed87cc011e3880a0002c9bb1e4c|0

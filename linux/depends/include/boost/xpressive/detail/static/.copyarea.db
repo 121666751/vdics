@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\detail\static
+2
+b
+a:transforms|2|0|0|0|98e8260c7cf311e384270002c9bb1e4c|0
+b:compile.hpp|1|14b485af7bb|10ec|c12e39d9|b84842807cf511e384270002c9bb1e4c|0
+a:static.hpp|1|14b485af7bb|1ee9|f0d06fbf|4108499c7cf611e384270002c9bb1e4c|0
+10:transmogrify.hpp|1|14b485af3d5|20c3|52392b2a|03582ba47cf411e384270002c9bb1e4c|0
+b:is_pure.hpp|1|14b485af7ac|1ef3|710fd497|78183f387cf511e384270002c9bb1e4c|0
+b:grammar.hpp|1|14b485af3e4|337c|56b0b387|ac2834807cf411e384270002c9bb1e4c|0
+10:placeholders.hpp|1|14b485af3f4|ce4|f874b5d3|e2f837587cf411e384270002c9bb1e4c|0
+c:modifier.hpp|1|14b485af3f4|7b0|7a323e0b|5e683dcc7cf511e384270002c9bb1e4c|0
+f:type_traits.hpp|1|14b485af3e4|621|671bddcf|b07834b87cf411e384270002c9bb1e4c|0
+c:width_of.hpp|1|14b485af3f4|2532|51775ea|46083c7c7cf511e384270002c9bb1e4c|0
+b:visitor.hpp|1|14b485af7bb|112b|6d690010|8aa840347cf511e384270002c9bb1e4c|0

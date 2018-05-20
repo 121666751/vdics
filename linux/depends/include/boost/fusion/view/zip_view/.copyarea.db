@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\fusion\view\zip_view
+2
+4
+15:zip_view_iterator.hpp|1|14b4864a5fe|6f0|ae2b3c83|c62e52d4783511e38c3b0002c9bb1e4c|0
+c:zip_view.hpp|1|14b4864a5ee|10d5|aa304e31|76ae1c08783111e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|bd3dd410782b11e38c3b0002c9bb1e4c|0
+19:zip_view_iterator_fwd.hpp|1|14b4864a5fe|30d|57d4ebe9|04ee2308783211e38c3b0002c9bb1e4c|0

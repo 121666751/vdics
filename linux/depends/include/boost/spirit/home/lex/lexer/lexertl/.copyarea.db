@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\lex\lexer\lexertl
+2
+9
+11:lexertl_token.hpp|1|14b485d3afc|4b47|539de8ef|366d2e8a7cd111e3980e0002c9bb1e4c|0
+16:iterator_tokenizer.hpp|1|14b485d4a57|280e|fe41393e|7c0d327a7cd111e3980e0002c9bb1e4c|0
+13:lexertl_functor.hpp|1|14b485d4a67|3c17|6d9ca386|7fdd5dca7cd411e3980e0002c9bb1e4c|0
+f:wrap_action.hpp|1|14b485d497d|1417|bc65a33a|495d2fa27cd111e3980e0002c9bb1e4c|0
+1b:lexertl_generate_static.hpp|1|14b485d3afc|4bff|9a8dab79|f8fd1cb67ccf11e3980e0002c9bb1e4c|0
+1a:lexertl_static_functor.hpp|1|14b485d3afc|3ae5|70e07c2f|09dd2c067cd111e3980e0002c9bb1e4c|0
+14:lexertl_iterator.hpp|1|14b485d4a57|123e|d9c8a894|cbfd36f67cd111e3980e0002c9bb1e4c|0
+18:lexertl_static_lexer.hpp|1|14b485d3aec|31e0|2928662|d05d1a6a7ccf11e3980e0002c9bb1e4c|0
+11:lexertl_lexer.hpp|1|14b485d4a57|3a0f|605f736f|c0fd532e7cd311e3980e0002c9bb1e4c|0

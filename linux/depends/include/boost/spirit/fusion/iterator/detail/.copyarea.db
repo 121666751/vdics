@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\iterator\detail
+2
+a
+14:filter_view_iterator|2|0|0|0|2263c2207cbd11e3880a0002c9bb1e4c|0
+e:tuple_iterator|2|0|0|0|d6b3bef07cbc11e3880a0002c9bb1e4c|0
+11:iterator_base.hpp|1|14b485d8890|435|a80143d8|c323fb887cc111e3880a0002c9bb1e4c|0
+16:adapt_value_traits.hpp|1|14b485d8890|342|c921f883|1ca3e8487cc011e3880a0002c9bb1e4c|0
+16:type_sequence_iterator|2|0|0|0|26b3c2507cbd11e3880a0002c9bb1e4c|0
+13:joint_view_iterator|2|0|0|0|2483c2387cbd11e3880a0002c9bb1e4c|0
+14:single_view_iterator|2|0|0|0|f673c04c7cbc11e3880a0002c9bb1e4c|0
+d:cons_iterator|2|0|0|0|27d3c25c7cbd11e3880a0002c9bb1e4c|0
+16:adapt_deref_traits.hpp|1|14b485d8890|512|4e00852c|f473e6347cbf11e3880a0002c9bb1e4c|0
+17:transform_view_iterator|2|0|0|0|0a33c1247cbd11e3880a0002c9bb1e4c|0

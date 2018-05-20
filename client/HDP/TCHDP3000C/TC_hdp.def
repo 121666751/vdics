@@ -1,0 +1,20 @@
+LIBRARY	TCHDP3000C
+EXPORTS
+	InitMDL		
+	FreeMDL		
+	HDPOpen		
+	HDPClose	
+	HDPStart	
+	HDPStop		
+	HDPGetMicr
+	HDPGetOcr	
+	HDPSetPocket
+	HDPPurge	
+	HDPBaseSet
+	HDPAdSet
+	HDPEndorse	
+	HDPErrMsg
+	HDPdecBankPtr
+	HDPSaveImage
+	NewHDPGetOcr
+

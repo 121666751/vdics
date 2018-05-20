@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\base_units\astronomical
+2
+7
+e:light_hour.hpp|1|14b4859abd8|4e7|6349e52|fce08c7e7ce511e398210002c9bb1e4c|0
+10:light_second.hpp|1|14b4859abd8|400|2a5a4411|2d308f1e7ce611e398210002c9bb1e4c|0
+15:astronomical_unit.hpp|1|14b4859abc8|421|fe654fa5|e4508b2e7ce511e398210002c9bb1e4c|0
+a:parsec.hpp|1|14b4859abe7|3df|564f3808|b200961e7ce611e398210002c9bb1e4c|0
+e:light_year.hpp|1|14b4859abd8|4ea|a9809e75|5660914e7ce611e398210002c9bb1e4c|0
+d:light_day.hpp|1|14b4859abc8|4e2|fb7e9bee|8ee086b27ce511e398210002c9bb1e4c|0
+10:light_minute.hpp|1|14b4859abd8|4f1|be08a228|60a091da7ce611e398210002c9bb1e4c|0

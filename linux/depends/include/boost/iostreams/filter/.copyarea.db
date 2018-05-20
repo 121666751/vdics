@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\filter
+2
+b
+8:test.hpp|1|14b4865c861|23ef|c59736e|a01e1188783011e38c3b0002c9bb1e4c|0
+8:zlib.hpp|1|14b4865ced6|3981|93b1f473|825e5c20783611e38c3b0002c9bb1e4c|0
+8:line.hpp|1|14b4865c861|1c13|9d3f08f6|c63dfa90782e11e38c3b0002c9bb1e4c|0
+9:stdio.hpp|1|14b4865ced6|d0a|63012ddd|cc4e85cc783911e38c3b0002c9bb1e4c|0
+8:gzip.hpp|1|14b4865ce0c|4e38|6456692e|c3fe1348783011e38c3b0002c9bb1e4c|0
+b:counter.hpp|1|14b4865ced6|9df|5af717fe|9f9ea990783c11e38c3b0002c9bb1e4c|0
+b:newline.hpp|1|14b4865d51d|30d3|cf3aca|9eaef2d8784211e38c3b0002c9bb1e4c|0
+d:aggregate.hpp|1|14b4865cec7|1541|a74f3ed6|a2ae1e38783111e38c3b0002c9bb1e4c|0
+d:symmetric.hpp|1|14b4865cee6|2a76|499847a8|232eecd4784211e38c3b0002c9bb1e4c|0
+9:bzip2.hpp|1|14b4865ced6|3356|78a1e44e|8ccecde0783f11e38c3b0002c9bb1e4c|0
+9:regex.hpp|1|14b4865ced6|1088|8697d677|577e8cb0783a11e38c3b0002c9bb1e4c|0

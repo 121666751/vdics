@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\limits
+2
+6
+7:map.hpp|1|14b4863157b|279|d5dcb5e2|2aaed5a4784011e38c3b0002c9bb1e4c|0
+a:vector.hpp|1|14b4863158b|28b|fb7dbc00|b4bedbfc784011e38c3b0002c9bb1e4c|0
+8:list.hpp|1|14b4863157b|27f|cf72b836|dc5ec590783e11e38c3b0002c9bb1e4c|0
+9:arity.hpp|1|14b486314a1|294|8ccabe9b|09edfd84782f11e38c3b0002c9bb1e4c|0
+d:unrolling.hpp|1|14b4863158b|292|cf23be68|8f1ee5d4784111e38c3b0002c9bb1e4c|0
+7:set.hpp|1|14b4863157b|279|2e9db636|175e7024783811e38c3b0002c9bb1e4c|0

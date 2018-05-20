@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\streams
+2
+2
+10:vectorstream.hpp|1|14b485f0e39|59a3|35e188e2|f80e553c783511e38c3b0002c9bb1e4c|0
+10:bufferstream.hpp|1|14b485f0e39|3e8b|7984e390|119ec814783f11e38c3b0002c9bb1e4c|0

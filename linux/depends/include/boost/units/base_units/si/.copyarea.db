@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\base_units\si
+2
+7
+a:ampere.hpp|1|14b4859886f|4d7|f9f18d82|4c5090c27ce611e398210002c9bb1e4c|0
+c:kilogram.hpp|1|14b48598860|36b|c2ef1ac7|444090527ce611e398210002c9bb1e4c|0
+a:kelvin.hpp|1|14b48598860|4df|be4914a|424090367ce611e398210002c9bb1e4c|0
+8:mole.hpp|1|14b4859886f|4c9|e38888ce|4a3090a67ce611e398210002c9bb1e4c|0
+b:candela.hpp|1|14b48598860|4f5|41479945|c4f0898a7ce511e398210002c9bb1e4c|0
+a:second.hpp|1|14b4859886f|4d1|631f8b1b|b410963a7ce611e398210002c9bb1e4c|0
+9:meter.hpp|1|14b4859886f|4fd|e7909b06|4e6090de7ce611e398210002c9bb1e4c|0

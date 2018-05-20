@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\math\distributions\detail
+2
+5
+10:generic_mode.hpp|1|14b4865b79e|118b|38a47b5b|7bce5bcc783611e38c3b0002c9bb1e4c|0
+15:derived_accessors.hpp|1|14b4865b79e|184e|745a4dbe|735e3530783311e38c3b0002c9bb1e4c|0
+19:common_error_handling.hpp|1|14b4865b79e|125c|4b6ea0b0|4b9e3338783311e38c3b0002c9bb1e4c|0
+19:inv_discrete_quantile.hpp|1|14b4865b78f|363c|da7ca60d|ecede280782c11e38c3b0002c9bb1e4c|0
+14:generic_quantile.hpp|1|14b4865b7ae|cc9|f2ea275b|31ce7e24783911e38c3b0002c9bb1e4c|0

@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail
+2
+9
+11:what_function.hpp|1|14b485bce10|4a8|8c304c91|be1d36327cd111e3980e0002c9bb1e4c|0
+c:hold_any.hpp|1|14b485bce01|3880|be912bda|50dd134e7ccf11e3980e0002c9bb1e4c|0
+a:values.hpp|1|14b485bce20|fc8|c4ac8397|e3ad55267cd311e3980e0002c9bb1e4c|0
+7:integer|2|0|0|0|b50cfc8e7ccd11e3980e0002c9bb1e4c|0
+d:to_narrow.hpp|1|14b485bce20|7dd|ad77470a|c9ad61f27cd411e3980e0002c9bb1e4c|0
+d:container.hpp|1|14b485bce10|12ba|9ab32c23|d42d1aa27ccf11e3980e0002c9bb1e4c|0
+13:action_dispatch.hpp|1|14b485bce10|dc3|e4fb3ae2|e4dd46d27cd211e3980e0002c9bb1e4c|0
+5:lexer|2|0|0|0|802cf9fa7ccd11e3980e0002c9bb1e4c|0
+4:math|2|0|0|0|b0fcfc5e7ccd11e3980e0002c9bb1e4c|0

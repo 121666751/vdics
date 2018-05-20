@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\pending\detail
+2
+3
+11:disjoint_sets.hpp|1|14b485ebec1|8c2|63eb33f|5e5ed828784011e38c3b0002c9bb1e4c|0
+c:property.hpp|1|14b485ebeb2|171b|d9ba69c7|546e4d24783511e38c3b0002c9bb1e4c|0
+10:int_iterator.hpp|1|14b485ebec1|a0f|3fe7401b|f79eeac0784111e38c3b0002c9bb1e4c|0

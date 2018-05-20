@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\qi\auxiliary
+2
+8
+7:eps.hpp|1|14b485c16b5|9b5|2cfed437|e14cfeda7ccd11e3980e0002c9bb1e4c|0
+14:functor_director.hpp|1|14b485c1e62|775|58094d91|4ead4cd67cd311e3980e0002c9bb1e4c|0
+a:confix.hpp|1|14b485c1e53|1286|1d784c11|362d20367cd011e3980e0002c9bb1e4c|0
+e:primitives.hpp|1|14b485c1e34|15c7|a635e567|bc2d0afe7cce11e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c1e53|10f7|6fe4c041|d7ad379e7cd111e3980e0002c9bb1e4c|0
+b:functor.hpp|1|14b485c1e62|1dc8|7d3829a|159d49aa7cd311e3980e0002c9bb1e4c|0
+8:none.hpp|1|14b485c1e53|5f5|6fa3b9ce|ec4d47427cd211e3980e0002c9bb1e4c|0
+8:lazy.hpp|1|14b485c1e53|eaf|337f3d00|615d3f627cd211e3980e0002c9bb1e4c|0

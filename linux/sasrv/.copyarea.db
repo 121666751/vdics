@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\sasrv
+2
+4
+8:main.cpp|1|14b485873f1|255|8b4591c6|e43844cc7cf511e384270002c9bb1e4c|0
+11:SendAuthInput.cpp|1|14b485873f1|54e9|67c2eee0|0ca846fc7cf611e384270002c9bb1e4c|0
+8:Makefile|1|14b48587401|40f|975b2f4b|4e484a607cf611e384270002c9bb1e4c|0
+f:SendAuthInput.h|1|14b485873f1|3f3|ddd33981|b62842647cf511e384270002c9bb1e4c|0

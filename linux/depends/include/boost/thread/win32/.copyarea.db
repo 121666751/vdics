@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\thread\win32
+2
+b
+f:thread_data.hpp|1|14b485ab648|16a9|7e455606|f8451d067cdc11e3881d0002c9bb1e4c|0
+15:basic_timed_mutex.hpp|1|14b485ab648|1776|6bff1d8c|d7a51b467cdc11e3881d0002c9bb1e4c|0
+15:thread_heap_alloc.hpp|1|14b485aae7b|34d5|f79fffd5|7b45165a7cdc11e3881d0002c9bb1e4c|0
+15:thread_primitives.hpp|1|14b485ab638|31a5|db976c9f|b415194e7cdc11e3881d0002c9bb1e4c|0
+9:mutex.hpp|1|14b485ab657|5e6|70c8c360|00451d767cdd11e3881d0002c9bb1e4c|0
+10:shared_mutex.hpp|1|14b485ab638|4be8|fd54468c|8e9517567cdc11e3881d0002c9bb1e4c|0
+19:basic_recursive_mutex.hpp|1|14b485ab657|ed8|dad0654|2d551fde7cdd11e3881d0002c9bb1e4c|0
+8:once.hpp|1|14b485ab648|1187|d5b2288c|e1651bd27cdc11e3881d0002c9bb1e4c|0
+16:condition_variable.hpp|1|14b485ab657|3530|798e9d31|17151eaa7cdd11e3881d0002c9bb1e4c|0
+13:recursive_mutex.hpp|1|14b485aae6b|6df|c94a2a80|6ae5157a7cdc11e3881d0002c9bb1e4c|0
+14:interlocked_read.hpp|1|14b485ab648|7ea|d4f743e0|d1751af27cdc11e3881d0002c9bb1e4c|0

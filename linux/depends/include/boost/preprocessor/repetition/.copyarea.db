@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\repetition
+2
+11
+11:enum_trailing.hpp|1|14b4863a454|e45|b5f1f1a0|856580de78dc11e3b83b0002c9bb1e4c|0
+c:deduce_z.hpp|1|14b4863a444|3af|61a8e8e7|568ebee4783e11e38c3b0002c9bb1e4c|0
+17:enum_shifted_params.hpp|1|14b4863ad69|789|449b4a83|b5b5832a78dc11e3b83b0002c9bb1e4c|0
+18:enum_trailing_params.hpp|1|14b4863ad69|763|fd710130|b815834678dc11e3b83b0002c9bb1e4c|0
+1d:enum_params_with_defaults.hpp|1|14b4863a473|322|85f5f474|99f581da78dc11e3b83b0002c9bb1e4c|0
+a:repeat.hpp|1|14b4863a464|f0cb|763735b3|8db5814e78dc11e3b83b0002c9bb1e4c|0
+12:repeat_from_to.hpp|1|14b4863a483|14e1|75311736|adc582d678dc11e3b83b0002c9bb1e4c|0
+c:deduce_r.hpp|1|14b4863a464|3ab|7018e71c|8fd5816a78dc11e3b83b0002c9bb1e4c|0
+1f:enum_trailing_binary_params.hpp|1|14b4863a473|ba5|4c22357a|96f581be78dc11e3b83b0002c9bb1e4c|0
+16:enum_binary_params.hpp|1|14b4863a454|b1a|2b6b0f74|7b95806e78dc11e3b83b0002c9bb1e4c|0
+1e:enum_params_with_a_default.hpp|1|14b4863a444|372|d182107e|7985805278dc11e3b83b0002c9bb1e4c|0
+1e:enum_shifted_binary_params.hpp|1|14b4863ad59|bda|9727446c|b335830e78dc11e3b83b0002c9bb1e4c|0
+7:for.hpp|1|14b4863a473|41f6|34a9acef|a355824a78dc11e3b83b0002c9bb1e4c|0
+10:enum_shifted.hpp|1|14b4863a454|e78|85bf3b2f|876580fa78dc11e3b83b0002c9bb1e4c|0
+f:enum_params.hpp|1|14b4863a473|621|addfd684|9c3581f678dc11e3b83b0002c9bb1e4c|0
+6:detail|2|0|0|0|7615801e78dc11e3b83b0002c9bb1e4c|0
+8:enum.hpp|1|14b4863a464|c24|88a383b4|942581a278dc11e3b83b0002c9bb1e4c|0

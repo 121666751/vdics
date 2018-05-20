@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\gil\extension\io
+2
+a
+13:tiff_dynamic_io.hpp|1|14b48606795|13bb|e6ae7748|85ce4fa8783511e38c3b0002c9bb1e4c|0
+b:jpeg_io.hpp|1|14b48607451|2408|74d1e221|a81eb640783d11e38c3b0002c9bb1e4c|0
+12:png_dynamic_io.hpp|1|14b48607442|14ee|478ddc16|b11e77cc783811e38c3b0002c9bb1e4c|0
+a:png_io.hpp|1|14b48607451|274a|42d8e030|f06e7adc783811e38c3b0002c9bb1e4c|0
+13:jpeg_dynamic_io.hpp|1|14b48607442|1277|fd310a12|d3de537c783511e38c3b0002c9bb1e4c|0
+13:jpeg_io_private.hpp|1|14b48607461|25d0|c1a8984c|10feebf4784211e38c3b0002c9bb1e4c|0
+b:tiff_io.hpp|1|14b48607451|5b89|e9a11152|cfcee8e4784111e38c3b0002c9bb1e4c|0
+e:dynamic_io.hpp|1|14b48607451|ab3|44446f5f|1aae89a0783a11e38c3b0002c9bb1e4c|0
+c:io_error.hpp|1|14b48606785|61e|c9dcd1ac|58ae33e0783311e38c3b0002c9bb1e4c|0
+12:png_io_private.hpp|1|14b48606795|3e49|172b011e|b3fe3840783311e38c3b0002c9bb1e4c|0

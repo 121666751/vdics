@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\tr1\tr1\bcc32
+2
+6
+a:unordere.h|1|14b485955ac|1b7|65948710|f3b52cea7cde11e3881d0002c9bb1e4c|0
+7:array.h|1|14b485955ac|188|a6f377c5|a2a536527cdf11e3881d0002c9bb1e4c|0
+a:type_tra.h|1|14b485955ac|19a|8afa7e50|e205c4727d0711e384330002c9bb1e4c|0
+7:regex.h|1|14b485955ac|188|a4d477b9|3dc530da7cdf11e3881d0002c9bb1e4c|0
+8:random.h|1|14b4859559c|18b|103678ab|324522a27cde11e3881d0002c9bb1e4c|0
+7:tuple.h|1|14b4859559c|188|ae3777e6|d6352b627cde11e3881d0002c9bb1e4c|0

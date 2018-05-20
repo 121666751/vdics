@@ -1,0 +1,22 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iterator
+2
+12
+15:indirect_iterator.hpp|1|14b48605185|f57|a45aacf5|052eeb68784211e38c3b0002c9bb1e4c|0
+10:zip_iterator.hpp|1|14b48605156|4444|5c4b3f07|807e8ec4783a11e38c3b0002c9bb1e4c|0
+13:iterator_facade.hpp|1|14b48604ca5|759b|87e92ff4|31de18a4783111e38c3b0002c9bb1e4c|0
+14:reverse_iterator.hpp|1|14b48604c95|7cc|e1346e28|e64e0858782f11e38c3b0002c9bb1e4c|0
+18:is_readable_iterator.hpp|1|14b48604ca5|b15|ac2364c0|72de2880783211e38c3b0002c9bb1e4c|0
+13:iterator_traits.hpp|1|14b48604ca5|84e|877cb375|38ae18f8783111e38c3b0002c9bb1e4c|0
+16:transform_iterator.hpp|1|14b48604880|18e4|14eaf40e|ad1ddf38782c11e38c3b0002c9bb1e4c|0
+11:interoperable.hpp|1|14b48604cb5|5f5|5d3e183|e3be3aa8783311e38c3b0002c9bb1e4c|0
+15:counting_iterator.hpp|1|14b48604cb5|190e|a743cd1d|e48e5440783511e38c3b0002c9bb1e4c|0
+18:permutation_iterator.hpp|1|14b48605185|90a|12b90089|303eb090783d11e38c3b0002c9bb1e4c|0
+15:iterator_concepts.hpp|1|14b48605166|1f74|391968f2|91be8fa4783a11e38c3b0002c9bb1e4c|0
+16:new_iterator_tests.hpp|1|14b48604cb5|1da8|e36f2910|8e3e5cac783611e38c3b0002c9bb1e4c|0
+17:iterator_archetypes.hpp|1|14b48605176|4081|5e899f1e|25ce96f8783b11e38c3b0002c9bb1e4c|0
+13:filter_iterator.hpp|1|14b48604cb5|fa8|d16b113|b1fe847c783911e38c3b0002c9bb1e4c|0
+16:is_lvalue_iterator.hpp|1|14b48604cb5|ff1|ee05ed33|008e48e0783511e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|001dd704782c11e38c3b0002c9bb1e4c|0
+14:iterator_adaptor.hpp|1|14b48604cb5|2e5c|7b921673|1d9e5718783611e38c3b0002c9bb1e4c|0
+17:iterator_categories.hpp|1|14b48604cb5|1587|3cc0bb37|9d1e5d70783611e38c3b0002c9bb1e4c|0

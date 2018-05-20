@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\input_output
+2
+6
+12:vfilenamemutex.hpp|1|14b48671b75|115f|3ecb91a6|cd0421b47cc411e3880a0002c9bb1e4c|0
+13:vlinefilereader.hpp|1|14b48671b75|1b41|49d70b40|c6b421607cc411e3880a0002c9bb1e4c|0
+13:vtextfilereader.hpp|1|14b48671b66|ef3|dd58eb9e|7e63e0307cbf11e3880a0002c9bb1e4c|0
+17:vtextstreamencoding.hpp|1|14b48671b66|517f|581f6095|2a13cf3c7cbe11e3880a0002c9bb1e4c|0
+15:vbinaryfilereader.hpp|1|14b48671b75|fe5|2d9ee875|c523e3cc7cbf11e3880a0002c9bb1e4c|0
+16:vconfigurationfile.hpp|1|14b48671b75|16c8|2a26624f|27b40c607cc311e3880a0002c9bb1e4c|0

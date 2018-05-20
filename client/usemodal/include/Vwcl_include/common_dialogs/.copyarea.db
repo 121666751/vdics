@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\common_dialogs
+2
+8
+1a:vbrowseforfolderdialog.hpp|1|14b48670c29|198c|1f76e311|7c63e0147cbf11e3880a0002c9bb1e4c|0
+14:vpagesetupdialog.hpp|1|14b48670769|197a|43b4e55b|3d43d01c7cbe11e3880a0002c9bb1e4c|0
+f:vfiledialog.hpp|1|14b48670c39|378d|9d64d481|808410dc7cc311e3880a0002c9bb1e4c|0
+11:vcommondialog.hpp|1|14b48670759|6a2|22d71a70|99c3c8207cbd11e3880a0002c9bb1e4c|0
+10:vprintdialog.hpp|1|14b48670c49|1c6f|3a8ea7dd|41e41a987cc411e3880a0002c9bb1e4c|0
+f:vfontdialog.hpp|1|14b48670759|170b|3c6bf9ed|0193cd447cbe11e3880a0002c9bb1e4c|0
+10:vcolordialog.hpp|1|14b48670c39|10f1|dbea3b49|ea93f1e87cc011e3880a0002c9bb1e4c|0
+16:vfindreplacedialog.hpp|1|14b48670c39|21bd|64bc3d85|7554042c7cc211e3880a0002c9bb1e4c|0

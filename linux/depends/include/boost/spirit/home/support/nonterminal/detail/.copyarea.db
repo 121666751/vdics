@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\nonterminal\detail
+2
+2
+e:expand_arg.hpp|1|14b485bcdf1|88e|cfc6557e|441d3dbe7cd211e3980e0002c9bb1e4c|0
+15:nonterminal_fcall.hpp|1|14b485bc97e|7dd|25aa245e|f05d2a9a7cd011e3980e0002c9bb1e4c|0

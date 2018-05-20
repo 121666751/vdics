@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\sethosts
+2
+7
+8:main.cpp|1|14b48689fb8|103f|e1553e31|4dba64fc7bf511e3bc3a0002c9bb1e4c|0
+8:Makefile|1|14b4868a092|7b|8de1258d|5dfa65dc7bf511e3bc3a0002c9bb1e4c|0
+c:setHosts.res|1|14b48689fb8|788|49ed91a9|395a64007bf511e3bc3a0002c9bb1e4c|0
+6:main.h|1|14b48689fb8|905|f531f7cb|51ca65347bf511e3bc3a0002c9bb1e4c|0
+c:setHosts.cpp|1|14b48689fb8|1091|e82cd7ad|581a65887bf511e3bc3a0002c9bb1e4c|0
+8:main.dfm|1|14b4868a083|178b|d5df78bd|59fa65a47bf511e3bc3a0002c9bb1e4c|0
+c:setHosts.bpr|1|14b48689fa8|109b|45200cac|32ca63ac7bf511e3bc3a0002c9bb1e4c|0

@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\python\suite\indexing
+2
+5
+16:map_indexing_suite.hpp|1|14b485fbc36|1645|75396617|c533d7007cbe11e3880a0002c9bb1e4c|0
+19:vector_indexing_suite.hpp|1|14b485fbc46|1d80|89631732|f5d423e47cc411e3880a0002c9bb1e4c|0
+13:container_utils.hpp|1|14b485fbc46|6d5|1129e6c9|d0a3f0987cc011e3880a0002c9bb1e4c|0
+12:indexing_suite.hpp|1|14b485fbc46|27da|f1f9ff18|a79406b07cc211e3880a0002c9bb1e4c|0
+6:detail|2|0|0|0|3203c2d47cbd11e3880a0002c9bb1e4c|0

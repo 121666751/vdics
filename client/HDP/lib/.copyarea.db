@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\HDP\lib
+2
+4
+e:TCHDP3000C.lib|1|14b4867e8f4|12fc|d9d2901|79332abc78d911e38c320002c9bb1e4c|0
+10:TCHDP3000C_b.lib|1|14b4867e904|600|89b8f001|bec32e2078d911e38c320002c9bb1e4c|0
+12:distControllor.lib|1|14b4867eae7|103a|4312b847|c2c32e5878d911e38c320002c9bb1e4c|0
+14:distControllor_b.lib|1|14b4867e8f4|400|9d1ff501|ba932de878d911e38c320002c9bb1e4c|0

@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric\interval\ext
+2
+2
+1d:x86_fast_rounding_control.hpp|1|14b4865142c|b1a|3a0bbfe6|85cecd8c783f11e38c3b0002c9bb1e4c|0
+b:integer.hpp|1|14b4865142c|75f|f5cb6aa0|a24edb38784011e38c3b0002c9bb1e4c|0

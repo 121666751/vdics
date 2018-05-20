@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\qi\detail
+2
+9
+13:expect_function.hpp|1|14b485c3462|b1e|5bd11b16|0ddd1dea7cd011e3980e0002c9bb1e4c|0
+d:construct.hpp|1|14b485c3462|11b8|59900b14|66dd14827ccf11e3980e0002c9bb1e4c|0
+11:pass_function.hpp|1|14b485c3472|8ff|fe1ba2e3|e55d38627cd111e3980e0002c9bb1e4c|0
+14:permute_function.hpp|1|14b485c3472|b6b|1cdb2b88|6e8d40267cd211e3980e0002c9bb1e4c|0
+d:assign_to.hpp|1|14b485c3472|edd|7f78400c|823d413e7cd211e3980e0002c9bb1e4c|0
+11:construct_fwd.hpp|1|14b485c3472|c40|4d85ab43|c5fd36a27cd111e3980e0002c9bb1e4c|0
+18:alternative_function.hpp|1|14b485c3472|aca|cbc52c43|572d22127cd011e3980e0002c9bb1e4c|0
+10:string_parse.hpp|1|14b485c3462|b13|fcad300b|862d080a7cce11e3980e0002c9bb1e4c|0
+11:fail_function.hpp|1|14b485c3482|6e2|a1b606e1|c00d61667cd411e3980e0002c9bb1e4c|0

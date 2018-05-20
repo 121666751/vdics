@@ -1,0 +1,3 @@
+2002-11-21
+- prevent from overwrite first sort result.
+- change histquerydlg's position

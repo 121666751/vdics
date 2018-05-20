@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail\lexer\parser\tree
+2
+6
+8:node.hpp|1|14b485be6fd|1120|f65c1226|783d157e7ccf11e3980e0002c9bb1e4c|0
+12:iteration_node.hpp|1|14b485be6ed|868|fc0c6e8a|880d08267cce11e3980e0002c9bb1e4c|0
+c:end_node.hpp|1|14b485be6fd|6c3|3ac001c8|aaad18567ccf11e3980e0002c9bb1e4c|0
+d:leaf_node.hpp|1|14b485be70d|95a|3bb9bacc|b73d52a27cd311e3980e0002c9bb1e4c|0
+12:selection_node.hpp|1|14b485be70d|8a6|dab67d04|a9ed26aa7cd011e3980e0002c9bb1e4c|0
+11:sequence_node.hpp|1|14b485be70d|a57|80eceda4|492d4c827cd311e3980e0002c9bb1e4c|0

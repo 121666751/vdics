@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\smart_ptr\detail
+2
+5
+1a:sp_counted_base_atomic.hpp|1|14b485f3f87|969|cfafd9d0|972e2a5c783211e38c3b0002c9bb1e4c|0
+13:sp_counted_base.hpp|1|14b485f3f87|2d9|ea7cf95|cbbe3974783311e38c3b0002c9bb1e4c|0
+10:bad_weak_ptr.hpp|1|14b485f45be|52e|788891b7|c2ded09c783f11e38c3b0002c9bb1e4c|0
+13:sp_counted_impl.hpp|1|14b485f3f87|dcb|7315c82|4dedf48c782e11e38c3b0002c9bb1e4c|0
+10:shared_count.hpp|1|14b485f45ae|2ad3|b64651c9|b0de912c783a11e38c3b0002c9bb1e4c|0

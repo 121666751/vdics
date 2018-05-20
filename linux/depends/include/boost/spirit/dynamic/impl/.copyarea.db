@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\dynamic\impl
+2
+3
+a:switch.ipp|1|14b485dad30|50a5|3764b5e2|0e83cdec7cbe11e3880a0002c9bb1e4c|0
+e:conditions.ipp|1|14b485dad30|d74|ed87e107|7d53f8787cc111e3880a0002c9bb1e4c|0
+a:select.ipp|1|14b485dad40|f95|849dc1e2|b9a420b87cc411e3880a0002c9bb1e4c|0

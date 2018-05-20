@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\serialization\detail
+2
+5
+14:shared_count_132.hpp|1|14b48601050|33d3|a28652a7|2f04199c7cc411e3880a0002c9bb1e4c|0
+16:shared_ptr_nmt_132.hpp|1|14b48601040|f8f|3b3d6ebc|ee1416707cc311e3880a0002c9bb1e4c|0
+15:stack_constructor.hpp|1|14b48601031|86a|38178973|05a3da2c7cbf11e3880a0002c9bb1e4c|0
+c:get_data.hpp|1|14b48601040|556|f9e7ad11|7493f8087cc111e3880a0002c9bb1e4c|0
+12:shared_ptr_132.hpp|1|14b48601040|300b|f05fb833|49540e207cc311e3880a0002c9bb1e4c|0

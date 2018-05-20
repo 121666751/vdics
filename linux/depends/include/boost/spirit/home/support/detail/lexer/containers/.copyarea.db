@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail\lexer\containers
+2
+2
+c:ptr_list.hpp|1|14b485be71c|4a5|b6ad4cf0|52ed302e7cd111e3980e0002c9bb1e4c|0
+e:ptr_vector.hpp|1|14b485be72c|8b6|2cad70f6|fa9d39967cd111e3980e0002c9bb1e4c|0

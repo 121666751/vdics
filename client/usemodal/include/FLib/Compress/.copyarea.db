@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\FLib\Compress
+2
+4
+5:Rle.h|1|14b486686b3|1c32|58de1a3c|439cb5f47c4411e390000002c9bb1e4c|0
+5:Lzw.h|1|14b486686a3|25d8|7ec83791|ff6cb2047c4311e390000002c9bb1e4c|0
+6:文档.txt|1|14b486686a3|230|7aa26fb2|e70cb0987c4311e390000002c9bb1e4c|0
+9:Huffman.h|1|14b486686a3|11dc|ab493ec|2c8cb4a47c4411e390000002c9bb1e4c|0

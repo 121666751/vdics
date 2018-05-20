@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive
+2
+13
+d:sub_match.hpp|1|14b485ac065|2cc8|fb509332|37e82e607cf411e384270002c9bb1e4c|0
+d:xpressive.hpp|1|14b485abc12|2d4|bd9fddf4|0b082c147cf411e384270002c9bb1e4c|0
+14:xpressive_static.hpp|1|14b485ac075|463|def5697b|53782fcc7cf411e384270002c9bb1e4c|0
+18:regex_token_iterator.hpp|1|14b485ac66e|3195|4c13d81f|307848bc7cf611e384270002c9bb1e4c|0
+14:regex_primitives.hpp|1|14b485ac065|8cfc|c3d4af31|26e82d807cf411e384270002c9bb1e4c|0
+6:traits|2|0|0|0|8e7825887cf311e384270002c9bb1e4c|0
+11:match_results.hpp|1|14b485abc12|b354|49cdf459|09182bf87cf411e384270002c9bb1e4c|0
+14:xpressive_typeof.hpp|1|14b485ac66e|23c2|1fd4bf30|46a849f07cf611e384270002c9bb1e4c|0
+12:regex_compiler.hpp|1|14b485ac094|6d07|ac3e8aa7|143847507cf611e384270002c9bb1e4c|0
+13:regex_constants.hpp|1|14b485ac075|42e3|9e8f8390|74283f007cf511e384270002c9bb1e4c|0
+14:regex_algorithms.hpp|1|14b485ac085|7f3d|3a482038|80783fa87cf511e384270002c9bb1e4c|0
+11:xpressive_fwd.hpp|1|14b485ac085|1b2c|7853e6a|f1f845907cf511e384270002c9bb1e4c|0
+15:xpressive_dynamic.hpp|1|14b485abc12|3ba|114e3307|15582ca07cf411e384270002c9bb1e4c|0
+11:regex_actions.hpp|1|14b485ac085|657b|799eabe|c0a842f07cf511e384270002c9bb1e4c|0
+10:regex_traits.hpp|1|14b485ac075|c39|d978a668|659830c87cf411e384270002c9bb1e4c|0
+6:detail|2|0|0|0|a0b8266c7cf311e384270002c9bb1e4c|0
+f:basic_regex.hpp|1|14b485ac67d|2e9a|db8fbd9f|55c84ad07cf611e384270002c9bb1e4c|0
+f:regex_error.hpp|1|14b485ac075|d3a|93bf838d|598830207cf411e384270002c9bb1e4c|0
+12:regex_iterator.hpp|1|14b485ac085|238f|f6fdb7b6|fde846387cf511e384270002c9bb1e4c|0

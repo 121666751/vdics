@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interfaces\detail\preprocessor
+2
+c
+12:mangle_fn_name.hpp|1|14b48602f93|2b6|36dbd3d9|f40e0900782f11e38c3b0002c9bb1e4c|0
+e:param_type.hpp|1|14b48602fa3|3d8|d49526ba|e3fe60f0783611e38c3b0002c9bb1e4c|0
+f:member_data.hpp|1|14b48602f84|1e7|ad10961f|404e0040782f11e38c3b0002c9bb1e4c|0
+e:param_name.hpp|1|14b48602f93|4a8|33b86010|97ae1dac783111e38c3b0002c9bb1e4c|0
+f:fn_arg_list.hpp|1|14b48602fa3|408|dd8a391e|cb8e9f10783b11e38c3b0002c9bb1e4c|0
+10:move_support.hpp|1|14b48602fa3|3f3|592131b6|480e65f8783711e38c3b0002c9bb1e4c|0
+15:smart_ptr_support.hpp|1|14b48602f84|8f7|c5729e1f|a6adebe8782d11e38c3b0002c9bb1e4c|0
+11:template_decl.hpp|1|14b48602fa3|483|5ca966e7|c3fe52b8783511e38c3b0002c9bb1e4c|0
+15:befriend_template.hpp|1|14b48602fb2|458|6514538b|565ea5f4783c11e38c3b0002c9bb1e4c|0
+15:interface_support.hpp|1|14b48602fa3|15e9|f95662ed|2c7e974c783b11e38c3b0002c9bb1e4c|0
+13:param_name_list.hpp|1|14b48602fa3|ff7|a8b79a70|f60e6e64783711e38c3b0002c9bb1e4c|0
+11:template_args.hpp|1|14b48602f93|45a|5c7b56c8|199e30b4783311e38c3b0002c9bb1e4c|0

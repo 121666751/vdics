@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\integer
+2
+3
+10:integer_mask.hpp|1|14b48631c8d|bc1|889f7b27|67ee021c782f11e38c3b0002c9bb1e4c|0
+f:static_log2.hpp|1|14b48631c8d|ea6|5eee19dc|502ea5a0783c11e38c3b0002c9bb1e4c|0
+12:static_min_max.hpp|1|14b48631c9c|5e7|c47fccb2|862ef1a4784211e38c3b0002c9bb1e4c|0

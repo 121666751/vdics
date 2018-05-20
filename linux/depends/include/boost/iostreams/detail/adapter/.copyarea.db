@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\detail\adapter
+2
+9
+18:non_blocking_adapter.hpp|1|14b4865e6aa|85c|ebc788e6|629e99ec783b11e38c3b0002c9bb1e4c|0
+1b:output_iterator_adapter.hpp|1|14b4865e6ba|5c7|ee1dca56|6ddeb368783d11e38c3b0002c9bb1e4c|0
+13:concept_adapter.hpp|1|14b4865e6aa|2790|70484990|07de7c10783911e38c3b0002c9bb1e4c|0
+12:filter_adapter.hpp|1|14b4865e6ba|889|ddb6ac5e|afeedbc4784011e38c3b0002c9bb1e4c|0
+12:device_adapter.hpp|1|14b4865e69b|7fd|272d7cd3|f99df02c782d11e38c3b0002c9bb1e4c|0
+12:direct_adapter.hpp|1|14b4865e6aa|247e|c1754691|516e8c5c783a11e38c3b0002c9bb1e4c|0
+10:mode_adapter.hpp|1|14b4865e6ba|117a|f5ac725a|92bec1f4783e11e38c3b0002c9bb1e4c|0
+11:basic_adapter.hpp|1|14b4865e69b|862|4002a331|81adea0c782d11e38c3b0002c9bb1e4c|0
+11:range_adapter.hpp|1|14b4865e6aa|1914|f4db80b9|1d8e0b14783011e38c3b0002c9bb1e4c|0

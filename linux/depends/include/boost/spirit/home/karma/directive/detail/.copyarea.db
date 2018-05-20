@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\karma\directive\detail
+2
+3
+1b:left_alignment_generate.hpp|1|14b485c97b8|afa|7a135707|62cd22ba7cd011e3980e0002c9bb1e4c|0
+1d:center_alignment_generate.hpp|1|14b485c97a9|d1e|7e07f4f4|cd6d0bfa7cce11e3980e0002c9bb1e4c|0
+1c:right_alignment_generate.hpp|1|14b485c97c8|c29|5861adc7|879d50027cd311e3980e0002c9bb1e4c|0

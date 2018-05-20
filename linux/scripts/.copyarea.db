@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\scripts
+2
+5
+b:gsipdump.sh|1|14b4865f08a|238|92dfa82e|1d1847c07cf611e384270002c9bb1e4c|0
+a:baklogs.sh|1|14b4865f07a|64d|6433e225|3fb82ed07cf411e384270002c9bb1e4c|0
+a:trunlog.sh|1|14b4865f07a|3e2|e19923d2|a3c834107cf411e384270002c9bb1e4c|0
+a:monitor.sh|1|14b4865f07a|67|26721f31|43b82f087cf411e384270002c9bb1e4c|0
+a:readme.txt|1|14b4865f08a|69|1af4375d|1f083a687cf511e384270002c9bb1e4c|0

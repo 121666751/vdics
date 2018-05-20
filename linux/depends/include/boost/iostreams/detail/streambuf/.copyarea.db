@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\detail\streambuf
+2
+4
+14:direct_streambuf.hpp|1|14b4865e5c0|27eb|31a90fea|987e5088783511e38c3b0002c9bb1e4c|0
+c:chainbuf.hpp|1|14b4865e69b|1353|89cadee7|a60e90a0783a11e38c3b0002c9bb1e4c|0
+16:indirect_streambuf.hpp|1|14b4865e5c0|3b52|3b56ec8d|dd5e609c783611e38c3b0002c9bb1e4c|0
+14:linked_streambuf.hpp|1|14b4865e69b|fe8|b3c6e419|f40e6e48783711e38c3b0002c9bb1e4c|0

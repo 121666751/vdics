@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="GBK" ?>
+<contracTemplate>
+    <contrac codeType="3 ">
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>test</contracName>
+            <orgCode>315999</orgCode>
+            <height>10</height>
+            <imageId>20110302_01_01076989_00001</imageId>
+            <codeType>3</codeType>
+            <width>2</width>
+            <subContrac>
+                <page page="1">
+                    <contractId>126</contractId>
+                    <codeValue>Z111111</codeValue>
+                    <subName>11111</subName>
+                    <isTemplete>1</isTemplete>
+                    <isFirst>1</isFirst>
+                </page>
+            </subContrac>
+        </contracPage>
+    </contrac>
+    <contrac codeType="4 ">
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>test22</contracName>
+            <orgCode>315999</orgCode>
+            <height>3</height>
+            <imageId>20110215_01_01058225_00001</imageId>
+            <codeType>4</codeType>
+            <width>3</width>
+        </contracPage>
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>sadf</contracName>
+            <orgCode>315999</orgCode>
+            <height>2</height>
+            <imageId>20110211_01_01056624_00001</imageId>
+            <codeType>4</codeType>
+            <width>22</width>
+        </contracPage>
+    </contrac>
+    <contrac codeType="2 ">
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>详细信息</contracName>
+            <orgCode>315999</orgCode>
+            <height>2</height>
+            <imageId>20110215_01_01058227_00001</imageId>
+            <codeType>2</codeType>
+            <width>3</width>
+        </contracPage>
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>资料模板</contracName>
+            <orgCode>315999</orgCode>
+            <height>5</height>
+            <imageId>20110108_01_01053889_00001</imageId>
+            <codeType>2</codeType>
+            <width>22</width>
+        </contracPage>
+        <contracPage>
+            <appSystemCode>011</appSystemCode>
+            <contracName>Filename</contracName>
+            <orgCode>315999</orgCode>
+            <height>200</height>
+            <codeType>2</codeType>
+            <width>200</width>
+        </contracPage>
+    </contrac>
+</contracTemplate>

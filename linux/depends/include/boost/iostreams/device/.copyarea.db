@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\device
+2
+6
+8:file.hpp|1|14b4865d53d|17a8|287198b|819ec114783e11e38c3b0002c9bb1e4c|0
+9:array.hpp|1|14b4865d52d|147d|33d952e8|770e28b8783211e38c3b0002c9bb1e4c|0
+13:file_descriptor.hpp|1|14b4865d53d|1ab6|b844e865|e19ed224783f11e38c3b0002c9bb1e4c|0
+8:null.hpp|1|14b4865d53d|898|19d5be6e|b9ae6b70783711e38c3b0002c9bb1e4c|0
+11:back_inserter.hpp|1|14b4865d53d|543|8dfeaf04|dede9378783a11e38c3b0002c9bb1e4c|0
+f:mapped_file.hpp|1|14b4865d52d|290b|19aa5bdb|d1fe39c8783311e38c3b0002c9bb1e4c|0

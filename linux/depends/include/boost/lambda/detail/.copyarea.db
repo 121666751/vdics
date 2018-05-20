@@ -1,0 +1,24 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\lambda\detail
+2
+14
+1b:control_structures_impl.hpp|1|14b485fe7aa|4034|76fe57c6|998e1dc8783111e38c3b0002c9bb1e4c|0
+e:arity_code.hpp|1|14b485fee10|b6f|19848064|d40e9f80783b11e38c3b0002c9bb1e4c|0
+b:actions.hpp|1|14b485fee20|1686|5505d4d3|28feb03c783d11e38c3b0002c9bb1e4c|0
+11:lambda_config.hpp|1|14b485fdef3|4a1|93db4298|289df294782e11e38c3b0002c9bb1e4c|0
+7:ret.hpp|1|14b485fe7aa|29d7|1f979e07|87fe2998783211e38c3b0002c9bb1e4c|0
+13:lambda_functors.hpp|1|14b485fe7c9|21f1|d287d5c|bc2e7858783811e38c3b0002c9bb1e4c|0
+1f:operator_return_type_traits.hpp|1|14b485fee01|74d6|98ae301f|334e97a0783b11e38c3b0002c9bb1e4c|0
+12:is_instance_of.hpp|1|14b485fe7ba|1194|387289e8|ba5e5edc783611e38c3b0002c9bb1e4c|0
+e:lambda_fwd.hpp|1|14b485fe7c9|73d|20e2056|9cce9030783a11e38c3b0002c9bb1e4c|0
+1d:control_constructs_common.hpp|1|14b485fdef3|538|118b9f5e|63ae01e4782f11e38c3b0002c9bb1e4c|0
+17:lambda_functor_base.hpp|1|14b485fe7c9|56ab|72952c1f|2cee7dec783911e38c3b0002c9bb1e4c|0
+14:select_functions.hpp|1|14b485fee20|9c6|a1e601e2|65aebfa8783e11e38c3b0002c9bb1e4c|0
+1d:operator_lambda_func_base.hpp|1|14b485fe7ba|2c52|55467991|bace2c1c783211e38c3b0002c9bb1e4c|0
+11:lambda_traits.hpp|1|14b485fe7aa|36fc|59699d68|4f0e1a10783111e38c3b0002c9bb1e4c|0
+14:operator_actions.hpp|1|14b485fee20|fae|a8bc1186|af7ee75c784111e38c3b0002c9bb1e4c|0
+12:bind_functions.hpp|1|14b485fee20|e47f|8ca17d12|0deebb48783e11e38c3b0002c9bb1e4c|0
+d:operators.hpp|1|14b485fee10|46c7|afd77a11|df2ea00c783b11e38c3b0002c9bb1e4c|0
+16:return_type_traits.hpp|1|14b485fe7ba|2699|37c5a985|ac5e7794783811e38c3b0002c9bb1e4c|0
+e:member_ptr.hpp|1|14b485fe7ba|69d6|4fd640b4|808e35d8783311e38c3b0002c9bb1e4c|0
+15:function_adaptors.hpp|1|14b485fdef3|6833|5e2bdc78|985df860782e11e38c3b0002c9bb1e4c|0

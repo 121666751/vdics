@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\utility
+2
+b
+e:value_init.hpp|1|14b485a35f0|eb8|e977a0de|aa6aad087ce911e3ac0b0002c9bb1e4c|0
+d:addressof.hpp|1|14b485a360f|5e0|dd98c869|03eabf687ceb11e3ac0b0002c9bb1e4c|0
+14:compare_pointees.hpp|1|14b485a35ff|8b7|7db1da06|d38aaf547ce911e3ac0b0002c9bb1e4c|0
+14:in_place_factory.hpp|1|14b485a2bd2|931|402dc569|768aaa4c7ce911e3ac0b0002c9bb1e4c|0
+8:swap.hpp|1|14b485a35ff|670|b021340|7e9ab8687cea11e3ac0b0002c9bb1e4c|0
+d:enable_if.hpp|1|14b485a35f0|c95|412b1ad4|b29aad787ce911e3ac0b0002c9bb1e4c|0
+d:result_of.hpp|1|14b485a360f|86f|b80cc53b|134ac0487ceb11e3ac0b0002c9bb1e4c|0
+14:base_from_member.hpp|1|14b485a360f|bf2|be32a26c|d8cabd007cea11e3ac0b0002c9bb1e4c|0
+6:detail|2|0|0|0|48aaa7c47ce911e3ac0b0002c9bb1e4c|0
+a:binary.hpp|1|14b485a360f|bdc0|71e80757|d10abc907cea11e3ac0b0002c9bb1e4c|0
+1a:typed_in_place_factory.hpp|1|14b485a35f0|8a8|1695a50d|b48aad947ce911e3ac0b0002c9bb1e4c|0

@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\type_traits\msvc
+2
+9
+13:remove_volatile.hpp|1|14b485aa1ce|1769|6c5cb92d|41c531127cdf11e3881d0002c9bb1e4c|0
+d:remove_cv.hpp|1|14b485aa1ae|1f09|97e1d1c7|7fc526ca7cde11e3881d0002c9bb1e4c|0
+a:typeof.hpp|1|14b485aa1ae|584|688c9289|4ff524467cde11e3881d0002c9bb1e4c|0
+16:remove_all_extents.hpp|1|14b485aa1fc|6c9|17500a87|0935c6867d0811e384330002c9bb1e4c|0
+10:remove_const.hpp|1|14b485aa1ed|1711|64659e59|ed85c51a7d0711e384330002c9bb1e4c|0
+14:remove_reference.hpp|1|14b485aa1ce|630|40f0d78b|19a52efe7cdf11e3881d0002c9bb1e4c|0
+11:remove_bounds.hpp|1|14b485aa1be|610|4560ca9c|cdd52af27cde11e3881d0002c9bb1e4c|0
+11:remove_extent.hpp|1|14b485aa1dd|610|5a2ccb04|83f534ae7cdf11e3881d0002c9bb1e4c|0
+12:remove_pointer.hpp|1|14b485aa1ce|606|b8a3cc6a|598532627cdf11e3881d0002c9bb1e4c|0

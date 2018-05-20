@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\pvsrv
+2
+6
+c:vouchers.cpp|1|14b4858797d|6bdb|6dc49349|be5d0966b8c211e38c290002c9bb1e4c|0
+11:vouchers_main.cpp|1|14b4858797d|288|43d9d253|d5cd0972b8c211e38c290002c9bb1e4c|0
+8:Makefile|1|14b4858797d|4e0|e2827089|db3d097eb8c211e38c290002c9bb1e4c|0
+9:create.sh|1|14b485874bc|5d|5c6d1e1b|51982fb07cf411e384270002c9bb1e4c|0
+a:vouchers.h|1|14b485874ac|be7|45fabaa5|dce829ac7cf311e384270002c9bb1e4c|0
+f:vouchers_main.h|1|14b4858798c|79|ceb4277a|e26844b07cf511e384270002c9bb1e4c|0

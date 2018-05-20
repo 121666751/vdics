@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\math
+2
+11
+b:complex.hpp|1|14b48652d29|3eb|cfb139d5|895e3648783311e38c3b0002c9bb1e4c|0
+11:distributions.hpp|1|14b48652d19|76e|1c8ba0d2|331dff98782f11e38c3b0002c9bb1e4c|0
+14:common_factor_rt.hpp|1|14b48652d19|35be|1f873252|ab6e0564782f11e38c3b0002c9bb1e4c|0
+11:special_functions|2|0|0|0|f52dd698782b11e38c3b0002c9bb1e4c|0
+5:tools|2|0|0|0|13ddd7e8782c11e38c3b0002c9bb1e4c|0
+15:special_functions.hpp|1|14b48652d19|acc|731ed97b|e02deedc782d11e38c3b0002c9bb1e4c|0
+11:common_factor.hpp|1|14b48652d29|248|a496b482|c26e067c782f11e38c3b0002c9bb1e4c|0
+e:quaternion.hpp|1|14b48652d29|16d5f|78dd2aa6|2e1e8a9c783a11e38c3b0002c9bb1e4c|0
+8:policies|2|0|0|0|d6fdd53c782b11e38c3b0002c9bb1e4c|0
+d:distributions|2|0|0|0|e35dd5cc782b11e38c3b0002c9bb1e4c|0
+8:concepts|2|0|0|0|1badd848782c11e38c3b0002c9bb1e4c|0
+9:constants|2|0|0|0|4d3dda88782c11e38c3b0002c9bb1e4c|0
+14:common_factor_ct.hpp|1|14b486534b7|1548|287f2dcc|aa6edb8c784011e38c3b0002c9bb1e4c|0
+8:bindings|2|0|0|0|44edda28782c11e38c3b0002c9bb1e4c|0
+7:tr1.hpp|1|14b48652d19|d662|449fa6a8|4e2de76c782d11e38c3b0002c9bb1e4c|0
+7:complex|2|0|0|0|db7dd56c782b11e38c3b0002c9bb1e4c|0
+c:octonion.hpp|1|14b486534a8|44817|2f7f77b3|242ed550784011e38c3b0002c9bb1e4c|0

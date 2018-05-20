@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\core
+2
+c
+a:assert.hpp|1|14b485cbab3|6a6|17f1d406|06c43a7c7cc811e3880a0002c9bb1e4c|0
+7:scanner|2|0|0|0|8ef434cc7cc711e3880a0002c9bb1e4c|0
+9:composite|2|0|0|0|920434f07cc711e3880a0002c9bb1e4c|0
+d:safe_bool.hpp|1|14b485cbac3|6fe|25fa007c|57243e6c7cc811e3880a0002c9bb1e4c|0
+9:match.hpp|1|14b485cbab3|1875|a4fc7d3|f46439b87cc711e3880a0002c9bb1e4c|0
+a:parser.hpp|1|14b485cbab3|21b5|9ed98073|f9d439f07cc711e3880a0002c9bb1e4c|0
+c:non_terminal|2|0|0|0|8b8434a87cc711e3880a0002c9bb1e4c|0
+a:typeof.hpp|1|14b485cbaa4|3ae2|1651c489|aa74361c7cc711e3880a0002c9bb1e4c|0
+a:primitives|2|0|0|0|9a7435507cc711e3880a0002c9bb1e4c|0
+4:impl|2|0|0|0|965435207cc711e3880a0002c9bb1e4c|0
+a:config.hpp|1|14b485cbab3|c81|478e279|d99438847cc711e3880a0002c9bb1e4c|0
+7:nil.hpp|1|14b485cb334|2a7|3095c524|9f7435907cc711e3880a0002c9bb1e4c|0

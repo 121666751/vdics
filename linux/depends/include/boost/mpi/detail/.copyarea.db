@@ -1,0 +1,24 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpi\detail
+2
+14
+15:packed_oprimitive.hpp|1|14b48634f70|c27|15b6b184|917e434c783411e38c3b0002c9bb1e4c|0
+10:broadcast_sc.hpp|1|14b48634f60|4a5|36f8351|de0deec0782d11e38c3b0002c9bb1e4c|0
+13:communicator_sc.hpp|1|14b48634f8f|a74|120c6663|d9ae6cf8783711e38c3b0002c9bb1e4c|0
+15:ignore_iprimitive.hpp|1|14b48634f60|661|4bd5067f|282de574782d11e38c3b0002c9bb1e4c|0
+1d:forward_skeleton_oarchive.hpp|1|14b48635aa6|ab2|3b3373f3|7daecd1c783f11e38c3b0002c9bb1e4c|0
+14:content_oarchive.hpp|1|14b48634f8f|791|134d6ad0|8d2ea8b0783c11e38c3b0002c9bb1e4c|0
+15:ignore_oprimitive.hpp|1|14b48634f8f|67b|60ad0eee|243eb004783d11e38c3b0002c9bb1e4c|0
+16:forward_iprimitive.hpp|1|14b48635aa6|91b|d53a059b|676ef01c784211e38c3b0002c9bb1e4c|0
+1a:text_skeleton_oarchive.hpp|1|14b48634f70|616|e55b0f18|147dfe10782f11e38c3b0002c9bb1e4c|0
+19:mpi_datatype_oarchive.hpp|1|14b48634f70|6f9|2d414c6f|abfe5184783511e38c3b0002c9bb1e4c|0
+1a:mpi_datatype_primitive.hpp|1|14b48634f7f|d4f|f4e7fe3e|cc6e5fbc783611e38c3b0002c9bb1e4c|0
+1c:binary_buffer_iprimitive.hpp|1|14b48635a97|c51|4033c772|d0eec504783e11e38c3b0002c9bb1e4c|0
+1d:forward_skeleton_iarchive.hpp|1|14b48634f7f|a67|27a65886|4a3e6614783711e38c3b0002c9bb1e4c|0
+16:mpi_datatype_cache.hpp|1|14b48634f70|a74|1c445c87|92be36b8783311e38c3b0002c9bb1e4c|0
+16:forward_oprimitive.hpp|1|14b48634f7f|943|dbd5154a|1a4e63ac783711e38c3b0002c9bb1e4c|0
+14:computation_tree.hpp|1|14b48634f60|a2b|956c4630|885ddd5c782c11e38c3b0002c9bb1e4c|0
+1c:ignore_skeleton_oarchive.hpp|1|14b48635a97|8ec|c0a1e227|c4deb790783d11e38c3b0002c9bb1e4c|0
+15:packed_iprimitive.hpp|1|14b48634f8f|bfc|28e79510|425e8b98783a11e38c3b0002c9bb1e4c|0
+12:point_to_point.hpp|1|14b48634f7f|718|e2ba3bd7|0fce6320783711e38c3b0002c9bb1e4c|0
+1c:binary_buffer_oprimitive.hpp|1|14b48634f8f|ab5|2d825b0a|10de7c80783911e38c3b0002c9bb1e4c|0

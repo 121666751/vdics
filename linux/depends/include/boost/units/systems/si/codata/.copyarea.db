@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\systems\si\codata
+2
+e
+16:deuteron_constants.hpp|1|14b4859e697|d98|8a8e7ba9|49eab5ac7cea11e3ac0b0002c9bb1e4c|0
+14:helion_constants.hpp|1|14b4859ecaf|ce1|e2ff475f|8f7ab9487cea11e3ac0b0002c9bb1e4c|0
+c:typedefs.hpp|1|14b4859e6a7|d7c|eec6d78e|8d2ab92c7cea11e3ac0b0002c9bb1e4c|0
+14:proton_constants.hpp|1|14b4859ecbf|1281|55b82684|196ac09c7ceb11e3ac0b0002c9bb1e4c|0
+14:triton_constants.hpp|1|14b4859e668|cfd|bc734b35|5f3aa8fc7ce911e3ac0b0002c9bb1e4c|0
+1d:electromagnetic_constants.hpp|1|14b4859e687|aed|23629411|bdfaae207ce911e3ac0b0002c9bb1e4c|0
+1e:physico-chemical_constants.hpp|1|14b4859e687|cef|fd5d456f|b09aad5c7ce911e3ac0b0002c9bb1e4c|0
+1c:atomic-nuclear_constants.hpp|1|14b4859ecaf|7d3|58b28e26|dc7abd387cea11e3ac0b0002c9bb1e4c|0
+12:muon_constants.hpp|1|14b4859e6a7|de3|4bb89214|809ab8847cea11e3ac0b0002c9bb1e4c|0
+17:universal_constants.hpp|1|14b4859e678|cf0|25312ecb|85caab107ce911e3ac0b0002c9bb1e4c|0
+16:electron_constants.hpp|1|14b4859e687|152f|14230399|cdaaaf007ce911e3ac0b0002c9bb1e4c|0
+11:tau_constants.hpp|1|14b4859e687|a28|2d435932|ae6aad407ce911e3ac0b0002c9bb1e4c|0
+13:alpha_constants.hpp|1|14b4859e6a7|8bd|10e3de74|8abab9107cea11e3ac0b0002c9bb1e4c|0
+15:neutron_constants.hpp|1|14b4859e678|e2f|f600b279|78eaaa687ce911e3ac0b0002c9bb1e4c|0

@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\parameter\aux_
+2
+11
+7:tag.hpp|1|14b4863ef49|468|86226087|d9ae8674783911e38c3b0002c9bb1e4c|0
+1a:parameter_requirements.hpp|1|14b4863ef49|38c|2aef2c76|7fae4f54783511e38c3b0002c9bb1e4c|0
+8:cast.hpp|1|14b4863ef59|b5f|401b7702|8c4ec1a0783e11e38c3b0002c9bb1e4c|0
+9:maybe.hpp|1|14b4863ef59|941|251ad291|adee9da4783b11e38c3b0002c9bb1e4c|0
+d:overloads.hpp|1|14b4863e23f|a11|8f3c81a|b76e05f0782f11e38c3b0002c9bb1e4c|0
+b:default.hpp|1|14b4863e22f|78e|d618744d|75bde980782d11e38c3b0002c9bb1e4c|0
+7:set.hpp|1|14b4863e23f|63c|2765f9fb|5d5e0e40783011e38c3b0002c9bb1e4c|0
+6:python|2|0|0|0|3d9dd9d4782c11e38c3b0002c9bb1e4c|0
+c:preprocessor|2|0|0|0|cd3dd4c4782b11e38c3b0002c9bb1e4c|0
+14:template_keyword.hpp|1|14b4863ef59|4a1|68e37a44|ffbeae44783c11e38c3b0002c9bb1e4c|0
+c:arg_list.hpp|1|14b4863ef49|36ea|af490eb6|ab6e1214783011e38c3b0002c9bb1e4c|0
+17:unwrap_cv_reference.hpp|1|14b4863e220|a32|df4d4c46|b7cddfc4782c11e38c3b0002c9bb1e4c|0
+8:void.hpp|1|14b4863ef49|2cd|7f73dea2|c3ee2c8c783211e38c3b0002c9bb1e4c|0
+9:yesno.hpp|1|14b4863e22f|332|99c00d25|b31dec90782d11e38c3b0002c9bb1e4c|0
+16:parenthesized_type.hpp|1|14b4863e23f|df4|227089ad|ca7dedc4782d11e38c3b0002c9bb1e4c|0
+13:tagged_argument.hpp|1|14b4863e23f|15ae|6524cafc|4d6e00e8782f11e38c3b0002c9bb1e4c|0
+e:result_of0.hpp|1|14b4863ef59|3bb|acb534b8|556eef3c784211e38c3b0002c9bb1e4c|0

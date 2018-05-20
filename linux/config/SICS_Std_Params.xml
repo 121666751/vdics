@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SICS_Std_Params>
+	<SubBlackEdge>							<!--去黑边-->
+		<WithWidthLimited>1</WithWidthLimited>	<!--是否限制去黑边的宽度-->
+		<Left_Range>50</Left_Range>			<!--左侧的限制宽度值-->
+		<Top_Range>50</Top_Range>				<!--上面的限制宽度值-->
+		<Right_Range>50</Right_Range>			<!--右侧的限制宽度值-->
+		<Bottom_Range>50</Bottom_Range>		<!--下面的限制宽度值-->
+		<WithPreSetColor>1</WithPreSetColor>		<!--黑边的填充内容使用均值或者指定颜色-->
+		<RedIndex>-1</RedIndex>				<!--指定红色颜色值，若小于0，则使用均值-->
+		<GreenIndex>-1</GreenIndex>			<!--指定绿色颜色值，若小于0，则使用均值-->
+		<BlueIndex>-1</BlueIndex>				<!--指定蓝色颜色值，若小于0，则使用均值-->
+	</SubBlackEdge>
+	<AutoRotate>								<!--自动转正-->
+		<WithAutoRotate>1</WithAutoRotate>		<!--是否自动转正-->
+		<AngleRange>40</AngleRange>			<!--转正角度范围-->
+		<AngleResolution>0.5</AngleResolution>		<!--转正角度精度-->
+		<RangeOffX>-1</RangeOffX>				<!--检测角度的范围-->
+		<RangeOffY>100</RangeOffY>		
+		<RangeWidth>500</RangeWidth>
+		<RangeHeight>500</RangeHeight>
+		<KeepFullContent>0</KeepFullContent>		<!--转正后图像尺寸：保持原图尺寸、保持原图内容-->
+	</AutoRotate>
+	<AutoColorAdjust>							<!--色彩自动处理-->
+		<Equalize>							<!--色调均化-->
+			<AutoContrastAdjust>0</AutoContrastAdjust>	
+		</Equalize>
+		<WhiteBalance>						<!--白平衡-->
+			<AutoWhiteBalanceAdjust>0</AutoWhiteBalanceAdjust>
+		</WhiteBalance>
+		<Normalize>							<!--标准化-->
+			<AutoBrightAdjust>0</AutoBrightAdjust>
+		</Normalize>
+		<AdjustColorLevels>						<!--自动色阶-->
+			<AutoColorLevelAdjust>1</AutoColorLevelAdjust>
+			<ColorChannelAdjust>1</ColorChannelAdjust>
+			<ColorRangeLeft>0</ColorRangeLeft>
+			<ColorRangeRight>10</ColorRangeRight>
+			<KeepBrightness>0</KeepBrightness>
+		</AdjustColorLevels>
+		<ColorEnhance>				<!--颜色增强-->
+			<WithColorEnhance>0</WithColorEnhance>
+		</ColorEnhance>
+	</AutoColorAdjust>
+	<ManualColorAdjust>				<!--手动色彩调节-->
+		<ColorBalance>				<!--色彩平衡-->
+			<WithColorBalance>0</WithColorBalance>
+			<ColorBalChannel>3</ColorBalChannel>
+			<ColorBalRange>1</ColorBalRange>
+			<ColorBalRangeRed>0</ColorBalRangeRed>
+			<ColorBalRangeGreen>0</ColorBalRangeGreen>
+			<ColorBalRangeBlue>0</ColorBalRangeBlue>
+			<ColorBalKeepBrightness>1</ColorBalKeepBrightness>
+		</ColorBalance>
+		<Hue-Saturation>			<!--色调-饱和度-->
+			<WithHueAdjust>0</WithHueAdjust>
+			<HueValue>0</HueValue>
+			<SaturationValue>0</SaturationValue>
+			<LightnessValue>0</LightnessValue>
+		</Hue-Saturation>
+		<Colorize>				<!--单色化-->
+			<WithMonochrome>0</WithMonochrome>
+			<MonoHueValue>180</MonoHueValue>
+			<MonoSaturationValue>50</MonoSaturationValue>
+			<MonoLightnessValue>0</MonoLightnessValue>
+		</Colorize>
+		<Brightness-Contrast>			<!--亮度-对比度-->
+			<BrightAdjust>0</BrightAdjust>
+			<ContrastAdjust>0</ContrastAdjust>
+		</Brightness-Contrast>
+		<Desaturate>				<!--去色-->
+			<WithDesaturate>0</WithDesaturate>
+			<DesaturateMethod>0</DesaturateMethod>
+		</Desaturate>
+	</ManualColorAdjust>
+	<Filter>					<!--滤镜-->
+		<Antialias>				<!--平滑-->
+			<WithSmoothness>0</WithSmoothness>
+			<SmoothMethod>0</SmoothMethod>
+			<SmoothRangeLeft>0</SmoothRangeLeft>
+			<SmoothRangeTop>0</SmoothRangeTop>
+			<SmoothRangeWidth>0</SmoothRangeWidth>
+			<SmoothRangeHeight>0</SmoothRangeHeight>
+		</Antialias>
+		<Sharpen>				<!--锐化-->
+			<WithSharpness>0</WithSharpness>
+		</Sharpen>
+		<NoiseFilter>				<!--去噪声-->
+			<WithAntinoise>0</WithAntinoise>
+			<NoiseType>0</NoiseType>
+			<NoiseProcessMothod>0</NoiseProcessMothod>
+		</NoiseFilter>
+	</Filter>
+	<ModeChange>					<!--模式变换-->
+		<RGBMode>				<!--彩色图-->
+			<OutputColorType>0</OutputColorType>
+		</RGBMode>
+		<GreyMode>				<!--灰度图-->
+			<OutputGrayType>0</OutputGrayType>
+		</GreyMode>
+		<IndexedMode>				<!--索引图-->
+			<WithBinarize>0</WithBinarize>
+			<BinarizeMethod>1</BinarizeMethod>
+			<BinarizeThreshold>180</BinarizeThreshold>
+			<BinarizeBlockSize1>0</BinarizeBlockSize1>
+			<BinarizeBlockSize2>0</BinarizeBlockSize2>
+			<BinInfoValue>0</BinInfoValue>
+		</IndexedMode>
+		<IndexedModeByChannel>			<!--按照颜色变换索引图-->
+			<WithStandardColorType>0</WithStandardColorType>
+			<WithBackgroudProcess>0</WithBackgroudProcess>
+			<StdColorInfoValue>0</StdColorInfoValue>
+		</IndexedModeByChannel>
+	</ModeChange>
+	<ImageStandardize>				<!--尺寸标准化-->
+		<WithSizeStandard>1</WithSizeStandard>	<!--是否尺寸标准化-->
+		<StandardMothod>0</StandardMothod>	<!--尺寸标准化方法：按比例缩放、高适合、宽适合-->
+		<StandardRatio>0.5</StandardRatio>	<!--缩放比例-->
+		<StandardWidth>0</StandardWidth>	<!--缩放宽度-->
+		<StandardHeight>0</StandardHeight>	<!--缩放高度-->
+		<ResizeMethod>2</ResizeMethod>		<!--缩放方法：线性、双线性、邻域、样条-->
+	</ImageStandardize>
+	<SubImageSeg>						<!--裁剪-->
+		<WithPruning>0</WithPruning>		<!--是否裁剪-->
+		<PruneStartX>0</PruneStartX>		<!--裁剪子图起始点X坐标-->
+		<PruneStartY>0</PruneStartY>		<!--裁剪子图起始点Y坐标-->
+		<PruneWidth>0</PruneWidth>		<!--裁剪子图宽度-->
+		<PruneHeight>0</PruneHeight>		<!--裁剪子图高度-->
+	</SubImageSeg>
+	<BlankPageDetect>											<!--空白页检测-->
+		<BlankPage>											<!--全白页面-->
+			<AutoDetectEmptyPage>0</AutoDetectEmptyPage>		<!--是否检测空白页-->
+			<PageQuality>0</PageQuality>						<!--纸张质量-->
+			<PagePollution>0</PagePollution>						<!--被污染程度-->
+		</BlankPage>
+		<BlankPageWithWhole>								<!--具有装订孔的空白页面-->
+			<AutoDetectBindingHole>0</AutoDetectBindingHole>	<!--是否检测带孔空白页-->
+			<HoleTopRange>0</HoleTopRange>					<!--装订孔距离上面的位置-->
+			<HoleLeftRange>0</HoleLeftRange>				<!--装订孔距离左侧的位置-->
+			<HoleRightRange>0</HoleRightRange>				<!--装订孔距离右侧的位置-->
+			<HoleBottomRange>0</HoleBottomRange>			<!--装订孔距离下面的位置-->
+			<BindingHoldDiameter>0</BindingHoldDiameter>		<!--装订孔尺寸-->
+		</BlankPageWithWhole>
+	</BlankPageDetect>
+	<ImageRotate>						<!--图像旋转-->
+		<WithRotation>0</WithRotation>		<!--是否旋转-->
+		<RotationAngle>0</RotationAngle>		<!--旋转角度：90、180、270度-->
+	</ImageRotate>
+	<ImageFlip>							<!--图像翻转-->
+		<WithFlap>0</WithFlap>				<!--是否翻转-->
+		<FlapType>0</FlapType>				<!--翻转类型：对称翻转，水平翻转，垂直翻转-->
+	</ImageFlip>
+	<AutoMerge>							<!--自动页面合并-->
+		<AutoPageMerge>0</AutoPageMerge>	<!--是否自动合并页面-->
+		<MergeType>0</MergeType>			<!--合并类型：左右合并、上下合并-->
+		<MergeFirstPage>0</MergeFirstPage>	<!--合并起始页：奇数页、偶数页-->
+	</AutoMerge>
+</SICS_Std_Params>

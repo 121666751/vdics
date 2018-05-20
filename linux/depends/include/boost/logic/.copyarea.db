@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\logic
+2
+3
+b:tribool.hpp|1|14b48652cfa|33b6|db0a6dff|8f3e4330783411e38c3b0002c9bb1e4c|0
+f:tribool_fwd.hpp|1|14b48652c3f|1f2|bfc39f4e|306e3e7c783411e38c3b0002c9bb1e4c|0
+e:tribool_io.hpp|1|14b48652c2f|2ddd|e623b0be|fdfdf064782d11e38c3b0002c9bb1e4c|0

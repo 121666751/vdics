@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\arithmetic
+2
+6
+b:modulus.hpp|1|14b486315aa|7a7|6e855c58|8e8dddb0782c11e38c3b0002c9bb1e4c|0
+b:divides.hpp|1|14b486315c9|90f|35dfbbcf|e7fe3ae0783311e38c3b0002c9bb1e4c|0
+8:plus.hpp|1|14b486315c9|86e|4e28761|06ce88a4783a11e38c3b0002c9bb1e4c|0
+9:minus.hpp|1|14b48631c7d|876|5c0c8a59|76fef0e0784211e38c3b0002c9bb1e4c|0
+e:multiplies.hpp|1|14b486315aa|89e|ee3f993b|088df0f0782e11e38c3b0002c9bb1e4c|0
+a:negate.hpp|1|14b486315c9|60f|37c6edd7|1abdfe64782f11e38c3b0002c9bb1e4c|0

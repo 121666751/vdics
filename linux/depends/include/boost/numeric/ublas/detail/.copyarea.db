@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric\ublas\detail
+2
+b
+c:concepts.hpp|1|14b4865002f|11adb|258f2f8d|1c6e63c8783711e38c3b0002c9bb1e4c|0
+c:iterator.hpp|1|14b4865002f|ca40|8eefb69f|fa6e6e9c783711e38c3b0002c9bb1e4c|0
+18:returntype_deduction.hpp|1|14b48650888|1356|8976dd6f|93cef24c784211e38c3b0002c9bb1e4c|0
+11:documentation.hpp|1|14b48650000|394|8b101a13|244e17fc783111e38c3b0002c9bb1e4c|0
+7:raw.hpp|1|14b4865003f|79c9|68829e53|b3fee794784111e38c3b0002c9bb1e4c|0
+11:vector_assign.hpp|1|14b48650020|6055|17910c6|094e62cc783711e38c3b0002c9bb1e4c|0
+d:temporary.hpp|1|14b48650010|35e|d99019f5|801e5c04783611e38c3b0002c9bb1e4c|0
+11:matrix_assign.hpp|1|14b4865003f|1372d|425de0ab|60fed844784011e38c3b0002c9bb1e4c|0
+f:definitions.hpp|1|14b48650010|1a3f|26936f7b|4dce26a4783211e38c3b0002c9bb1e4c|0
+a:config.hpp|1|14b48650010|1fcf|c210dd5d|473e3300783311e38c3b0002c9bb1e4c|0
+8:duff.hpp|1|14b4865002f|59a|e7bc7aa1|5caecb94783f11e38c3b0002c9bb1e4c|0

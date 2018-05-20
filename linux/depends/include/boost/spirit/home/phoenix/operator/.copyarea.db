@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\operator
+2
+9
+8:self.hpp|1|14b485c5932|a29|28332fb0|11dd01967cce11e3980e0002c9bb1e4c|0
+e:arithmetic.hpp|1|14b485c5932|1260|f04bdd99|f71d0e467cce11e3980e0002c9bb1e4c|0
+b:if_else.hpp|1|14b485c6533|a3b|8fe7f2f0|9d4d5f6e7cd411e3980e0002c9bb1e4c|0
+e:comparison.hpp|1|14b485c5932|8d1|217bcdee|d1dcfdfa7ccd11e3980e0002c9bb1e4c|0
+a:member.hpp|1|14b485c6533|1224|287573d1|d7bd547e7cd311e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|76acf9827ccd11e3980e0002c9bb1e4c|0
+b:bitwise.hpp|1|14b485c5941|d57|59d538b2|54bd13867ccf11e3980e0002c9bb1e4c|0
+6:io.hpp|1|14b485c5941|bc1|e4e8728f|dcfd46627cd211e3980e0002c9bb1e4c|0
+b:logical.hpp|1|14b485c5941|67d|199149f|6e8d14f27ccf11e3980e0002c9bb1e4c|0

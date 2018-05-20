@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\regex
+2
+c
+c:concepts.hpp|1|14b485e847f|85a5|91df6712|5d1429087cc511e3880a0002c9bb1e4c|0
+7:icu.hpp|1|14b485e7d8c|999e|746e7bfd|3053dc407cbf11e3880a0002c9bb1e4c|0
+12:pattern_except.hpp|1|14b485e7d9c|8fa|8cc0debd|fba3fe607cc111e3880a0002c9bb1e4c|0
+6:config|2|0|0|0|0813c10c7cbd11e3880a0002c9bb1e4c|0
+7:src.cpp|1|14b485e847f|70a|8d50504c|464427d47cc511e3880a0002c9bb1e4c|0
+10:regex_traits.hpp|1|14b485e848e|300|2edce1a5|de842f607cc511e3880a0002c9bb1e4c|0
+7:pending|2|0|0|0|0e93c1547cbd11e3880a0002c9bb1e4c|0
+2:v4|2|0|0|0|e793bfa47cbc11e3880a0002c9bb1e4c|0
+8:user.hpp|1|14b485e7d8c|c78|a664fa4d|9493f9747cc111e3880a0002c9bb1e4c|0
+7:mfc.hpp|1|14b485e7cb2|1bfa|26d6816c|8f63c7947cbd11e3880a0002c9bb1e4c|0
+6:detail|2|0|0|0|e483bf807cbc11e3880a0002c9bb1e4c|0
+a:config.hpp|1|14b485e846f|31ed|c209ec38|1f2400047cc211e3880a0002c9bb1e4c|0

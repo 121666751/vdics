@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\qi\stream
+2
+4
+f:match_manip.hpp|1|14b485c4479|1027|2184e77e|7a1d325e7cd111e3980e0002c9bb1e4c|0
+a:stream.hpp|1|14b485c446a|98c|a81cd57e|107d0fb27ccf11e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c446a|fe4|91b94e27|d5ccfe327ccd11e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|a2dcfbaa7ccd11e3980e0002c9bb1e4c|0

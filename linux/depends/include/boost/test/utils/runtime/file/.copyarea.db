@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\utils\runtime\file
+2
+4
+18:config_file_iterator.cpp|1|14b485decd0|6046|54f6afb3|ee251c7a7cdc11e3881d0002c9bb1e4c|0
+f:config_file.cpp|1|14b485decc0|20d2|8eb29bb6|6cf515967cdc11e3881d0002c9bb1e4c|0
+f:config_file.hpp|1|14b485decc0|1c3d|dbcafd93|4685139e7cdc11e3881d0002c9bb1e4c|0
+18:config_file_iterator.hpp|1|14b485decc0|16a6|69c6f59b|c9851a827cdc11e3881d0002c9bb1e4c|0

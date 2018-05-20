@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\systems\temperature
+2
+2
+e:fahrenheit.hpp|1|14b4859cd1e|48d|48e781b9|f60abea47cea11e3ac0b0002c9bb1e4c|0
+b:celsius.hpp|1|14b4859cd1e|461|c6267111|2fdab4407cea11e3ac0b0002c9bb1e4c|0

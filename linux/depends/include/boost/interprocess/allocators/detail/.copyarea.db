@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\allocators\detail
+2
+4
+e:node_tools.hpp|1|14b485f263c|5f5|98ded97d|f11e6198783611e38c3b0002c9bb1e4c|0
+d:node_pool.hpp|1|14b485f262c|3c47|bbbb21ea|bdfe0644782f11e38c3b0002c9bb1e4c|0
+14:allocator_common.hpp|1|14b485f262c|7a9f|5e2b39bd|261e5788783611e38c3b0002c9bb1e4c|0
+16:adaptive_node_pool.hpp|1|14b485f264c|6754|be17d7fe|ad4ee740784111e38c3b0002c9bb1e4c|0

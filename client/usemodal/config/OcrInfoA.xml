@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GB2312"?>
+<OcrInfoAll>
+	<OcrInfoA VoucherName="支票" SortID="00" BasePointX="73" BasePointY="210">
+		<Region Name="E13B码" RecType="e13b" Left="-160" Top="223" Right="1422" Bottom="304"/>
+		<Region Name="印鉴" RecType="id" Left="-16" Top="64" Right="905" Bottom="346"/>
+		<Region Name="签字" RecType="id" Left="189" Top="90" Right="789" Bottom="324"/>
+		<Region Name="凭证号" RecType="print" RecFont="JiaoHangCheck_YiChang" RecNum="8" Left="830" Top="-159" Right="1185" Bottom="-81"/>
+	</OcrInfoA>
+</OcrInfoAll>

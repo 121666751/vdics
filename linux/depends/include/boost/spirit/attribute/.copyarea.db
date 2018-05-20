@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\attribute
+2
+5
+f:closure_fwd.hpp|1|14b485da506|486|b32765e2|8823ed507cc011e3880a0002c9bb1e4c|0
+a:typeof.hpp|1|14b485da515|46d|b0945cc4|34b401007cc211e3880a0002c9bb1e4c|0
+e:parametric.hpp|1|14b485da506|481|bce96399|9803e1807cbf11e3880a0002c9bb1e4c|0
+b:closure.hpp|1|14b485da506|472|73575e82|21b3db7c7cbf11e3880a0002c9bb1e4c|0
+13:closure_context.hpp|1|14b485da515|49a|e6166db6|58e402c07cc211e3880a0002c9bb1e4c|0

@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\tree
+2
+a
+a:common.hpp|1|14b485d0809|b7f0|86f31fc1|7dbd4f767cd311e3980e0002c9bb1e4c|0
+7:ast.hpp|1|14b485d0809|3066|66671ea7|be7d44a27cd211e3980e0002c9bb1e4c|0
+f:tree_to_xml.hpp|1|14b485d07fa|1246|22f7f59|5b0d224a7cd011e3980e0002c9bb1e4c|0
+14:parse_tree_utils.hpp|1|14b485d0809|a48|28bfed15|be4d614a7cd411e3980e0002c9bb1e4c|0
+a:typeof.hpp|1|14b485d07fa|1051|46c42159|723d31ee7cd111e3980e0002c9bb1e4c|0
+12:parse_tree_fwd.hpp|1|14b485d07ea|44c|f31244ca|b1fd18c67ccf11e3980e0002c9bb1e4c|0
+e:common_fwd.hpp|1|14b485d07fa|a12|d33d1dff|829d247a7cd011e3980e0002c9bb1e4c|0
+b:ast_fwd.hpp|1|14b485d07ea|491|4d785cd9|622d06127cce11e3980e0002c9bb1e4c|0
+4:impl|2|0|0|0|bffcfd127ccd11e3980e0002c9bb1e4c|0
+e:parse_tree.hpp|1|14b485d07fa|23bf|c4ffc1d4|b5dd18fe7ccf11e3980e0002c9bb1e4c|0

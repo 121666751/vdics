@@ -1,0 +1,26 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\stl\algorithm\detail
+2
+16
+13:has_lower_bound.hpp|1|14b485c5922|569|fd017b41|8d8d5e8e7cd411e3980e0002c9bb1e4c|0
+14:std_hash_set_fwd.hpp|1|14b485c5903|38f|15c1f590|b64d35c27cd111e3980e0002c9bb1e4c|0
+f:is_std_list.hpp|1|14b485c5903|3da|ee6a11b4|171d3b3a7cd211e3980e0002c9bb1e4c|0
+11:has_remove_if.hpp|1|14b485c5903|35f|84b6f0bb|f6ed395e7cd111e3980e0002c9bb1e4c|0
+10:std_list_fwd.hpp|1|14b485c5922|2fd|8b2ecea4|c7cd61d67cd411e3980e0002c9bb1e4c|0
+c:has_find.hpp|1|14b485c5912|54d|773270c5|0c1d491e7cd311e3980e0002c9bb1e4c|0
+13:has_equal_range.hpp|1|14b485c4ddc|569|bafa7ad1|6aad232a7cd011e3980e0002c9bb1e4c|0
+e:has_remove.hpp|1|14b485c5903|353|721aec83|d8ad294a7cd011e3980e0002c9bb1e4c|0
+13:is_std_hash_map.hpp|1|14b485c5903|533|5d4b764e|fc5d2b427cd011e3980e0002c9bb1e4c|0
+13:is_std_hash_set.hpp|1|14b485c5922|533|5a4076da|552d5b627cd411e3980e0002c9bb1e4c|0
+e:is_std_set.hpp|1|14b485c4ddc|4fb|ad7f610a|cc9d28a27cd011e3980e0002c9bb1e4c|0
+f:std_map_fwd.hpp|1|14b485c5903|397|1b4f32e|9ccd34567cd111e3980e0002c9bb1e4c|0
+f:std_set_fwd.hpp|1|14b485c5912|373|dac0eb28|c29d44da7cd211e3980e0002c9bb1e4c|0
+9:begin.hpp|1|14b485c4dcc|2b7|27edc04|37bd11e27ccf11e3980e0002c9bb1e4c|0
+f:has_reverse.hpp|1|14b485c4dcc|357|823aedfb|13bd1e3e7cd011e3980e0002c9bb1e4c|0
+13:has_upper_bound.hpp|1|14b485c5922|569|20037b4d|ee6d64067cd411e3980e0002c9bb1e4c|0
+14:std_hash_map_fwd.hpp|1|14b485c58f3|38f|d398f54a|d2dd28f67cd011e3980e0002c9bb1e4c|0
+e:is_std_map.hpp|1|14b485c5922|525|db3e6abc|b09d60867cd411e3980e0002c9bb1e4c|0
+7:end.hpp|1|14b485c5912|2ae|2911d89e|04ad56e67cd411e3980e0002c9bb1e4c|0
+c:has_sort.hpp|1|14b485c5912|34b|b5f2e9eb|1ddd4a1a7cd311e3980e0002c9bb1e4c|0
+f:decay_array.hpp|1|14b485c4dcc|2aa|9c13d23e|c15d19a67ccf11e3980e0002c9bb1e4c|0
+e:has_unique.hpp|1|14b485c5922|353|94a6eca7|7ded5dae7cd411e3980e0002c9bb1e4c|0

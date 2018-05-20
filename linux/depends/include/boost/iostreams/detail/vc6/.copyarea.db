@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\detail\vc6
+2
+3
+9:close.hpp|1|14b4865e718|f0d|a8245acd|ee2ec670783e11e38c3b0002c9bb1e4c|0
+9:write.hpp|1|14b4865e708|127f|35e3899f|eace0890782f11e38c3b0002c9bb1e4c|0
+8:read.hpp|1|14b4865e718|1c63|fb3f4cde|6b8e4170783411e38c3b0002c9bb1e4c|0

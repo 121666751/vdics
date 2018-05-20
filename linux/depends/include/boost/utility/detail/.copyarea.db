@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\utility\detail
+2
+3
+1b:in_place_factory_prefix.hpp|1|14b485a361e|5b7|147bdd90|8deaab807ce911e3ac0b0002c9bb1e4c|0
+15:result_of_iterate.hpp|1|14b485a361e|c1a|79f07fb9|93aab9807cea11e3ac0b0002c9bb1e4c|0
+1b:in_place_factory_suffix.hpp|1|14b485a361e|32f|b07efa9b|a78aba7c7cea11e3ac0b0002c9bb1e4c|0

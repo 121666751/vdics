@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\output
+2
+4
+1a:plain_report_formatter.hpp|1|14b485ddb04|7b0|4d54c2b|513d5b2a7cd411e3980e0002c9bb1e4c|0
+18:xml_report_formatter.hpp|1|14b485dd106|76c|cb03729|132d3b027cd211e3980e0002c9bb1e4c|0
+1a:compiler_log_formatter.hpp|1|14b485dd106|9a3|5fd0f262|2acd2de27cd111e3980e0002c9bb1e4c|0
+15:xml_log_formatter.hpp|1|14b485dd106|98e|376ee881|1fbd586e7cd411e3980e0002c9bb1e4c|0

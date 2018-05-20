@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\svsrv
+2
+5
+8:main.cpp|1|14b48587410|254|1af99189|807d09a6b8c311e38c290002c9bb1e4c|0
+6:config|2|0|0|0|9db826487cf311e384270002c9bb1e4c|0
+8:Makefile|1|14b48587410|40f|14a02fbd|d62836b07cf411e384270002c9bb1e4c|0
+e:SendVouchers.h|1|14b48587410|3f2|f97c220f|82ad09b6b8c311e38c290002c9bb1e4c|0
+10:SendVouchers.cpp|1|14b48587410|4688|fd321def|81bd09aeb8c311e38c290002c9bb1e4c|0

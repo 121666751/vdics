@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\utils\iterator
+2
+4
+12:token_iterator.hpp|1|14b485df8b2|37a1|1dafb5cd|399d11fe7ccf11e3980e0002c9bb1e4c|0
+19:input_iterator_facade.hpp|1|14b485df8b2|cd0|7baa1d5|f0dcffba7ccd11e3980e0002c9bb1e4c|0
+19:istream_line_iterator.hpp|1|14b485df8c1|b7e|175d67d0|85cd16427ccf11e3980e0002c9bb1e4c|0
+1a:ifstream_line_iterator.hpp|1|14b485dfc6a|c94|24e9b397|972d50e27cd311e3980e0002c9bb1e4c|0

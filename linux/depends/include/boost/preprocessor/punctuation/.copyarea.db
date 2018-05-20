@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\punctuation
+2
+4
+9:comma.hpp|1|14b48639373|21d|9db19c12|701eb384783d11e38c3b0002c9bb1e4c|0
+c:paren_if.hpp|1|14b48639373|672|3b61b8c0|ccfe5328783511e38c3b0002c9bb1e4c|0
+c:comma_if.hpp|1|14b48639363|413|4b913baa|2e8de5c8782d11e38c3b0002c9bb1e4c|0
+9:paren.hpp|1|14b48639373|351|629dc2a8|198e7040783811e38c3b0002c9bb1e4c|0

@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\operator\detail
+2
+8
+f:binary_eval.hpp|1|14b485c6562|a89|fcf6475a|7e8d24427cd011e3980e0002c9bb1e4c|0
+11:unary_compose.hpp|1|14b485c6552|3da|e599f293|cf8d0c167cce11e3980e0002c9bb1e4c|0
+14:mem_fun_ptr_eval.hpp|1|14b485c6562|bae|48c79053|b07d356e7cd111e3980e0002c9bb1e4c|0
+e:unary_eval.hpp|1|14b485c6552|9b9|7b19f33a|459d21167cd011e3980e0002c9bb1e4c|0
+16:mem_fun_ptr_return.hpp|1|14b485c6552|7c0|47174606|62cd144a7ccf11e3980e0002c9bb1e4c|0
+13:mem_fun_ptr_gen.hpp|1|14b485c6533|a51|a70d1f68|2ecd033a7cce11e3980e0002c9bb1e4c|0
+12:binary_compose.hpp|1|14b485c6562|866|ee57e0ef|6fdd4eb27cd311e3980e0002c9bb1e4c|0
+6:io.hpp|1|14b485c6562|96e|6c58b4a6|21ad588a7cd411e3980e0002c9bb1e4c|0

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\scope
+2
+6
+a:lambda.hpp|1|14b485c775c|15d4|22e2309|998d5f367cd411e3980e0002c9bb1e4c|0
+b:dynamic.hpp|1|14b485c775c|18b2|245addb1|298d58fa7cd411e3980e0002c9bb1e4c|0
+7:let.hpp|1|14b485c774d|12d5|84e14629|159d1e5a7cd011e3980e0002c9bb1e4c|0
+12:local_variable.hpp|1|14b485c6591|1299|330aa82|5b0d13da7ccf11e3980e0002c9bb1e4c|0
+16:scoped_environment.hpp|1|14b485c775c|535|3ce77b6f|3b6d4bbe7cd311e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|71bcf9467ccd11e3980e0002c9bb1e4c|0

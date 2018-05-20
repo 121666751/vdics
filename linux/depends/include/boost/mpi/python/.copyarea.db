@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpi\python
+2
+3
+d:serialize.hpp|1|14b4863372e|4ad7|3c1cf9a|72dea760783c11e38c3b0002c9bb1e4c|0
+a:config.hpp|1|14b4863371f|6fc|7917e3e0|c84deda8782d11e38c3b0002c9bb1e4c|0
+18:skeleton_and_content.hpp|1|14b4863371f|1a0f|58996fe0|ebce7aa4783811e38c3b0002c9bb1e4c|0

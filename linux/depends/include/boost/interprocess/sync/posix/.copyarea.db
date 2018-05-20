@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\sync\posix
+2
+8
+13:pthread_helpers.hpp|1|14b485f3827|151d|3cf28b87|4c0e4cb4783511e38c3b0002c9bb1e4c|0
+1a:interprocess_condition.hpp|1|14b485f3817|8e3|9e73d0d0|d54e0778782f11e38c3b0002c9bb1e4c|0
+15:ptime_to_timespec.hpp|1|14b485f3f58|4aa|72ec6a3a|7b4e9b20783b11e38c3b0002c9bb1e4c|0
+18:interprocess_barrier.hpp|1|14b485f3817|51e|2a5d92a3|9c3e04bc782f11e38c3b0002c9bb1e4c|0
+15:semaphore_wrapper.hpp|1|14b485f3f58|1c45|e871c048|a12e9068783a11e38c3b0002c9bb1e4c|0
+20:interprocess_recursive_mutex.hpp|1|14b485f3827|d43|ffd32455|15ce23e8783211e38c3b0002c9bb1e4c|0
+1a:interprocess_semaphore.hpp|1|14b485f3827|56f|2568bd90|746e41e0783411e38c3b0002c9bb1e4c|0
+16:interprocess_mutex.hpp|1|14b485f3817|ced|4c4b00b5|06adf0d4782e11e38c3b0002c9bb1e4c|0

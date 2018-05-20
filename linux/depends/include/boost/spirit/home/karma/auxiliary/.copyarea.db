@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\karma\auxiliary
+2
+8
+7:eps.hpp|1|14b485c9816|8a5|f5e4a00e|ef5d1c2a7ccf11e3980e0002c9bb1e4c|0
+14:functor_director.hpp|1|14b485c9806|7b6|75c15e38|e16d1b667ccf11e3980e0002c9bb1e4c|0
+7:eol.hpp|1|14b485c9835|5c1|fe58c189|cbdd45667cd211e3980e0002c9bb1e4c|0
+a:confix.hpp|1|14b485c9835|1204|110931f3|85bd4fe67cd311e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485c9806|d87|524ec0cf|a4fd18027ccf11e3980e0002c9bb1e4c|0
+b:functor.hpp|1|14b485c9845|1ed6|3f37da0c|dfcd54ee7cd311e3980e0002c9bb1e4c|0
+8:none.hpp|1|14b485c9825|559|34d49e57|5ccd30ba7cd111e3980e0002c9bb1e4c|0
+8:lazy.hpp|1|14b485c9816|bd4|71ff6b06|e2ad29d67cd011e3980e0002c9bb1e4c|0

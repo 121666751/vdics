@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\aux_\preprocessed
+2
+b
+7:no_ctps|2|0|0|0|c6fdd47c782b11e38c3b0002c9bb1e4c|0
+6:no_ttp|2|0|0|0|b53dd3b0782b11e38c3b0002c9bb1e4c|0
+5:plain|2|0|0|0|aaedd338782b11e38c3b0002c9bb1e4c|0
+4:mwcw|2|0|0|0|c81dd488782b11e38c3b0002c9bb1e4c|0
+3:bcc|2|0|0|0|d32dd50c782b11e38c3b0002c9bb1e4c|0
+6:msvc70|2|0|0|0|c1add440782b11e38c3b0002c9bb1e4c|0
+3:dmc|2|0|0|0|ca2dd4a0782b11e38c3b0002c9bb1e4c|0
+6:msvc60|2|0|0|0|b63dd3bc782b11e38c3b0002c9bb1e4c|0
+6:bcc551|2|0|0|0|c5edd470782b11e38c3b0002c9bb1e4c|0
+a:bcc_pre590|2|0|0|0|da7dd560782b11e38c3b0002c9bb1e4c|0
+3:gcc|2|0|0|0|b91dd3e0782b11e38c3b0002c9bb1e4c|0

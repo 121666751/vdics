@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric
+2
+4
+c:interval.hpp|1|14b4864e1b7|440|c6be7420|17ce2404783211e38c3b0002c9bb1e4c|0
+5:ublas|2|0|0|0|e64dd5f0782b11e38c3b0002c9bb1e4c|0
+8:interval|2|0|0|0|031dd728782c11e38c3b0002c9bb1e4c|0
+a:conversion|2|0|0|0|d50dd524782b11e38c3b0002c9bb1e4c|0

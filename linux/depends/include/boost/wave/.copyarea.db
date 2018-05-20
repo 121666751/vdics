@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\wave
+2
+e
+4:util|2|0|0|0|914825ac7cf311e384270002c9bb1e4c|0
+8:grammars|2|0|0|0|43baa7887ce911e3ac0b0002c9bb1e4c|0
+17:preprocessing_hooks.hpp|1|14b4859fcc6|6674|2ba7581|91bab9647cea11e3ac0b0002c9bb1e4c|0
+17:whitespace_handling.hpp|1|14b4859fca7|1ad7|83e8def5|c21aae587ce911e3ac0b0002c9bb1e4c|0
+d:cpp_throw.hpp|1|14b4859fcb6|2650|1e1ebb6c|2ddab4247cea11e3ac0b0002c9bb1e4c|0
+12:cpp_exceptions.hpp|1|14b485a0010|4a67|a0e96703|1f4ac0f07ceb11e3ac0b0002c9bb1e4c|0
+d:token_ids.hpp|1|14b4859fcb6|4a80|b263a354|df9aaffc7ce911e3ac0b0002c9bb1e4c|0
+19:cpp_iteration_context.hpp|1|14b4859fca7|1894|763025e7|bfeaae3c7ce911e3ac0b0002c9bb1e4c|0
+8:cpplexer|2|0|0|0|4a9aa7dc7ce911e3ac0b0002c9bb1e4c|0
+f:wave_config.hpp|1|14b4859fcc6|4a38|fba9e707|45dab5747cea11e3ac0b0002c9bb1e4c|0
+f:cpp_context.hpp|1|14b4859fcb6|5619|586ddb77|c60aae907ce911e3ac0b0002c9bb1e4c|0
+10:wave_version.hpp|1|14b4859fcd5|49d|95d44ec6|1d4ac0d47ceb11e3ac0b0002c9bb1e4c|0
+18:wave_config_constant.hpp|1|14b4859fcb6|1028|d083f122|fb2ab1847ce911e3ac0b0002c9bb1e4c|0
+14:language_support.hpp|1|14b4859fca7|1c37|6741ce4e|631aa9347ce911e3ac0b0002c9bb1e4c|0

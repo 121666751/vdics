@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\systems
+2
+8
+c:abstract.hpp|1|14b4859cd1e|141a|d10baa4f|e03abd707cea11e3ac0b0002c9bb1e4c|0
+3:cgs|2|0|0|0|3d0aa7347ce911e3ac0b0002c9bb1e4c|0
+2:si|2|0|0|0|40faa7647ce911e3ac0b0002c9bb1e4c|0
+b:temperature|2|0|0|0|4c8aa7f47ce911e3ac0b0002c9bb1e4c|0
+5:angle|2|0|0|0|47caa7b87ce911e3ac0b0002c9bb1e4c|0
+6:detail|2|0|0|0|4d8aa8007ce911e3ac0b0002c9bb1e4c|0
+7:cgs.hpp|1|14b4859cd1e|62d|251e24fc|9f0aba0c7cea11e3ac0b0002c9bb1e4c|0
+6:si.hpp|1|14b4859cd0e|d20|759db9bc|9eeaac607ce911e3ac0b0002c9bb1e4c|0

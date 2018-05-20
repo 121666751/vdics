@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\system
+2
+6
+11:windows_error.hpp|1|14b485e24f0|f71|60356e65|a0fd348e7cd111e3980e0002c9bb1e4c|0
+e:error_code.hpp|1|14b485e24f0|43fb|3fa808f9|8c1d25067cd011e3980e0002c9bb1e4c|0
+10:system_error.hpp|1|14b485e24e1|981|6da7c75b|c9cd1a167ccf11e3980e0002c9bb1e4c|0
+f:linux_error.hpp|1|14b485e24d1|daf|599a004c|6d1d069e7cce11e3980e0002c9bb1e4c|0
+a:config.hpp|1|14b485e24e1|aca|61e8477b|e96d1bd67ccf11e3980e0002c9bb1e4c|0
+10:cygwin_error.hpp|1|14b485e24f0|635|b1a3e809|aabd60327cd411e3980e0002c9bb1e4c|0

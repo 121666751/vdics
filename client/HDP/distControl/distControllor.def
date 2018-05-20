@@ -1,0 +1,13 @@
+EXPORTS
+	InitDistCtrl
+	ReleaseDistCtrl
+	GetOneData
+	SetOneData
+	PauseDist
+	StopDist
+	StoreDistData
+	GetPocketNo
+	CalTotalAmount
+	GetAlltems
+	DelSpecialItems
+	StartDstEx

@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\fusion\sequence\comparison\detail
+2
+7
+b:greater.hpp|1|14b4864d603|64a|476bc777|aa37abfc781411e3bc2c0002c9bb1e4c|0
+10:not_equal_to.hpp|1|14b4864cc43|758|32b817e7|cb67a0d4781311e3bc2c0002c9bb1e4c|0
+11:greater_equal.hpp|1|14b4864d603|64e|503cc25|b8f7acc0781411e3bc2c0002c9bb1e4c|0
+e:less_equal.hpp|1|14b4864d603|645|eb45c946|c577ad68781411e3bc2c0002c9bb1e4c|0
+15:enable_comparison.hpp|1|14b4864d6ed|57a|ea79b7e3|e577af0c781411e3bc2c0002c9bb1e4c|0
+c:equal_to.hpp|1|14b4864d6ed|748|a5551159|6c87b60c781511e3bc2c0002c9bb1e4c|0
+8:less.hpp|1|14b4864cc43|641|3617c498|84f7aa20781411e3bc2c0002c9bb1e4c|0

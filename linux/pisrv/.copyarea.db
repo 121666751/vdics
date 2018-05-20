@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\pisrv
+2
+5
+a:cinput.cpp|1|14b48587ce7|4450|cebb9ea|6ef74e8e782611e3a4250002c9bb1e4c|0
+8:cinput.h|1|14b48587cf6|c51|d269d353|77374efe782611e3a4250002c9bb1e4c|0
+8:Makefile|1|14b48587ce7|4d6|707c6e85|73174ec6782611e3a4250002c9bb1e4c|0
+f:cinput_main.cpp|1|14b48587ce7|30c|9816dd8f|75074ee2782611e3a4250002c9bb1e4c|0
+9:create.sh|1|14b48587ce7|5d|5c6d1e1b|71174eaa782611e3a4250002c9bb1e4c|0

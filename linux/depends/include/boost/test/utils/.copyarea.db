@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\utils
+2
+11
+10:custom_manip.hpp|1|14b485ddb91|7f0|c456a08|b99d19367ccf11e3980e0002c9bb1e4c|0
+b:foreach.hpp|1|14b485ddb91|2867|19e3e237|0bfd1dce7cd011e3980e0002c9bb1e4c|0
+8:rtti.hpp|1|14b485de4c4|73e|c6491acd|064d48ca7cd311e3980e0002c9bb1e4c|0
+15:trivial_singleton.hpp|1|14b485ddb91|94c|7230b0a6|6eed06ba7cce11e3980e0002c9bb1e4c|0
+d:basic_cstring|2|0|0|0|9a5cfb3e7ccd11e3980e0002c9bb1e4c|0
+11:fixed_mapping.hpp|1|14b485ddba0|1159|f91c0fad|d4ad29127cd011e3980e0002c9bb1e4c|0
+d:assign_op.hpp|1|14b485ddba0|483|73b333e5|004d39ea7cd211e3980e0002c9bb1e4c|0
+d:algorithm.hpp|1|14b485de4c4|2320|3e6b57fa|a30d5fc27cd411e3980e0002c9bb1e4c|0
+10:named_params.hpp|1|14b485ddba0|29c9|7a40fe77|dd5d37f27cd111e3980e0002c9bb1e4c|0
+e:nullstream.hpp|1|14b485de4c4|fe0|d51dd218|3fdd5a2e7cd411e3980e0002c9bb1e4c|0
+f:xml_printer.hpp|1|14b485ddb71|c65|8e29b27c|e8fcff4a7ccd11e3980e0002c9bb1e4c|0
+7:runtime|2|0|0|0|8f6cfaae7ccd11e3980e0002c9bb1e4c|0
+10:lazy_ostream.hpp|1|14b485ddb81|e1d|f12624da|19bd02067cce11e3980e0002c9bb1e4c|0
+c:callback.hpp|1|14b485de4c4|26e8|4b4270b1|03ed3a227cd211e3980e0002c9bb1e4c|0
+14:class_properties.hpp|1|14b485ddba0|2677|ee603894|c7ed36be7cd111e3980e0002c9bb1e4c|0
+8:iterator|2|0|0|0|688cf8ce7ccd11e3980e0002c9bb1e4c|0
+15:wrap_stringstream.hpp|1|14b485ddb91|142c|6e9e3827|9ebd17ae7ccf11e3980e0002c9bb1e4c|0

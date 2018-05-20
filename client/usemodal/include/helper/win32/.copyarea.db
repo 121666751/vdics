@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\helper\win32
+2
+6
+c:zprocess.hpp|1|14b486653a1|3d8|b5383685|919405987cc211e3880a0002c9bb1e4c|0
+a:ztoken.hpp|1|14b48665392|4b7|cc5b60db|dd53e5007cbf11e3880a0002c9bb1e4c|0
+a:zwin32.hpp|1|14b486653b1|8e8|2c3dccdc|9bd41f307cc411e3880a0002c9bb1e4c|0
+a:thread.hpp|1|14b486653b1|435|1e0242cc|5a640f007cc311e3880a0002c9bb1e4c|0
+a:ztcpip.hpp|1|14b486653b1|101e|a24c05e0|ece409dc7cc211e3880a0002c9bb1e4c|0
+a:zapi32.hpp|1|14b48665392|751|6b9c31cc|76c3f8247cc111e3880a0002c9bb1e4c|0

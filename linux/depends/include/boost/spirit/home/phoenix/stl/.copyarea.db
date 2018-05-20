@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\phoenix\stl
+2
+4
+d:algorithm.hpp|1|14b485c4dbd|313|6b11f004|78dd23ee7cd011e3980e0002c9bb1e4c|0
+9:algorithm|2|0|0|0|b71cfca67ccd11e3980e0002c9bb1e4c|0
+9:container|2|0|0|0|cd1cfdba7ccd11e3980e0002c9bb1e4c|0
+d:container.hpp|1|14b485c4dad|241|960aa7c5|eb7d0d9e7cce11e3980e0002c9bb1e4c|0

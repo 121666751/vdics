@@ -1,0 +1,20 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\utility
+2
+10
+1c:vresourcetofileextractor.hpp|1|14b4866cff4|106e|bd66181c|8203ed187cc011e3880a0002c9bb1e4c|0
+c:vlibrary.hpp|1|14b4866d428|ba4|3e53c135|00c4176c7cc411e3880a0002c9bb1e4c|0
+21:vsingleinstanceapprestriction.hpp|1|14b4866d428|261d|65a07668|c3a414407cc311e3880a0002c9bb1e4c|0
+19:vcapturedmousetracker.hpp|1|14b4866d418|212c|b333ef54|43140dcc7cc311e3880a0002c9bb1e4c|0
+f:vdebugtimer.hpp|1|14b4866cff4|b23|169790e3|1053f3c47cc111e3880a0002c9bb1e4c|0
+10:vmemoryblock.hpp|1|14b4866d428|13f9|3fc034fc|06e417c07cc411e3880a0002c9bb1e4c|0
+10:vtaskbaricon.hpp|1|14b4866cfe4|27bb|9429291d|e633e5707cbf11e3880a0002c9bb1e4c|0
+b:vhandle.hpp|1|14b4866d003|b16|98547deb|8e83f93c7cc111e3880a0002c9bb1e4c|0
+e:vdebugglobal.c|1|14b4866da7f|71c|be332773|2284328c7cc611e3880a0002c9bb1e4c|0
+21:vrecursivedirectoryenumerator.hpp|1|14b4866d428|2683|2cf800b|1da425f87cc511e3880a0002c9bb1e4c|0
+11:vctl3dlibrary.hpp|1|14b4866cfe4|b42|8e427309|0383e6f87cc011e3880a0002c9bb1e4c|0
+f:vwaitcursor.hpp|1|14b4866d428|5e2|8ee1e3bb|d48415207cc311e3880a0002c9bb1e4c|0
+10:vversioninfo.hpp|1|14b4866d428|1947|1d07a50b|c4a421447cc411e3880a0002c9bb1e4c|0
+d:vregistry.hpp|1|14b4866d418|2de9|e8bbaa35|412401a87cc211e3880a0002c9bb1e4c|0
+13:vshellregistrar.hpp|1|14b4866da7f|37c1|c1821730|9b042c187cc511e3880a0002c9bb1e4c|0
+a:vtimer.hpp|1|14b4866d428|80d|d3a9274|60a41c207cc411e3880a0002c9bb1e4c|0

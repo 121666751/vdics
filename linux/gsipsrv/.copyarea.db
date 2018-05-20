@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\gsipsrv
+2
+2
+b:gsipsrv.cpp|1|14b4858798c|1bd7|2f2806ad|29fd0946b8c211e38c290002c9bb1e4c|0
+8:Makefile|1|14b4858798c|343|7feed8c|28fd093eb8c211e38c290002c9bb1e4c|0

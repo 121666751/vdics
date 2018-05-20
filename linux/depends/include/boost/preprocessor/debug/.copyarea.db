@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\debug
+2
+3
+a:assert.hpp|1|14b48639363|58a|3dc3a812|95be4384783411e38c3b0002c9bb1e4c|0
+8:line.hpp|1|14b48639363|6b9|bf3dcdbb|13ee6358783711e38c3b0002c9bb1e4c|0
+9:error.hpp|1|14b48639363|647|2640a4ae|0f4e6fb4783811e38c3b0002c9bb1e4c|0

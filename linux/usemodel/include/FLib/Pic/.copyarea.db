@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\FLib\Pic
+2
+5
+d:ImageFormat.h|1|14b48578bd5|eaa|f2c821ee|50e85cb87cf811e384270002c9bb1e4c|0
+5:Pic.h|1|14b48578f20|3084|c14fc89d|ad4861c07cf811e384270002c9bb1e4c|0
+8:Bitmap.h|1|14b48578f20|1a7f|f2a0db81|9d2860e07cf811e384270002c9bb1e4c|0
+8:Effect.h|1|14b48578f2f|2b83|3713ec3c|b16861f87cf811e384270002c9bb1e4c|0
+7:Image.h|1|14b48578f10|2b9d|3b5d4d6a|9728608c7cf811e384270002c9bb1e4c|0

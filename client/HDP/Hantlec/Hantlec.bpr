@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="Hantlec.exe"/>
+    <OBJFILES value="Hantlec.obj TotalMoney.obj selNet.obj about.obj wait.obj wiseIPdlg.obj 
+      main.obj histquery.obj setup.obj HDPCtrlUI.obj ManVch.obj badclean.obj 
+      SplitDc.obj ConfigFile.obj C2E.obj login.obj pubfun.obj Password.obj 
+      pocket.obj vips.obj distData.obj distimage.obj state.obj"/>
+    <RESFILES value="Hantlec.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) TotalMoney.dfm selNet.dfm about.dfm wait.dfm wiseIPdlg.dfm 
+      main.dfm histquery.dfm setup.dfm ManVch.dfm badclean.dfm C2E.dfm login.dfm 
+      pocket.dfm vips.dfm distData.dfm distimage.dfm state.dfm"/>
+    <LIBFILES value="..\..\usemodal\lib\libmySQL_b.lib ..\lib\TCHDP3000C_b.lib 
+      ..\lib\distControllor_b.lib ..\..\usemodal\lib\zcommon_b.lib"/>
+    <LIBRARIES value="DCLUSR.lib vclx.lib vcldb.lib dbrtl.lib vcl.lib rtl.lib"/>
+    <SPARELIBS value="rtl.lib vcl.lib dbrtl.lib vcldb.lib vclx.lib DCLUSR.lib"/>
+    <PACKAGES value="rtl.bpi vcl.bpi vclx.bpi dbrtl.bpi vcldb.bpi bdertl.bpi vcldbx.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="WIN32;HANTLE"/>
+    <SYSDEFINES value="NO_STRICT;_RTLDLL"/>
+    <MAINSOURCE value="Hantlec.cpp"/>
+    <INCLUDEPATH value="&quot;d:\Program Files\Borland\CBuilder6\Projects&quot;;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;.\..\..\usemodal\include"/>
+    <LIBPATH value="$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\Imports;$(BCB)\lib;.\..\..\usemodal\lib"/>
+    <WARNINGS value="-w-par -w-8027 -w-8026"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I&quot;d:\Program Files\Borland\CBuilder6\Projects&quot; -I$(BCB)\Imports 
+      -I$(BCB)\include -I$(BCB)\include\vcl -I.\..\..\usemodal\include 
+      -src_suffix cpp -DWIN32 -DHANTLE -boa"/>
+    <CFLAG1 value="-O2 -Q -w- -Vx -Ve -X- -a8 -b- -k- -vi -c -tW -tWM"/>
+    <PFLAGS value="-$Y- -$L- -$D- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zn"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="Hantlec.cpp" FORMNAME="" UNITNAME="Hantlec" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Hantlec.res" FORMNAME="" UNITNAME="Hantlec.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TotalMoney.cpp" FORMNAME="FmTotalMoney" UNITNAME="TotalMoney" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="selNet.cpp" FORMNAME="FmSelNet" UNITNAME="selNet" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="about.cpp" FORMNAME="AboutBox" UNITNAME="about" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="wait.cpp" FORMNAME="FmWait" UNITNAME="wait" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="wiseIPdlg.cpp" FORMNAME="FmWiseIP" UNITNAME="wiseIPdlg" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="main.cpp" FORMNAME="FmDistMan" UNITNAME="main" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="histquery.cpp" FORMNAME="HistQueryDlg" UNITNAME="histquery" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="setup.cpp" FORMNAME="SetupDlg" UNITNAME="setup" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="HDPCtrlUI.cpp" FORMNAME="" UNITNAME="HDPCtrlUI" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ManVch.cpp" FORMNAME="ManVchAdd" UNITNAME="ManVch" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="badclean.cpp" FORMNAME="BadCleanDlg" UNITNAME="badclean" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SplitDc.cpp" FORMNAME="" UNITNAME="SplitDc" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ConfigFile.cpp" FORMNAME="" UNITNAME="ConfigFile" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C2E.cpp" FORMNAME="FormC2E" UNITNAME="C2E" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\usemodal\lib\libmySQL_b.lib" FORMNAME="" UNITNAME="libmySQL_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="login.h" FORMNAME="" UNITNAME="login.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Lock.ico" FORMNAME="" UNITNAME="Lock.ico" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="login.cpp" FORMNAME="FormLogin" UNITNAME="login" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="login.dfm" FORMNAME="" UNITNAME="login.dfm" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Password.h" FORMNAME="" UNITNAME="Password.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Password.dfm" FORMNAME="" UNITNAME="Password.dfm" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pubfun.cpp" FORMNAME="" UNITNAME="pubfun.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pubfun.h" FORMNAME="" UNITNAME="pubfun.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\lib\TCHDP3000C_b.lib" FORMNAME="" UNITNAME="TCHDP3000C_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\lib\distControllor_b.lib" FORMNAME="" UNITNAME="distControllor_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Password.cpp" FORMNAME="" UNITNAME="Password" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pocket.cpp" FORMNAME="FmPocket" UNITNAME="pocket" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pocket.dfm" FORMNAME="" UNITNAME="pocket.dfm" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pocket.h" FORMNAME="" UNITNAME="pocket.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vips.h" FORMNAME="" UNITNAME="vips.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vips.dfm" FORMNAME="" UNITNAME="vips.dfm" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vips.cpp" FORMNAME="FmVips" UNITNAME="vips" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="distData.cpp" FORMNAME="distForm" UNITNAME="distData" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="distimage.cpp" FORMNAME="distFormImage" UNITNAME="distimage" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\..\usemodal\lib\zcommon_b.lib" FORMNAME="" UNITNAME="zcommon_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="state.cpp" FORMNAME="FormST" UNITNAME="state" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=1
+MajorVer=6
+MinorVer=0
+Release=2
+Build=97
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2052
+CodePage=936
+
+[Version Info Keys]
+CompanyName=天创征腾
+FileDescription=Hantle3000C清分控制分程序
+FileVersion=6.0.2.97
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=23
+Item0=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;.\..\..\usemodal\include
+Item1=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;.\..\..\usemodal\include;.\..\..\include
+Item2=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;.\..\..\usemodal\include;C:\DevDepend\include;C:\AppDepend\Include;.\..\..\include
+Item3=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;.\..\..\include;.\..\..\usemodal\include
+Item4=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;.\..\..\include;.\..\..\usemodal\include
+Item5=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;.\..\..\include;..\..\..\usemodal\include
+Item6=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;.\..\..\include
+Item7=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;.\...\..\include
+Item8=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;C:\home\niejianjun\autotally\include;.\..\include
+Item9=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include;C:\home\niejianjun\autotally\include
+Item10=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include
+Item11=C:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\AppDepend\Include
+Item12=$(BCB)\Imports;$(BCB)\include;$(BCB)\include\vcl;C:\DevDepend\include;C:\Documents and Settings\niejianjun\My Documents\AppDepend\Include
+Item13=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects;$(BCB)\include;$(BCB)\include\vcl;c:\AppDepend\Include\Common;c:\AppDepend\Include\Vwcl;c:\AppDepend\Zil\include;c:\AppDepend\NCR_WiseIP\Inc;C:\AppDepend\Include;C:\DevDepend\include;C:\AppDepend\Include\bcbext
+Item14=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects;$(BCB)\include;$(BCB)\include\vcl;c:\AppDepend\Include\Common;c:\AppDepend\Include\Vwcl;c:\AppDepend\Zil\include;c:\AppDepend\NCR_WiseIP\Inc
+Item15=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;c:\AppDepend\Include\Common\;c:\AppDepend\Include\Vwcl\;c:\AppDepend\Zil\include\;c:\AppDepend\NCR_WiseIP\Inc\
+Item16=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;F:\AppDepend\Include\Common\;F:\AppDepend\Include\Vwcl\;F:\AppDepend\Zil\include\;F:\AppDepend\NCR_WiseIP\Inc\
+Item17=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;C:\AppDepend\Include\Common\;C:\AppDepend\Include\Vwcl\;C:\AppDepend\Zil\include\;C:\AppDepend\NCR_WiseIP\Inc
+Item18=$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;C:\AppDepend\Include\Common\;C:\AppDepend\Include\Vwcl\;C:\AppDepend\Zil\include\
+Item19=C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\include;$(BCB)\include\vcl;C:\AppDepend\Include\Common\;C:\AppDepend\Include\Vwcl\;C:\AppDepend\Zil\include\
+Item20=C:\Program Files\Borland\CBuilder5\Projects;$(BCB)\include;$(BCB)\include\vcl;C:\AppDepend\Include\Common\;C:\AppDepend\Include\Vwcl\;C:\AppDepend\Zil\include\
+Item21=$(BCB)\include;$(BCB)\include\vcl;C:\AppDepend\Include\Common;C:\AppDepend\Include\Vwcl;C:\AppDepend\Zil\include
+Item22=$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=16
+Item0=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\Imports;$(BCB)\lib;.\..\..\usemodal\lib
+Item1=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\Imports;$(BCB)\lib
+Item2=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\Imports;$(BCB)\lib\obj;$(BCB)\lib
+Item3=d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\Imports;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb;c:\AppDepend\Lib;C:\DevDepend\lib;.\..\..\release
+Item4=$(BCB)\Projects\Lib;$(BCB)\Imports;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb;c:\AppDepend\Lib;C:\DevDepend\lib;.\..\..\release
+Item5=$(BCB)\Projects\Lib;$(BCB)\Imports;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb;c:\AppDepend\Lib;C:\DevDepend\lib
+Item6=C:\Program Files\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\Imports;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb;c:\AppDepend\Lib;C:\DevDepend\lib
+Item7=$(BCB)\Projects\Lib;$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb;c:\AppDepend\Lib;c:\AppDepend\NCR_WiseIP\Lib
+Item8=$(BCB)\Projects\Lib;$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\lib\obj;$(BCB)\lib;c:\AppDepend\Lib\bcb\;c:\AppDepend\Lib\;c:\AppDepend\NCR_WiseIP\Lib\
+Item9=$(BCB)\Projects\Lib;$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\lib\obj;$(BCB)\lib;F:\AppDepend\Lib\bcb\;F:\AppDepend\Lib\;F:\AppDepend\NCR_WiseIP\Lib\
+Item10=$(BCB)\Projects\Lib;$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\lib\obj;$(BCB)\lib;C:\AppDepend\Lib\bcb\;C:\AppDepend\Lib\;C:\AppDepend\NCR_WiseIP\Lib
+Item11=$(BCB)\Projects\Lib;$(BCB)\Imports;C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\lib\obj;$(BCB)\lib;C:\AppDepend\Lib\bcb\;C:\AppDepend\Lib\
+Item12=C:\Program Files\Borland\CBuilder5\Projects\;$(BCB)\lib\obj;$(BCB)\lib;C:\AppDepend\Lib\bcb\;C:\AppDepend\Lib\
+Item13=C:\Program Files\Borland\CBuilder5\Projects;$(BCB)\lib\obj;$(BCB)\lib;C:\AppDepend\Lib\bcb\;C:\AppDepend\Lib\
+Item14=$(BCB)\lib\obj;$(BCB)\lib;C:\AppDepend\Lib\bcb;C:\AppDepend\Lib
+Item15=$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=8
+Item0=WIN32;HANTLE
+Item1=WIN32;HANTLE;_DEBUG
+Item2=WIN32;HANTLE;;_DEBUG
+Item3=WIN32;HANTLE;
+Item4=WIN32;
+Item5=WIN32
+Item6=WIN32;_DEBUG
+Item7=_DEBUG
+
+[HistoryLists\hlFinalOutputDir]
+Count=20
+Item0=E:\works\svn\gsip\source\c\jzth\client\HDP\install\
+Item1=E:\works\svn\gsip\source\c\jzth\client\HDP\install
+Item2=E:\works\svn\gsip\install\
+Item3=E:\works\svn\gsip\install
+Item4=D:\svnroot\install\jzth\
+Item5=D:\svnroot\install\jzth
+Item6=D:\svnroot\source\c\jzth\client\HDP\install\
+Item7=D:\svnroot\source\c\jzth\client\HDP\install
+Item8=E:\works\svn\北京交行\install\
+Item9=E:\works\svn\北京交行\install
+Item10=C:\Program Files\zephyr\vchcenter\
+Item11=C:\Program Files\zephyr\vchcenter
+Item12=F:\SD\autotally\release\
+Item13=F:\SD\autotally\release
+Item14=./../../release/\
+Item15=./../../release/
+Item16=.\..\..\release\
+Item17=.\..\..\release
+Item18=F:\ais\
+Item19=F:\ais
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

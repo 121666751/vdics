@@ -1,0 +1,8 @@
+<RecPrintNum>
+	<Fonts Methode='HuZhouCheckNum' Width='17' Height='32' Space='8' NumMCffre='12' ModelFile='.\\config\\ModelHuZhouNumCheck_17_32.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+	<Fonts Methode='HuZhouCreditNum' Width='17' Height='32' Space='8' NumMCffre='12' ModelFile='.\\config\\ModelHuZhouNumCheck_17_32.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+	<Fonts Methode='HuZhouTelLetNum' Width='17' Height='26' Space='7' NumMCffre='10' ModelFile='.\\config\\ModelHuZhouNumTelLet_17_26.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+	<Fonts Methode='HuZhouTelLetChar' Width='38' Height='38' Space='0' NumMCffre='2' ModelFile='.\\config\\ModelHuZhouCharTelLet_38_38.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+	<Fonts Methode='JiaoHangCheck' Width='12' Height='27' Space='7' NumMCffre='10' ModelFile='.\\config\\ModelJiaoHangCheck_12_27.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+	<Fonts Methode='JiaoHangCheck_YiChang' Width='16' Height='27' Space='7' NumMCffre='10' ModelFile='.\\config\\ModelJiaoHangCheck_YiChang_16_27.zpy' RealNumCheck='HuZhouNumCheck.bmp' />
+</RecPrintNum>

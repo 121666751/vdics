@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\Vwcl_include\windows_controls
+2
+c
+e:vscrollbar.hpp|1|14b4857071f|2a42|c8b2ad9a|77086ca87cfa11e384270002c9bb1e4c|0
+b:vbutton.hpp|1|14b4857072f|1f76|76eb1f98|f4c873707cfa11e384270002c9bb1e4c|0
+11:vclosexbutton.hpp|1|14b48570d18|39ca|87d5f0c9|92987c147cfb11e384270002c9bb1e4c|0
+d:vgroupbox.hpp|1|14b4857026e|745|63434019|5dc86b3c7cfa11e384270002c9bb1e4c|0
+9:vmenu.hpp|1|14b4857073f|8f6f|3b443304|5fd879587cfb11e384270002c9bb1e4c|0
+c:vlistbox.hpp|1|14b4857026e|9881|6bd5c041|5f986b587cfa11e384270002c9bb1e4c|0
+d:vcheckbox.hpp|1|14b4857072f|b10|198b6522|e76872ac7cfa11e384270002c9bb1e4c|0
+b:vstatic.hpp|1|14b4857072f|19c8|6acf629c|4ff878787cfb11e384270002c9bb1e4c|0
+10:vradiobutton.hpp|1|14b4857025e|773|8ff84f73|059866c07cfa11e384270002c9bb1e4c|0
+9:vedit.hpp|1|14b4857071f|749d|ba5083cc|9ae86ea07cfa11e384270002c9bb1e4c|0
+12:vformattededit.hpp|1|14b4857072f|18c3|e8eb5a7a|af686fb87cfa11e384270002c9bb1e4c|0
+d:vcombobox.hpp|1|14b4857073f|95ad|f44bda09|59c879047cfb11e384270002c9bb1e4c|0

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\utils\runtime\env
+2
+6
+f:environment.cpp|1|14b485decb0|4a7|4dec5c05|bc1519be7cdc11e3881d0002c9bb1e4c|0
+c:variable.hpp|1|14b485deca1|18d3|d771c0f|ae7518fa7cdc11e3881d0002c9bb1e4c|0
+7:fwd.hpp|1|14b485decb0|50e|39f58c3d|04651dae7cdd11e3881d0002c9bb1e4c|0
+f:environment.hpp|1|14b485dec91|13e5|b7a3e98b|7d3516767cdc11e3881d0002c9bb1e4c|0
+c:modifier.hpp|1|14b485decb0|5b4|afb99de2|29851fa67cdd11e3881d0002c9bb1e4c|0
+f:environment.ipp|1|14b485dec91|df3|5b8c3756|6f1515b27cdc11e3881d0002c9bb1e4c|0

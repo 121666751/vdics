@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\lex\lexer
+2
+e
+c:sequence.hpp|1|14b485d2e6e|3ff|5bc238f9|726d405e7cd211e3980e0002c9bb1e4c|0
+15:terminal_director.hpp|1|14b485d2e5e|ab6|261c45d6|381d3d167cd211e3980e0002c9bb1e4c|0
+10:meta_grammar.hpp|1|14b485d2e6e|1399|561268e3|7c7d40ea7cd211e3980e0002c9bb1e4c|0
+d:token_set.hpp|1|14b485d3adc|258a|62f27405|19fd581a7cd411e3980e0002c9bb1e4c|0
+14:string_token_def.hpp|1|14b485d3adc|531|9fc27994|239d58a67cd411e3980e0002c9bb1e4c|0
+13:terminal_holder.hpp|1|14b485d2e5e|315|a0f6f124|435d128a7ccf11e3980e0002c9bb1e4c|0
+9:lexer.hpp|1|14b485d3adc|3539|388b4b39|0a5d573a7cd411e3980e0002c9bb1e4c|0
+d:token_def.hpp|1|14b485d2e5e|1d11|fabf2b66|a3dd26567cd011e3980e0002c9bb1e4c|0
+7:lexertl|2|0|0|0|a88cfbf27ccd11e3980e0002c9bb1e4c|0
+11:lexer_actions.hpp|1|14b485d2e5e|614|fadda72b|0f5d3aca7cd211e3980e0002c9bb1e4c|0
+a:action.hpp|1|14b485d2e5e|d77|b913b368|976d173e7ccf11e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|932cfade7ccd11e3980e0002c9bb1e4c|0
+12:char_token_def.hpp|1|14b485d2e5e|586|8985916f|b7cd191a7ccf11e3980e0002c9bb1e4c|0
+d:lexer_fwd.hpp|1|14b485d3aec|6d2|a51cc7db|703d5cea7cd411e3980e0002c9bb1e4c|0

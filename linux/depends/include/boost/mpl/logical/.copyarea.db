@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\logical
+2
+3
+7:and.hpp|1|14b486129be|c4a|65e1c873|aece2b90783211e38c3b0002c9bb1e4c|0
+6:or.hpp|1|14b486129be|c4e|1ba8c9b3|e99ead2c783c11e38c3b0002c9bb1e4c|0
+7:not.hpp|1|14b486129cd|628|7451f3fb|233ebc60783e11e38c3b0002c9bb1e4c|0

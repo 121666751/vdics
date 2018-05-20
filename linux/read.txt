@@ -1,0 +1,3 @@
+clean.sh 清理所有工程
+
+rebuild.sh 重新编译所有工程

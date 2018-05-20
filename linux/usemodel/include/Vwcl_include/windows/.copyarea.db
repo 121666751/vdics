@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\Vwcl_include\windows
+2
+e
+b:vwindow.hpp|1|14b48571330|ff7f|ffbc83ed|c4f87ed07cfb11e384270002c9bb1e4c|0
+f:voutlookbar.hpp|1|14b48570d37|bc4c|9e22e785|8b486dc07cfa11e384270002c9bb1e4c|0
+15:vsplashwindowbase.hpp|1|14b48571321|1a95|287b52fd|c1087e987cfb11e384270002c9bb1e4c|0
+b:vwindow.cpp|1|14b48570d37|6e67|145e047e|e95872c87cfa11e384270002c9bb1e4c|0
+12:vmdimainwindow.hpp|1|14b48571321|3b58|c141f21d|7c687ae07cfb11e384270002c9bb1e4c|0
+f:vtempwindow.hpp|1|14b48570d28|759|9388687b|fda866507cf911e384270002c9bb1e4c|0
+f:vmaindialog.hpp|1|14b48571321|12ff|603eae5|183875687cfb11e384270002c9bb1e4c|0
+13:vsplashwindowex.hpp|1|14b48571311|1898|3882a3df|ef58731c7cfa11e384270002c9bb1e4c|0
+f:vminiwindow.hpp|1|14b48570d28|119f|91d87f31|126867687cfa11e384270002c9bb1e4c|0
+11:vsplashwindow.hpp|1|14b48571321|108f|b74c248c|421877b47cfb11e384270002c9bb1e4c|0
+13:vmdichildwindow.hpp|1|14b48570d37|3caf|8bb585e5|c1a870b47cfa11e384270002c9bb1e4c|0
+18:vwindowmessagefilter.hpp|1|14b48571330|c03|6865f8d0|d4b87fb07cfb11e384270002c9bb1e4c|0
+b:vdialog.hpp|1|14b48570d37|1d8f|c4b8f927|d8c871e87cfa11e384270002c9bb1e4c|0
+f:vmainwindow.hpp|1|14b48570d28|5daf|a5162789|fbc866347cf911e384270002c9bb1e4c|0

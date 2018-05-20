@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\graph\detail
+2
+13
+b:is_same.hpp|1|14b486462a6|4c5|1dc769d2|6fbecc74783f11e38c3b0002c9bb1e4c|0
+12:adjacency_list.hpp|1|14b4864584a|1b262|2cdadace|bb7e1f6c783111e38c3b0002c9bb1e4c|0
+1a:adj_list_edge_iterator.hpp|1|14b4864584a|f0c|796e4bad|b3ddf9b0782e11e38c3b0002c9bb1e4c|0
+f:permutation.hpp|1|14b4864620a|1666|5366eff6|358e3220783311e38c3b0002c9bb1e4c|0
+12:bitset_adaptor.hpp|1|14b4864620a|ab2|2e581dac|091e561c783611e38c3b0002c9bb1e4c|0
+18:read_graphviz_spirit.hpp|1|14b4864584a|56d1|677db3b|22de2490783211e38c3b0002c9bb1e4c|0
+16:indexed_properties.hpp|1|14b486462a6|128f|6e363dbd|746eccac783f11e38c3b0002c9bb1e4c|0
+16:incidence_iterator.hpp|1|14b4864733a|a38|e29f0f75|17dee0b0784111e38c3b0002c9bb1e4c|0
+8:edge.hpp|1|14b4864584a|e72|96184194|eacdef68782d11e38c3b0002c9bb1e4c|0
+18:connected_components.hpp|1|14b4864620a|1b1f|727a03df|2f2e7158783811e38c3b0002c9bb1e4c|0
+13:shadow_iterator.hpp|1|14b4864584a|143b|f932372f|9fee2acc783211e38c3b0002c9bb1e4c|0
+1a:incremental_components.hpp|1|14b48647349|1241|32a3580c|588ee334784111e38c3b0002c9bb1e4c|0
+d:list_base.hpp|1|14b4864621a|16ac|de506a0b|616ea680783c11e38c3b0002c9bb1e4c|0
+15:array_binary_tree.hpp|1|14b4864620a|1830|b7d536bc|27fe3e0c783411e38c3b0002c9bb1e4c|0
+16:self_avoiding_walk.hpp|1|14b4864621a|3880|834dee|69fea6f0783c11e38c3b0002c9bb1e4c|0
+a:bitset.hpp|1|14b4864621a|81f5|d9b7b827|7bae752c783811e38c3b0002c9bb1e4c|0
+f:set_adaptor.hpp|1|14b4864583b|d63|b24c9159|a03deb94782d11e38c3b0002c9bb1e4c|0
+a:intset.hpp|1|14b48646229|ae2|c43a6424|993ec248783e11e38c3b0002c9bb1e4c|0
+13:sparse_ordering.hpp|1|14b4864583b|18db|8151a5b4|863ddd40782c11e38c3b0002c9bb1e4c|0

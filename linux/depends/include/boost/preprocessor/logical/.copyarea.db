@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\logical
+2
+b
+8:bool.hpp|1|14b4863adc6|20f9|8f06255a|5e1e99b4783b11e38c3b0002c9bb1e4c|0
+a:bitand.hpp|1|14b4863ada7|5ad|8f356cf4|30fdf304782e11e38c3b0002c9bb1e4c|0
+9:compl.hpp|1|14b4863adb7|53e|5636503e|bcbe457c783411e38c3b0002c9bb1e4c|0
+7:and.hpp|1|14b4863ada7|3b2|22e617a2|d4edee50782d11e38c3b0002c9bb1e4c|0
+a:bitxor.hpp|1|14b4863adc6|5ab|77a46ecd|9fee839c783911e38c3b0002c9bb1e4c|0
+7:xor.hpp|1|14b4863adb7|3b2|9c31191e|499e7f58783911e38c3b0002c9bb1e4c|0
+7:nor.hpp|1|14b4863ada7|3b2|389f18ba|4b7e2688783211e38c3b0002c9bb1e4c|0
+6:or.hpp|1|14b4863adc6|3a8|ea39158e|251ea38c783c11e38c3b0002c9bb1e4c|0
+9:bitor.hpp|1|14b4863ad97|598|8f556846|08cde3ec782d11e38c3b0002c9bb1e4c|0
+a:bitnor.hpp|1|14b4863ada7|5ab|67f66e0e|92ae2a24783211e38c3b0002c9bb1e4c|0
+7:not.hpp|1|14b4863adc6|37f|6d060aad|636e80a8783911e38c3b0002c9bb1e4c|0

@@ -1,0 +1,25 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\intrusive\detail
+2
+15
+10:generic_hook.hpp|1|14b485e5756|1663|10851a66|d41ee91c784111e38c3b0002c9bb1e4c|0
+a:assert.hpp|1|14b485e5756|5e0|d618aec5|2dcee120784111e38c3b0002c9bb1e4c|0
+13:tree_algorithms.hpp|1|14b485e4db5|ea1b|b152be41|f1be08e4782f11e38c3b0002c9bb1e4c|0
+14:pointer_to_other.hpp|1|14b485e5756|65c|5bbce3f8|c2deb774783d11e38c3b0002c9bb1e4c|0
+16:transform_iterator.hpp|1|14b485e5756|1477|6dbe913e|e61eb950783d11e38c3b0002c9bb1e4c|0
+d:list_node.hpp|1|14b485e567c|1657|210c132f|cd1e9298783a11e38c3b0002c9bb1e4c|0
+16:ebo_functor_holder.hpp|1|14b485e4dc5|8b0|7e35999b|d86e3a1c783311e38c3b0002c9bb1e4c|0
+e:workaround.hpp|1|14b485e4dd5|519|d9ae7bbf|d8fe6064783611e38c3b0002c9bb1e4c|0
+e:config_end.hpp|1|14b485e430b|1ff|ae588762|155df198782e11e38c3b0002c9bb1e4c|0
+12:hashtable_node.hpp|1|14b485e4dd5|1904|479fcc88|292e6470783711e38c3b0002c9bb1e4c|0
+d:utilities.hpp|1|14b485e4de4|4b54|4fa25ce|964e8fdc783a11e38c3b0002c9bb1e4c|0
+d:tree_node.hpp|1|14b485e4de4|1814|766f66eb|8d8e760c783811e38c3b0002c9bb1e4c|0
+7:mpl.hpp|1|14b485e4de4|21ac|751eb23c|0ebe8914783a11e38c3b0002c9bb1e4c|0
+10:avltree_node.hpp|1|14b485e4dd5|15d7|9140dfa9|266e70e8783811e38c3b0002c9bb1e4c|0
+f:rbtree_node.hpp|1|14b485e430b|1511|7cca940c|9a5df87c782e11e38c3b0002c9bb1e4c|0
+e:slist_node.hpp|1|14b485e568c|13e4|d8ef55d5|f7eea140783b11e38c3b0002c9bb1e4c|0
+1b:common_slist_algorithms.hpp|1|14b485e4dc5|c41|d63dced3|c89e1380783011e38c3b0002c9bb1e4c|0
+1b:any_node_and_algorithms.hpp|1|14b485e4dc5|2189|d72fc278|a8be37b4783311e38c3b0002c9bb1e4c|0
+16:parent_from_member.hpp|1|14b485e4dd5|a2e|f2ab3499|1e4e3d9c783411e38c3b0002c9bb1e4c|0
+10:config_begin.hpp|1|14b485e5756|8cf|36b1accd|25bec8f4783f11e38c3b0002c9bb1e4c|0
+1c:clear_on_destructor_base.hpp|1|14b485e4dd5|412|9dbc3658|64be6764783711e38c3b0002c9bb1e4c|0

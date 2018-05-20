@@ -1,0 +1,19 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\algorithm
+2
+f
+a:insert.hpp|1|14b485d4a76|d85|f33430af|2603dbb47cbf11e3880a0002c9bb1e4c|0
+a:filter.hpp|1|14b485d5668|5e3|668ba99|746410507cc311e3880a0002c9bb1e4c|0
+d:remove_if.hpp|1|14b485d4a86|64a|eeadf5c|c703f0287cc011e3880a0002c9bb1e4c|0
+8:fold.hpp|1|14b485d5668|9b2|c8319edc|901411a07cc311e3880a0002c9bb1e4c|0
+9:erase.hpp|1|14b485d5678|c26|704c20c|ce4414cc7cc311e3880a0002c9bb1e4c|0
+c:for_each.hpp|1|14b485d4a76|8b7|fdc5619b|f873ccd47cbd11e3880a0002c9bb1e4c|0
+8:find.hpp|1|14b485d4a86|9fb|7acac8d8|1673e7f47cc011e3880a0002c9bb1e4c|0
+7:any.hpp|1|14b485d5678|8b7|25695f2f|52c4287c7cc511e3880a0002c9bb1e4c|0
+b:replace.hpp|1|14b485d4a76|eb3|893c9257|ce43cac07cbd11e3880a0002c9bb1e4c|0
+d:push_back.hpp|1|14b485d4a86|683|c871ebfd|3513e97c7cc011e3880a0002c9bb1e4c|0
+e:push_front.hpp|1|14b485d5678|741|29e12c4b|1fd426147cc511e3880a0002c9bb1e4c|0
+a:remove.hpp|1|14b485d5668|7c1|4be43257|6e340ffc7cc311e3880a0002c9bb1e4c|0
+6:detail|2|0|0|0|d933bf087cbc11e3880a0002c9bb1e4c|0
+d:transform.hpp|1|14b485d5678|5fc|71b6c1f9|7e041da87cc411e3880a0002c9bb1e4c|0
+b:find_if.hpp|1|14b485d4a86|991|afc1a7c8|afc3e2b47cbf11e3880a0002c9bb1e4c|0

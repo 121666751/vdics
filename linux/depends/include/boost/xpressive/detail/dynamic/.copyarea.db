@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\detail\dynamic
+2
+7
+d:matchable.hpp|1|14b485b12f9|15c0|d850b8e6|5e184b407cf611e384270002c9bb1e4c|0
+11:parser_traits.hpp|1|14b485b0ace|4870|bf8c4d3|e15829e47cf311e384270002c9bb1e4c|0
+c:sequence.hpp|1|14b485b0aee|122e|131551e|231848147cf611e384270002c9bb1e4c|0
+a:parser.hpp|1|14b485b0ade|28fa|c852c94|20482d2c7cf411e384270002c9bb1e4c|0
+b:dynamic.hpp|1|14b485b0aee|2969|eda5857e|e84845047cf511e384270002c9bb1e4c|0
+11:parse_charset.hpp|1|14b485b0aee|3193|32332ad2|2a4848687cf611e384270002c9bb1e4c|0
+f:parser_enum.hpp|1|14b485b0aee|bfd|476c40ab|4a784a287cf611e384270002c9bb1e4c|0

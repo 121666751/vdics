@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\strings
+2
+7
+b:vstring.hpp|1|14b48671b56|9a2d|ec2b5fa3|cc4414b07cc311e3880a0002c9bb1e4c|0
+13:vresourcestring.hpp|1|14b48671b46|f0e|f9c5c4e2|ae1407047cc211e3880a0002c9bb1e4c|0
+16:vstringmanipulator.hpp|1|14b48671b46|609|1556f642|856404f07cc211e3880a0002c9bb1e4c|0
+f:vpathstring.hpp|1|14b48671b56|1a51|3ef203b0|088424e07cc511e3880a0002c9bb1e4c|0
+14:vstringconverter.hpp|1|14b48671b56|1328|9d4a0a20|4cb428287cc511e3880a0002c9bb1e4c|0
+11:vnumberstring.hpp|1|14b48671b08|1278|9be29ca9|54e3c4a07cbd11e3880a0002c9bb1e4c|0
+11:vwindowstring.hpp|1|14b48671b46|fc6|146ecd29|ecb3f2047cc011e3880a0002c9bb1e4c|0

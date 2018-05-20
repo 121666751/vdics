@@ -1,0 +1,15 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\dynamic
+2
+b
+a:switch.hpp|1|14b485d29eb|23b7|9651687f|25d43be87cc811e3880a0002c9bb1e4c|0
+13:stored_rule_fwd.hpp|1|14b485d2a1a|3a5|91291208|7c74402c7cc811e3880a0002c9bb1e4c|0
+6:if.hpp|1|14b485d2440|1f4c|aa28f836|cd6437dc7cc711e3880a0002c9bb1e4c|0
+e:rule_alias.hpp|1|14b485d2431|816|c42423df|b1f436707cc711e3880a0002c9bb1e4c|0
+a:typeof.hpp|1|14b485d2440|be8|7e01b516|dbf438a07cc711e3880a0002c9bb1e4c|0
+f:stored_rule.hpp|1|14b485d2431|f56|6edb2edc|a20435ac7cc711e3880a0002c9bb1e4c|0
+9:while.hpp|1|14b485d29fb|1a52|23119ffa|2a843c207cc811e3880a0002c9bb1e4c|0
+a:select.hpp|1|14b485d29fb|297d|39376e57|67b43f307cc811e3880a0002c9bb1e4c|0
+7:for.hpp|1|14b485d29fb|1a47|beab1132|48243da87cc811e3880a0002c9bb1e4c|0
+4:impl|2|0|0|0|8ff434d87cc711e3880a0002c9bb1e4c|0
+8:lazy.hpp|1|14b485d29fb|8bc|c2227606|3b543d007cc811e3880a0002c9bb1e4c|0

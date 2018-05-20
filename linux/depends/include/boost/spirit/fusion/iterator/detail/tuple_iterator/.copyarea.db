@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\iterator\detail\tuple_iterator
+2
+5
+13:equal_to_traits.hpp|1|14b485d9405|847|d016e6b|f2340a147cc211e3880a0002c9bb1e4c|0
+10:value_traits.hpp|1|14b485d9414|60e|7391d0b2|3d941a607cc411e3880a0002c9bb1e4c|0
+10:prior_traits.hpp|1|14b485d9369|831|4d4f82b6|41a3c3a47cbd11e3880a0002c9bb1e4c|0
+10:deref_traits.hpp|1|14b485d9405|7ab|14d4b49|16f418847cc411e3880a0002c9bb1e4c|0
+f:next_traits.hpp|1|14b485d9369|7e0|8490684e|a703d5787cbe11e3880a0002c9bb1e4c|0

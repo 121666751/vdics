@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\statechart\detail
+2
+9
+a:memory.hpp|1|14b485e1ef7|85a|8efd8f02|029d48927cd311e3980e0002c9bb1e4c|0
+f:constructor.hpp|1|14b485e1ef7|123d|df85e8f3|708d150e7ccf11e3980e0002c9bb1e4c|0
+18:avoid_unused_warning.hpp|1|14b485e1ee8|2e4|8dbbd0e6|2a8d111e7ccf11e3980e0002c9bb1e4c|0
+e:node_state.hpp|1|14b485e1ee8|1505|fc6c363d|09ed01267cce11e3980e0002c9bb1e4c|0
+e:leaf_state.hpp|1|14b485e1f07|a7e|cd9d1716|139d498e7cd311e3980e0002c9bb1e4c|0
+17:reaction_dispatcher.hpp|1|14b485e1f07|c26|a6af7bbb|9d0d51367cd311e3980e0002c9bb1e4c|0
+f:rtti_policy.hpp|1|14b485e1ef7|1924|1de4013e|fccd1cee7ccf11e3980e0002c9bb1e4c|0
+e:state_base.hpp|1|14b485e1ef7|167f|f2dbd514|401d3d867cd211e3980e0002c9bb1e4c|0
+10:counted_base.hpp|1|14b485e1ef7|992|ebfcafcc|176d1e767cd011e3980e0002c9bb1e4c|0

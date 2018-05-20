@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\detail
+2
+5
+4:core|2|0|0|0|8f6825947cf311e384270002c9bb1e4c|0
+e:detail_fwd.hpp|1|14b485ad3c7|30ae|be09c15c|37883bb87cf511e384270002c9bb1e4c|0
+7:utility|2|0|0|0|864825407cf311e384270002c9bb1e4c|0
+6:static|2|0|0|0|963825e87cf311e384270002c9bb1e4c|0
+7:dynamic|2|0|0|0|953825dc7cf311e384270002c9bb1e4c|0

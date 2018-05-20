@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\pmsrv
+2
+6
+d:multis_main.h|1|14b485873d2|79|ceb4277a|c9c836087cf411e384270002c9bb1e4c|0
+f:multis_main.cpp|1|14b485873e2|336|6038e8a0|868d0956b8c211e38c290002c9bb1e4c|0
+8:multis.h|1|14b485873e2|ac5|b01e22f8|48884a0c7cf611e384270002c9bb1e4c|0
+a:multis.cpp|1|14b485873d2|4de5|ebb1375|19782cd87cf411e384270002c9bb1e4c|0
+8:Makefile|1|14b485873e2|4ef|dba07573|4fc83d087cf511e384270002c9bb1e4c|0
+9:create.sh|1|14b485873e2|5d|5c6d1e1b|e7b837907cf411e384270002c9bb1e4c|0

@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\iostreams\detail\config
+2
+e
+d:auto_link.hpp|1|14b4865e6ca|6e2|9b951253|30be2538783211e38c3b0002c9bb1e4c|0
+a:limits.hpp|1|14b4865e6d9|2da|5eb6dffd|5a9e4d78783511e38c3b0002c9bb1e4c|0
+b:codecvt.hpp|1|14b4865e6e9|a2c|826bef2e|e85e6128783611e38c3b0002c9bb1e4c|0
+9:bzip2.hpp|1|14b4865e6ca|697|e459fa31|1f9e0b30783011e38c3b0002c9bb1e4c|0
+11:windows_posix.hpp|1|14b4865e6e9|41c|8ff73db8|240e576c783611e38c3b0002c9bb1e4c|0
+8:zlib.hpp|1|14b4865e6d9|6b6|7be806be|e07e473c783411e38c3b0002c9bb1e4c|0
+8:fpos.hpp|1|14b4865e6f9|444|8b354687|913eb528783d11e38c3b0002c9bb1e4c|0
+7:rtl.hpp|1|14b4865e6f9|a46|36df0f68|0b6e62e8783711e38c3b0002c9bb1e4c|0
+10:wide_streams.hpp|1|14b4865e6f9|7e2|3a204911|037e7bd8783911e38c3b0002c9bb1e4c|0
+14:disable_warnings.hpp|1|14b4865e6e9|543|6f04aba8|f80e61ec783611e38c3b0002c9bb1e4c|0
+13:enable_warnings.hpp|1|14b4865e6ba|2f2|fabbea47|551ddad8782c11e38c3b0002c9bb1e4c|0
+c:dyn_link.hpp|1|14b4865e708|4c5|64047055|3d9ee1e4784111e38c3b0002c9bb1e4c|0
+17:overload_resolution.hpp|1|14b4865e6f9|503|7e3183a3|edfe943c783a11e38c3b0002c9bb1e4c|0
+7:gcc.hpp|1|14b4865e708|385|e9313e7|062ec788783f11e38c3b0002c9bb1e4c|0

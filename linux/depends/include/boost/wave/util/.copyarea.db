@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\wave\util
+2
+13
+11:macro_helpers.hpp|1|14b485a003f|2d1f|f3eba190|35cab4947cea11e3ac0b0002c9bb1e4c|0
+1f:insert_whitespace_detection.hpp|1|14b485a005e|3efd|5ee55009|117ac02c7ceb11e3ac0b0002c9bb1e4c|0
+16:transform_iterator.hpp|1|14b485a004f|17e3|8e961e8a|f82abec07cea11e3ac0b0002c9bb1e4c|0
+10:symbol_table.hpp|1|14b485a004f|f33|afab7e1a|a11aba287cea11e3ac0b0002c9bb1e4c|0
+14:interpret_pragma.hpp|1|14b485a0020|216a|f03f787|010ab1d87cea11e3ac0b0002c9bb1e4c|0
+11:file_position.hpp|1|14b485a0010|1bdb|64b9e9d3|7d9aaaa07ce911e3ac0b0002c9bb1e4c|0
+1a:time_conversion_helper.hpp|1|14b485a0020|1656|e22e3f5b|07fab22c7cea11e3ac0b0002c9bb1e4c|0
+16:cpp_macromap_utils.hpp|1|14b485a0030|450e|45a212f5|0e8ab2807cea11e3ac0b0002c9bb1e4c|0
+12:pattern_parser.hpp|1|14b485a005e|8da|22a88995|24cac1447ceb11e3ac0b0002c9bb1e4c|0
+11:functor_input.hpp|1|14b485a0712|11ce|b60de6f7|c75828947cf311e384270002c9bb1e4c|0
+10:cpp_macromap.hpp|1|14b485a0c7f|12787|308d1d33|969840c07cf511e384270002c9bb1e4c|0
+10:cpp_iterator.hpp|1|14b485a0732|17294|41a05322|bd2835607cf411e384270002c9bb1e4c|0
+f:flex_string.hpp|1|14b485a0732|12291|4aae7102|eac837ac7cf411e384270002c9bb1e4c|0
+17:cpp_macromap_predef.hpp|1|14b485a0741|263e|a2513dbc|82583fc47cf511e384270002c9bb1e4c|0
+15:cpp_include_paths.hpp|1|14b485a0c7f|4a72|d486aa43|da8844407cf511e384270002c9bb1e4c|0
+f:cpp_ifblock.hpp|1|14b485a0741|1458|928cdfb1|22d83aa07cf511e384270002c9bb1e4c|0
+14:macro_definition.hpp|1|14b485a0722|1cdf|d3d95c97|e6982a1c7cf311e384270002c9bb1e4c|0
+15:iteration_context.hpp|1|14b485a0732|b7a|528a6e8e|a5e8342c7cf411e384270002c9bb1e4c|0
+18:unput_queue_iterator.hpp|1|14b485a0c8f|394a|b0026db1|1f1847dc7cf611e384270002c9bb1e4c|0

@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\lex\qi\state
+2
+2
+12:state_switcher.hpp|1|14b485d2e4f|1814|4a1bd725|7b8d4f5a7cd311e3980e0002c9bb1e4c|0
+c:in_state.hpp|1|14b485d2e4f|c1a|b9e6859f|e72d387e7cd111e3980e0002c9bb1e4c|0

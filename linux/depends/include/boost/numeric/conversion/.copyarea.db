@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric\conversion
+2
+d
+1c:udt_builtin_mixture_enum.hpp|1|14b48651d9e|303|c2ccf50c|dfbde1d8782c11e38c3b0002c9bb1e4c|0
+10:is_subranged.hpp|1|14b48651dfc|3a7|446d2022|9dce1e00783111e38c3b0002c9bb1e4c|0
+15:int_float_mixture.hpp|1|14b48651dfc|430|797c3d69|6eaea728783c11e38c3b0002c9bb1e4c|0
+10:sign_mixture.hpp|1|14b48651dfc|40d|dd7c32de|e00e0804782f11e38c3b0002c9bb1e4c|0
+8:cast.hpp|1|14b48651e0c|618|b604ebc2|7d5eb42c783d11e38c3b0002c9bb1e4c|0
+1a:int_float_mixture_enum.hpp|1|14b48651dfc|370|24e109a6|0d6ea258783c11e38c3b0002c9bb1e4c|0
+16:converter_policies.hpp|1|14b486524b0|1132|588a7c0b|b6fedc18784011e38c3b0002c9bb1e4c|0
+d:converter.hpp|1|14b486524b0|903|e42eb239|565ee318784111e38c3b0002c9bb1e4c|0
+a:bounds.hpp|1|14b48651dfc|2da|8ff5ec13|3a4e3258783311e38c3b0002c9bb1e4c|0
+15:conversion_traits.hpp|1|14b48651e0c|541|10caa77|d27eac14783c11e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|318dd944782c11e38c3b0002c9bb1e4c|0
+15:sign_mixture_enum.hpp|1|14b48651e0c|365|f3230625|054ebad8783e11e38c3b0002c9bb1e4c|0
+17:udt_builtin_mixture.hpp|1|14b48651dfc|3d9|427d2fdb|6ece4e74783511e38c3b0002c9bb1e4c|0

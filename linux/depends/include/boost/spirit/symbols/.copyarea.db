@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\symbols
+2
+4
+b:symbols.hpp|1|14b485b4704|472|cb175ebe|ddad1b2e7ccf11e3980e0002c9bb1e4c|0
+a:typeof.hpp|1|14b485b4714|46d|b0945cc4|c70d284e7cd011e3980e0002c9bb1e4c|0
+4:impl|2|0|0|0|854cfa367ccd11e3980e0002c9bb1e4c|0
+f:symbols_fwd.hpp|1|14b485b4714|486|dc6661e|193d1e927cd011e3980e0002c9bb1e4c|0

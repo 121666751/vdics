@@ -1,0 +1,26 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\pending
+2
+16
+16:property_serialize.hpp|1|14b485eb408|3b3|725531d7|195e0adc783011e38c3b0002c9bb1e4c|0
+10:mutable_heap.hpp|1|14b485eb417|84b|48381c7|09de16ac783111e38c3b0002c9bb1e4c|0
+19:fenced_priority_queue.hpp|1|14b485eb446|14dd|2863a92a|537ecb24783f11e38c3b0002c9bb1e4c|0
+c:property.hpp|1|14b485eb446|116a|d0c89b5a|a88ec30c783e11e38c3b0002c9bb1e4c|0
+15:iterator_adaptors.hpp|1|14b485eb417|ec|83984d1f|567e0dec783011e38c3b0002c9bb1e4c|0
+10:relaxed_heap.hpp|1|14b485ebea2|454d|6ba6cdf5|793ecce4783f11e38c3b0002c9bb1e4c|0
+14:container_traits.hpp|1|14b485eb3f8|3645|698586d8|5f5df56c782e11e38c3b0002c9bb1e4c|0
+11:integer_range.hpp|1|14b485ebea2|755|2d1961ee|70aee468784111e38c3b0002c9bb1e4c|0
+11:mutable_queue.hpp|1|14b485ebeb2|1127|d6264098|628eefe4784211e38c3b0002c9bb1e4c|0
+10:integer_log2.hpp|1|14b485eb427|93d|49398afd|135e6fec783811e38c3b0002c9bb1e4c|0
+10:indirect_cmp.hpp|1|14b485eb427|a29|ea8137c8|f26e7af8783811e38c3b0002c9bb1e4c|0
+11:disjoint_sets.hpp|1|14b485eb436|1ac7|f2e71f2c|7e5e8ea8783a11e38c3b0002c9bb1e4c|0
+12:fibonacci_heap.hpp|1|14b485eb436|1968|13f6fc73|d5ceac30783c11e38c3b0002c9bb1e4c|0
+9:queue.hpp|1|14b485eacc7|c79|2089f047|909dddcc782c11e38c3b0002c9bb1e4c|0
+11:bucket_sorter.hpp|1|14b485ebeb2|11dc|802e637a|6bcef054784211e38c3b0002c9bb1e4c|0
+12:iterator_tests.hpp|1|14b485eb408|1aa8|987e1601|d35dfb1c782e11e38c3b0002c9bb1e4c|0
+9:ct_if.hpp|1|14b485eb436|463|dad36667|c72eab88783c11e38c3b0002c9bb1e4c|0
+d:stringtok.hpp|1|14b485eb417|e14|a798299c|97ce69cc783711e38c3b0002c9bb1e4c|0
+e:lowest_bit.hpp|1|14b485eb417|39d|39adf68c|d78e2d88783211e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|3eddd9e0782c11e38c3b0002c9bb1e4c|0
+b:cstddef.hpp|1|14b485eacc7|192|c47b78d9|503df4a8782e11e38c3b0002c9bb1e4c|0
+b:is_heap.hpp|1|14b485eb436|700|fe1d253d|616ebf70783e11e38c3b0002c9bb1e4c|0

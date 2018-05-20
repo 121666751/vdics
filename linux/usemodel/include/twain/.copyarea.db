@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\twain
+2
+3
+a:twndebug.h|1|14b48575d71|52d|5962a379|6a7879e47cfb11e384270002c9bb1e4c|0
+7:Twain.h|1|14b48575d80|1382c|50f191db|da5880047cfb11e384270002c9bb1e4c|0
+a:twndebug.c|1|14b48575d80|c4d|e2efcb48|6c587a007cfb11e384270002c9bb1e4c|0

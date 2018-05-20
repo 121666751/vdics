@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\multiset\aux_
+2
+5
+f:insert_impl.hpp|1|14b486129cd|3bc|e1272564|7fdddcec782c11e38c3b0002c9bb1e4c|0
+7:tag.hpp|1|14b486129dd|285|4952be8c|7deef134784211e38c3b0002c9bb1e4c|0
+d:multiset0.hpp|1|14b486129dd|3a8|3a921a35|04de6294783711e38c3b0002c9bb1e4c|0
+e:count_impl.hpp|1|14b486129dd|908|874c498|3bce7200783811e38c3b0002c9bb1e4c|0
+8:item.hpp|1|14b486129cd|eba|88c29ad6|aabe2b58783211e38c3b0002c9bb1e4c|0

@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Gdi
+2
+3
+b:zsocket.hpp|1|14b4866b561|1bda|1482b25d|43f3ea407cc011e3880a0002c9bb1e4c|0
+6:zgdi.h|1|14b4866b561|1a1|49be79b0|c79414787cc311e3880a0002c9bb1e4c|0
+5:DIB.H|1|14b4866b561|888|6c0d6db7|b3d3c9707cbd11e3880a0002c9bb1e4c|0

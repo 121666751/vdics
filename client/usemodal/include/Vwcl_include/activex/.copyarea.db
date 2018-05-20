@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\activex
+2
+13
+10:venumvariant.hpp|1|14b4867107d|156d|7f780776|b7e3fafc7cc111e3880a0002c9bb1e4c|0
+15:vactivexregistrar.hpp|1|14b4867159c|15f4|ffb7e76d|32540cec7cc311e3880a0002c9bb1e4c|0
+10:vactivexenum.hpp|1|14b4867107d|1fa4|e4a55bb1|2bf3e90c7cc011e3880a0002c9bb1e4c|0
+12:vactivexglobal.cpp|1|14b4867105e|12ec|83c75316|c333d6e47cbe11e3880a0002c9bb1e4c|0
+14:vssstoragehelper.hpp|1|14b4867106d|3e5d|43c7c9de|1d43db447cbf11e3880a0002c9bb1e4c|0
+11:vclassfactory.hpp|1|14b4867104e|1581|8d06bedf|3f93c3887cbd11e3880a0002c9bb1e4c|0
+11:venumstatdata.hpp|1|14b48671b08|1c2d|f5571e3c|0fc431907cc611e3880a0002c9bb1e4c|0
+10:venumoleverb.hpp|1|14b486715ab|1a78|2eb8d4f|003424707cc511e3880a0002c9bb1e4c|0
+12:viunknownarray.hpp|1|14b486715ab|ce9|313438aa|a3c4129c7cc311e3880a0002c9bb1e4c|0
+15:vautomationobject.hpp|1|14b4867105e|15d3|471cd56|bea3c9fc7cbd11e3880a0002c9bb1e4c|0
+10:venumstatstg.hpp|1|14b486715ab|1a99|ec689d2f|39941a287cc411e3880a0002c9bb1e4c|0
+13:vssstreamhelper.hpp|1|14b486715ab|2d33|ed648f00|df1422b07cc411e3880a0002c9bb1e4c|0
+10:venumunknown.hpp|1|14b486715ab|1668|949887cf|53f40eac7cc311e3880a0002c9bb1e4c|0
+c:vunknown.hpp|1|14b4867159c|227b|99642f8b|2484003c7cc211e3880a0002c9bb1e4c|0
+12:venumformatetc.hpp|1|14b486715bb|1b2a|9f3ec0c2|3f7427807cc511e3880a0002c9bb1e4c|0
+13:vssobjecthelper.cpp|1|14b4867159c|982|374ef90c|d5a408e07cc211e3880a0002c9bb1e4c|0
+10:venummoniker.hpp|1|14b4867107d|1690|4e1c90a5|d0e3fc307cc111e3880a0002c9bb1e4c|0
+17:vactivexinitializer.hpp|1|14b4867106d|b4b|604f9f68|e663d8a47cbe11e3880a0002c9bb1e4c|0
+13:vssobjecthelper.hpp|1|14b4867107d|2ed4|49c7dda7|c5e3fba47cc111e3880a0002c9bb1e4c|0

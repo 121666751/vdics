@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\wave\grammars
+2
+d
+1e:cpp_expression_grammar_gen.hpp|1|14b485a12d5|a53|e76b10a3|960ab99c7cea11e3ac0b0002c9bb1e4c|0
+1b:cpp_defined_grammar_gen.hpp|1|14b485a0cae|c75|9d70f1c2|ddbaafe07ce911e3ac0b0002c9bb1e4c|0
+16:cpp_intlit_grammar.hpp|1|14b485a12b6|1a93|85eb5d19|e34ab0347ce911e3ac0b0002c9bb1e4c|0
+f:cpp_grammar.hpp|1|14b485a0cae|7493|f96fc6cf|a0caac7c7ce911e3ac0b0002c9bb1e4c|0
+19:cpp_predef_macros_gen.hpp|1|14b485a12d5|b4b|869445cc|e9cabdfc7cea11e3ac0b0002c9bb1e4c|0
+1b:cpp_literal_grammar_gen.hpp|1|14b485a12c6|ab4|b2791677|5d7ab6a87cea11e3ac0b0002c9bb1e4c|0
+18:cpp_expression_value.hpp|1|14b485a12c6|7014|99a34102|6a5ab7507cea11e3ac0b0002c9bb1e4c|0
+1d:cpp_predef_macros_grammar.hpp|1|14b485a12b6|1ac9|b5c166df|1efab3607cea11e3ac0b0002c9bb1e4c|0
+15:cpp_chlit_grammar.hpp|1|14b485a0c9e|38e0|b8daf72f|89caab487ce911e3ac0b0002c9bb1e4c|0
+17:cpp_defined_grammar.hpp|1|14b485a12d5|1a8a|a26cbeff|289ac17c7ceb11e3ac0b0002c9bb1e4c|0
+13:cpp_value_error.hpp|1|14b485a12d5|6a5|82cede01|c3fabbe87cea11e3ac0b0002c9bb1e4c|0
+1a:cpp_expression_grammar.hpp|1|14b485a0c9e|87a3|1e858d09|64eaa9507ce911e3ac0b0002c9bb1e4c|0
+13:cpp_grammar_gen.hpp|1|14b485a12c6|10ee|468bd37d|682ab7347cea11e3ac0b0002c9bb1e4c|0

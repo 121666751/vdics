@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\program_options
+2
+d
+18:environment_iterator.hpp|1|14b485e763c|526|882f610c|949d16f278f311e3b03c0002c9bb1e4c|0
+a:errors.hpp|1|14b485e763c|12e9|b71dc951|91cd16d678f311e3b03c0002c9bb1e4c|0
+12:value_semantic.hpp|1|14b485e7c73|35af|90ccda66|d7bd1a7278f311e3b03c0002c9bb1e4c|0
+17:options_description.hpp|1|14b485e765b|24ea|cbde5eef|ccdd19e678f311e3b03c0002c9bb1e4c|0
+b:cmdline.hpp|1|14b485e765b|db4|e0b82083|bc8d190678f311e3b03c0002c9bb1e4c|0
+a:option.hpp|1|14b485e764c|8eb|340fc19b|a61d17d278f311e3b03c0002c9bb1e4c|0
+b:parsers.hpp|1|14b485e764c|22aa|b8fee8df|b66d18b278f311e3b03c0002c9bb1e4c|0
+10:eof_iterator.hpp|1|14b485e765b|d47|ad3cec9b|ba8d18ea78f311e3b03c0002c9bb1e4c|0
+16:positional_options.hpp|1|14b485e764c|9c7|7af80f81|9dbd176278f311e3b03c0002c9bb1e4c|0
+11:variables_map.hpp|1|14b485e764c|1947|6eb188a6|a82d17ee78f311e3b03c0002c9bb1e4c|0
+6:detail|2|0|0|0|826d161a78f311e3b03c0002c9bb1e4c|0
+a:config.hpp|1|14b485e765b|763|c9323287|cacd19ca78f311e3b03c0002c9bb1e4c|0
+b:version.hpp|1|14b485e766b|278|ec24c63c|d0ed1a1e78f311e3b03c0002c9bb1e4c|0

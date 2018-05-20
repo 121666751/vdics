@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<E13B>
+	<FormItem VoucherName="支票" >
+		<Session Name="凭证号" SessionNo="0" NumTotal="6" UseAll="yes" Modal=""/>
+		<Session Name="交换号" SessionNo="1" NumTotal="7" UseAll="no" Modal="0111111"/>
+		<Session Name="帐号" SessionNo="2" NumTotal="17" UseAll="no" Modal="00000111111111111"/>	
+<Session Name="凭证类型" SessionNo="3" NumTotal="2" UseAll="yes" Modal=""/>
+		<Session Name="金额" SessionNo="4" NumTotal="10" UseAll="yes" Modal=""/>
+	</FormItem>
+</E13B>

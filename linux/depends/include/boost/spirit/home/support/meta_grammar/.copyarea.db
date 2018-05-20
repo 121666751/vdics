@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\meta_grammar
+2
+3
+14:basic_transforms.hpp|1|14b485bf6b6|785b|ec3cac2a|94fd33e67cd111e3980e0002c9bb1e4c|0
+b:grammar.hpp|1|14b485bf6c6|37f|ea92f499|11cd49727cd311e3980e0002c9bb1e4c|0
+f:basic_rules.hpp|1|14b485bf6b6|2b58|a97280d5|6cbd23467cd011e3980e0002c9bb1e4c|0

@@ -1,0 +1,26 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\statechart
+2
+16
+e:event_base.hpp|1|14b485e1ec9|b83|6a5a6c2e|aacd438a7cd211e3980e0002c9bb1e4c|0
+1d:null_exception_translator.hpp|1|14b485e1862|4dc|df0b5136|4f5d05167cce11e3980e0002c9bb1e4c|0
+9:state.hpp|1|14b485e1ed8|c09|b14ab226|a4cd5fde7cd411e3980e0002c9bb1e4c|0
+c:deferral.hpp|1|14b485e1ed8|80f|1b1137a4|9b4d5f527cd411e3980e0002c9bb1e4c|0
+15:in_state_reaction.hpp|1|14b485e1891|8ad|edcc71e5|cebd28be7cd011e3980e0002c9bb1e4c|0
+13:custom_reaction.hpp|1|14b485e1ed8|8a4|94cb684c|069d57027cd411e3980e0002c9bb1e4c|0
+1e:asynchronous_state_machine.hpp|1|14b485e1ec9|a27|c1c2f514|f7dd563e7cd311e3980e0002c9bb1e4c|0
+13:event_processor.hpp|1|14b485e1ec9|824|e428411f|d1fd542a7cd311e3980e0002c9bb1e4c|0
+17:processor_container.hpp|1|14b485e1872|3577|cd5a6b83|bb6d19527ccf11e3980e0002c9bb1e4c|0
+f:termination.hpp|1|14b485e18a1|817|b2c43afc|15cd2cae7cd111e3980e0002c9bb1e4c|0
+a:result.hpp|1|14b485e1eb9|bb3|cc5b6b7a|07bd3a5a7cd211e3980e0002c9bb1e4c|0
+12:fifo_scheduler.hpp|1|14b485e1872|1905|7e02b1b3|df8d1b4a7ccf11e3980e0002c9bb1e4c|0
+b:history.hpp|1|14b485e18a1|23b|bdd8a042|232d2d727cd111e3980e0002c9bb1e4c|0
+f:fifo_worker.hpp|1|14b485e1872|1613|3de7ee5|726d152a7ccf11e3980e0002c9bb1e4c|0
+10:simple_state.hpp|1|14b485e18a1|8360|11d0b220|026d2b967cd111e3980e0002c9bb1e4c|0
+9:event.hpp|1|14b485e18a1|7ed|94383d28|4b3d2fbe7cd111e3980e0002c9bb1e4c|0
+e:transition.hpp|1|14b485e1872|892|b4b56ea2|fecd1d0a7ccf11e3980e0002c9bb1e4c|0
+10:deep_history.hpp|1|14b485e1882|894|6b18eb5|1cfd1eca7cd011e3980e0002c9bb1e4c|0
+13:shallow_history.hpp|1|14b485e1882|8a3|6c6894c1|04ad1d5e7cd011e3980e0002c9bb1e4c|0
+18:exception_translator.hpp|1|14b485e1ee8|643|89e2b390|df0d63267cd411e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|6f1cf9227ccd11e3980e0002c9bb1e4c|0
+11:state_machine.hpp|1|14b485e1891|865a|cf65cd40|52fd21da7cd011e3980e0002c9bb1e4c|0

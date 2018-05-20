@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\debug
+2
+5
+e:debug_node.hpp|1|14b485d2402|28e7|d92032a|3d743d1c7cc811e3880a0002c9bb1e4c|0
+10:parser_names.hpp|1|14b485d2402|1dee|5e9ab6b1|818440647cc811e3880a0002c9bb1e4c|0
+a:typeof.hpp|1|14b485d1b1c|53a|e38ea35f|ddf438bc7cc711e3880a0002c9bb1e4c|0
+b:minimal.hpp|1|14b485d1b1c|bd8|904a53b5|a85436007cc711e3880a0002c9bb1e4c|0
+4:impl|2|0|0|0|9b74355c7cc711e3880a0002c9bb1e4c|0

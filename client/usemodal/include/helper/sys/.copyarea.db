@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\helper\sys
+2
+7
+d:smart_ptr.hpp|1|14b486653d0|598|59e5c3af|ce83f07c7cc011e3880a0002c9bb1e4c|0
+f:zproperties.hpp|1|14b486653c0|eb5|106ce5b4|d903d7fc7cbe11e3880a0002c9bb1e4c|0
+b:zstring.hpp|1|14b486653c0|c5a|714431ab|ad73d5cc7cbe11e3880a0002c9bb1e4c|0
+9:zbase.hpp|1|14b486653c0|32f|7890f33b|c773e3e87cbf11e3880a0002c9bb1e4c|0
+a:socket.hpp|1|14b486653d0|ac8|56690fcc|14d425887cc511e3880a0002c9bb1e4c|0
+9:zfile.hpp|1|14b486653c0|c46|719f3514|0c13cdd07cbe11e3880a0002c9bb1e4c|0
+9:ZTime.hpp|1|14b486653c0|257c|a68180c4|3de3e9ec7cc011e3880a0002c9bb1e4c|0

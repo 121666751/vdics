@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\indexes
+2
+6
+18:iunordered_set_index.hpp|1|14b485f1220|31cf|344555d6|897e1070783011e38c3b0002c9bb1e4c|0
+e:iset_index.hpp|1|14b485f122f|13b3|2989112c|e59e14ec783011e38c3b0002c9bb1e4c|0
+e:null_index.hpp|1|14b485f122f|74d|2ff33b39|b27e51d8783511e38c3b0002c9bb1e4c|0
+d:map_index.hpp|1|14b485f122f|ca6|f7110543|3b8e25c4783211e38c3b0002c9bb1e4c|0
+12:flat_map_index.hpp|1|14b485f0e49|b1e|ef538d15|824e036c782f11e38c3b0002c9bb1e4c|0
+17:unordered_map_index.hpp|1|14b485f0e49|e9e|8e5597e6|f85e0938782f11e38c3b0002c9bb1e4c|0

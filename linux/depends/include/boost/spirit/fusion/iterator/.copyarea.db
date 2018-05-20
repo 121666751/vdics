@@ -1,0 +1,19 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\fusion\iterator
+2
+f
+1a:type_sequence_iterator.hpp|1|14b485d8729|4c1|b0ed970b|b53420807cc411e3880a0002c9bb1e4c|0
+9:prior.hpp|1|14b485d8719|5f3|1e8ecc13|b90413b47cc311e3880a0002c9bb1e4c|0
+c:value_of.hpp|1|14b485d870a|424|f60d289d|07a3e7307cc011e3880a0002c9bb1e4c|0
+18:single_view_iterator.hpp|1|14b485d8719|663|732421cc|1ae3ffcc7cc211e3880a0002c9bb1e4c|0
+11:cons_iterator.hpp|1|14b485d870a|74b|c41c5d85|1ab3e82c7cc011e3880a0002c9bb1e4c|0
+12:tuple_iterator.hpp|1|14b485d870a|cc4|e2671f17|a4f3d55c7cbe11e3880a0002c9bb1e4c|0
+16:as_fusion_iterator.hpp|1|14b485d8719|7cb|f4e849fd|cbe3f0607cc011e3880a0002c9bb1e4c|0
+17:joint_view_iterator.hpp|1|14b485d86fa|85f|f2fecf39|3413cfac7cbe11e3880a0002c9bb1e4c|0
+18:filter_view_iterator.hpp|1|14b485d86eb|7ac|d5fe943e|49c3c4147cbd11e3880a0002c9bb1e4c|0
+1b:transform_view_iterator.hpp|1|14b485d870a|66f|528124ef|8ee3d4447cbe11e3880a0002c9bb1e4c|0
+8:next.hpp|1|14b485d8739|626|a288d1fc|05d431207cc611e3880a0002c9bb1e4c|0
+9:deref.hpp|1|14b485d8719|c7d|324ed9bf|df83f15c7cc011e3880a0002c9bb1e4c|0
+f:is_iterator.hpp|1|14b485d8729|42e|9c712f62|658429787cc511e3880a0002c9bb1e4c|0
+c:equal_to.hpp|1|14b485d86fa|666|1e69d420|8a93d40c7cbe11e3880a0002c9bb1e4c|0
+6:detail|2|0|0|0|1c63c1e47cbd11e3880a0002c9bb1e4c|0

@@ -1,0 +1,23 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\Vwcl_include\common_controls
+2
+13
+12:vupdowncontrol.hpp|1|14b4866c0a8|2cbb|50876d61|70c3c60c7cbd11e3880a0002c9bb1e4c|0
+c:vtoolbar.hpp|1|14b4866c5e5|6947|8e18b519|0a03cdb47cbe11e3880a0002c9bb1e4c|0
+a:vrebar.hpp|1|14b4866cb81|84c4|f72e1b63|8bc411687cc311e3880a0002c9bb1e4c|0
+b:vheader.hpp|1|14b4866c5f5|44e6|10aee3af|9783d4b47cbe11e3880a0002c9bb1e4c|0
+d:vlistview.hpp|1|14b4866cfa6|d662|40e6f479|e56416007cc311e3880a0002c9bb1e4c|0
+8:vtab.hpp|1|14b4866c5f5|4de9|f9a1fe2e|bcf3d6907cbe11e3880a0002c9bb1e4c|0
+d:vprogress.hpp|1|14b4866c0a8|f58|adc5f8b4|74f3c6447cbd11e3880a0002c9bb1e4c|0
+12:vcommoncontrol.hpp|1|14b4866c605|1756|44e6baa9|18b3db0c7cbf11e3880a0002c9bb1e4c|0
+e:vstatusbar.hpp|1|14b4866c614|2a52|c7217853|6823ec1c7cc011e3880a0002c9bb1e4c|0
+14:vdatetimecontrol.hpp|1|14b4866c605|3556|b9b21b1a|b1e3e2d07cbf11e3880a0002c9bb1e4c|0
+e:vtabwindow.hpp|1|14b4866cb71|1ff9|2384a634|d2c3f0b47cc011e3880a0002c9bb1e4c|0
+11:vpropertypage.hpp|1|14b4866cfa6|15b2|d64b44e|53041b787cc411e3880a0002c9bb1e4c|0
+e:vimagelist.hpp|1|14b4866cb71|76fe|c1bfc368|0053f3007cc111e3880a0002c9bb1e4c|0
+12:vpropertysheet.hpp|1|14b4866cb81|2820|546604ee|bbb407ac7cc211e3880a0002c9bb1e4c|0
+19:vmonthcalendarcontrol.hpp|1|14b4866cb81|5b1e|8c49696d|2e3400ac7cc211e3880a0002c9bb1e4c|0
+c:vtooltip.hpp|1|14b4866cfd4|1993|33c8ff79|8ec41e887cc411e3880a0002c9bb1e4c|0
+d:vtreeview.hpp|1|14b4866c5e5|c65d|95972715|19f3ce787cbe11e3880a0002c9bb1e4c|0
+19:vcommoncontrolsglobal.cpp|1|14b4866cfa6|e6d|6d3579f|04c417a47cc411e3880a0002c9bb1e4c|0
+16:vdirectorytreeview.hpp|1|14b4866cb61|56e9|6f0c7060|9a53ee147cc011e3880a0002c9bb1e4c|0

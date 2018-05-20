@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\tuple
+2
+4
+9:tuple.hpp|1|14b485b1308|b86|91e5a075|eb452c7a7cde11e3881d0002c9bb1e4c|0
+c:tuple_io.hpp|1|14b485b1328|386f|705f7eb6|1ec5c7ba7d0811e384330002c9bb1e4c|0
+14:tuple_comparison.hpp|1|14b485b1308|1680|ff7e04fd|b27537327cdf11e3881d0002c9bb1e4c|0
+6:detail|2|0|0|0|1a0521727cde11e3881d0002c9bb1e4c|0

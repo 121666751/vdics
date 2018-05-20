@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\classic\utility\impl\chset
+2
+4
+d:range_run.ipp|1|14b485ce904|1c74|9588fc1e|9acd343a7cd111e3980e0002c9bb1e4c|0
+d:range_run.hpp|1|14b485ce8f5|1122|7c7bbea3|3d4d12367ccf11e3980e0002c9bb1e4c|0
+f:basic_chset.ipp|1|14b485cf13e|19d6|9b23794f|7bed5d927cd411e3980e0002c9bb1e4c|0
+f:basic_chset.hpp|1|14b485ce904|eba|54bde870|b44d35a67cd111e3980e0002c9bb1e4c|0

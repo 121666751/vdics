@@ -1,0 +1,13 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\allocators
+2
+9
+11:adaptive_pool.hpp|1|14b485f2091|4593|6955487f|775e4ee4783511e38c3b0002c9bb1e4c|0
+19:private_adaptive_pool.hpp|1|14b485f2082|44a5|7368ff7b|224e3124783311e38c3b0002c9bb1e4c|0
+d:allocator.hpp|1|14b485f2091|2c04|85564599|aafe8428783911e38c3b0002c9bb1e4c|0
+13:allocation_type.hpp|1|14b485f2091|7ac|ee057524|bdfec424783e11e38c3b0002c9bb1e4c|0
+1a:private_node_allocator.hpp|1|14b485f2091|3ee0|978327d4|53ceb234783d11e38c3b0002c9bb1e4c|0
+12:node_allocator.hpp|1|14b485f2091|404c|a76a8df2|d57ec53c783e11e38c3b0002c9bb1e4c|0
+19:cached_node_allocator.hpp|1|14b485f2091|2d37|9a915a9f|25de3df0783411e38c3b0002c9bb1e4c|0
+18:cached_adaptive_pool.hpp|1|14b485f2082|345d|f3b5b2b1|ff7e2f80783211e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|19bdd830782c11e38c3b0002c9bb1e4c|0

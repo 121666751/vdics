@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\pool
+2
+7
+12:singleton_pool.hpp|1|14b485e5f23|cfa|8590a48|c6aee874784111e38c3b0002c9bb1e4c|0
+f:object_pool.hpp|1|14b485e5766|123c|b065ccd2|0bbe496c783511e38c3b0002c9bb1e4c|0
+e:pool_alloc.hpp|1|14b485e5766|22d8|feb9070c|fe7e5590783511e38c3b0002c9bb1e4c|0
+8:pool.hpp|1|14b485e5776|47a8|17eb7bb1|0e8ed454784011e38c3b0002c9bb1e4c|0
+1d:simple_segregated_storage.hpp|1|14b485e5766|201c|2a9fae4|86ee75b8783811e38c3b0002c9bb1e4c|0
+b:poolfwd.hpp|1|14b485e5776|752|dbf277f0|6d2ecc58783f11e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|e99dd614782b11e38c3b0002c9bb1e4c|0

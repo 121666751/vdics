@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\base_units\cgs
+2
+3
+e:centimeter.hpp|1|14b4859887f|36d|173b1b96|d5708a6a7ce511e398210002c9bb1e4c|0
+8:gram.hpp|1|14b4859894a|4f7|f86c9878|6d6092827ce611e398210002c9bb1e4c|0
+8:biot.hpp|1|14b4859887f|364|4310185b|a1e087ae7ce511e398210002c9bb1e4c|0

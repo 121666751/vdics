@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\mem_algo
+2
+3
+13:rbtree_best_fit.hpp|1|14b485f45be|d9c3|8e940905|e01e6d4c783711e38c3b0002c9bb1e4c|0
+12:simple_seq_fit.hpp|1|14b485f45be|781|50ac66ed|06fe2fd4783311e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|c4bdd464782b11e38c3b0002c9bb1e4c|0

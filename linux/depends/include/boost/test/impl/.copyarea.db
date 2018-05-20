@@ -1,0 +1,25 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\impl
+2
+15
+15:xml_log_formatter.ipp|1|14b485e059d|14b6|c2c53df7|89bd41ae7cd211e3980e0002c9bb1e4c|0
+17:logged_expectations.ipp|1|14b485dfc79|1ed3|7ca80972|494d04c27cce11e3980e0002c9bb1e4c|0
+12:unit_test_main.ipp|1|14b485e1122|1e84|3efa74e1|978d5f1a7cd411e3980e0002c9bb1e4c|0
+14:progress_monitor.ipp|1|14b485e1122|c3b|5812d5d6|777d4f227cd311e3980e0002c9bb1e4c|0
+14:exception_safety.ipp|1|14b485e057e|445c|f9298e53|939d17067ccf11e3980e0002c9bb1e4c|0
+15:unit_test_monitor.ipp|1|14b485e057e|dcb|f762407b|3b6d121a7ccf11e3980e0002c9bb1e4c|0
+14:results_reporter.ipp|1|14b485e057e|16e2|1b88db06|7c0d15b67ccf11e3980e0002c9bb1e4c|0
+d:framework.ipp|1|14b485dfc79|3933|d123921b|349d038e7cce11e3980e0002c9bb1e4c|0
+11:unit_test_log.ipp|1|14b485e05ad|356e|5700c16d|f93d48067cd211e3980e0002c9bb1e4c|0
+d:test_main.ipp|1|14b485dfc89|8d8|35319680|afed0a567cce11e3980e0002c9bb1e4c|0
+13:unit_test_suite.ipp|1|14b485e1122|2a71|a3c95e6d|339d4b4e7cd311e3980e0002c9bb1e4c|0
+15:execution_monitor.ipp|1|14b485e1122|a6aa|4a946751|084d48e67cd311e3980e0002c9bb1e4c|0
+18:xml_report_formatter.ipp|1|14b485e058e|e0c|d01d672b|a6ed181e7ccf11e3980e0002c9bb1e4c|0
+c:cpp_main.ipp|1|14b485e059d|1321|164e84b4|68bd3fd27cd211e3980e0002c9bb1e4c|0
+9:debug.ipp|1|14b485e059d|7830|8762843b|c07d44be7cd211e3980e0002c9bb1e4c|0
+1a:compiler_log_formatter.ipp|1|14b485dfc89|1b6f|17755ab0|824d07d27cce11e3980e0002c9bb1e4c|0
+e:test_tools.ipp|1|14b485dfc89|4b21|56661ef4|571d05867cce11e3980e0002c9bb1e4c|0
+15:results_collector.ipp|1|14b485dfc79|21f8|c24f8abf|eafcff667ccd11e3980e0002c9bb1e4c|0
+18:unit_test_parameters.ipp|1|14b485dfc98|302c|92ea9bd|bfdd0b367cce11e3980e0002c9bb1e4c|0
+15:interaction_based.ipp|1|14b485e056e|9e3|b961de6d|c59d0b8a7cce11e3980e0002c9bb1e4c|0
+1a:plain_report_formatter.ipp|1|14b485e058e|189f|e5ec747f|6c6d319a7cd111e3980e0002c9bb1e4c|0

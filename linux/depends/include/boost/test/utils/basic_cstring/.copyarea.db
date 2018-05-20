@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\test\utils\basic_cstring
+2
+5
+13:bcs_char_traits.hpp|1|14b485de4e4|116e|3ffa0ed5|df7d380e7cd111e3980e0002c9bb1e4c|0
+b:compare.hpp|1|14b485de4f3|ff3|c1494c28|c1ed61827cd411e3980e0002c9bb1e4c|0
+15:basic_cstring_fwd.hpp|1|14b485de4e4|4b0|ceb46403|847d24967cd011e3980e0002c9bb1e4c|0
+6:io.hpp|1|14b485de4d4|873|c357a820|1e1d10767ccf11e3980e0002c9bb1e4c|0
+11:basic_cstring.hpp|1|14b485de4f3|5473|f46e3fb1|3f5d4bf67cd311e3980e0002c9bb1e4c|0

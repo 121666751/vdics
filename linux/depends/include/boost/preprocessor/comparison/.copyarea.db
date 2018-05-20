@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\comparison
+2
+6
+b:greater.hpp|1|14b4863bb1f|49b|97365268|f59eba14783d11e38c3b0002c9bb1e4c|0
+11:greater_equal.hpp|1|14b4863bb1f|501|b757724f|213ec8bc783f11e38c3b0002c9bb1e4c|0
+9:equal.hpp|1|14b4863bb0f|410|5ffd329e|fbfe2298783111e38c3b0002c9bb1e4c|0
+e:less_equal.hpp|1|14b4863bb0f|522|74eb7ed7|336e7190783811e38c3b0002c9bb1e4c|0
+d:not_equal.hpp|1|14b4863bb0f|100c9|2e9bafc6|9dbe116c783011e38c3b0002c9bb1e4c|0
+8:less.hpp|1|14b4863add6|7db|b0894ff7|d55de14c782c11e38c3b0002c9bb1e4c|0

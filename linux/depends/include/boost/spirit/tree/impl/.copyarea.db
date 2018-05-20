@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\tree\impl
+2
+2
+f:tree_to_xml.ipp|1|14b485bb9d5|2e16|cc0241b2|5b3d05be7cce11e3980e0002c9bb1e4c|0
+14:parse_tree_utils.ipp|1|14b485bb9d5|107f|c54dd10f|809d245e7cd011e3980e0002c9bb1e4c|0

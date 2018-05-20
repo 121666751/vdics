@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\Linux(广东)\config1\bocom_branch_cfg
+2
+d
+1d:snRelation_houdu_tianjing.cfg|1|14fd5410c2a|94a|ee596970|e167cfbe4d5211e5843d0002c9bb1e4c|0
+1d:snRelation_houdu_shanghai.cfg|1|14fd5410c0b|a88|9c40bc36|c447cec24d5211e5843d0002c9bb1e4c|0
+1b:pat_bocom_houdu_shan3xi.cfg|1|14fd5410c3a|1d64|6f4ca762|e817cff64d5211e5843d0002c9bb1e4c|0
+1c:snRelation_houdu_sichuan.cfg|1|14fd5410c2a|a44|ca00b820|d6d7cf6a4d5211e5843d0002c9bb1e4c|0
+1c:snRelation_houdu_shan3xi.cfg|1|14fd5410c3a|655|e6d08e60|e4e7cfda4d5211e5843d0002c9bb1e4c|0
+1c:pat_bocom_houdu_shanghai.cfg|1|14fd5410c0b|3a19|67c2d47c|c137cea64d5211e5843d0002c9bb1e4c|0
+1a:pat_bocom_houdu_fujian.cfg|1|14fd5410c2a|2d14|2ea1438d|ddf7cfa24d5211e5843d0002c9bb1e4c|0
+1b:snRelation_houdu_fujian.cfg|1|14fd5410c1b|986|4a037004|c747cede4d5211e5843d0002c9bb1e4c|0
+19:pat_bocom_houdu_anhui.cfg|1|14fd5410c1b|2771|490afbf4|d0a7cf324d5211e5843d0002c9bb1e4c|0
+1a:snRelation_houdu_anhui.cfg|1|14fd5410c1b|828|149e15c2|cd77cf164d5211e5843d0002c9bb1e4c|0
+1c:pat_bocom_houdu_tianjing.cfg|1|14fd5410c2a|2e31|ef378ec0|da57cf864d5211e5843d0002c9bb1e4c|0
+1b:pat_bocom_houdu_sichuan.cfg|1|14fd5410c1b|32ff|a85baa9|ca57cefa4d5211e5843d0002c9bb1e4c|0
+15:bocom_houdu_patno.cfg|1|14fd5410c2a|d4|4c353efb|d3c7cf4e4d5211e5843d0002c9bb1e4c|0

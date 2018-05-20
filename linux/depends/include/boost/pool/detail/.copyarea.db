@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\pool\detail
+2
+e
+18:pool_construct_simple.sh|1|14b485e5f43|1d2|cda9a135|bbbec408783e11e38c3b0002c9bb1e4c|0
+6:for.m4|1|14b485e5f33|f55|7fea6822|772e02e0782f11e38c3b0002c9bb1e4c|0
+e:ct_gcd_lcm.hpp|1|14b485e5f43|a17|fb372319|c93eb7c8783d11e38c3b0002c9bb1e4c|0
+9:guard.hpp|1|14b485e5f43|313|c651f3f0|2cee57dc783611e38c3b0002c9bb1e4c|0
+18:pool_construct_simple.m4|1|14b485e5f52|b42|d7d1d08c|d20ed160783f11e38c3b0002c9bb1e4c|0
+11:pool_construct.m4|1|14b485e5f52|d6c|98d67e61|81fef16c784211e38c3b0002c9bb1e4c|0
+12:pool_construct.inc|1|14b485e5f23|6255|2d3ddb3f|58edf518782e11e38c3b0002c9bb1e4c|0
+11:pool_construct.sh|1|14b485e5f52|1c4|108c9b62|9edee698784111e38c3b0002c9bb1e4c|0
+12:pool_construct.bat|1|14b485e5f33|38f|7c6138f3|ca4e2014783111e38c3b0002c9bb1e4c|0
+19:pool_construct_simple.bat|1|14b485e5f43|3a5|4264389|71ae8e00783a11e38c3b0002c9bb1e4c|0
+9:mutex.hpp|1|14b485e5f52|d3b|e5420486|00aedf98784111e38c3b0002c9bb1e4c|0
+b:gcd_lcm.hpp|1|14b485e5f43|4ac|bb6969d6|590e5a0c783611e38c3b0002c9bb1e4c|0
+19:pool_construct_simple.inc|1|14b485e5f43|4ad|29546dd7|181e6390783711e38c3b0002c9bb1e4c|0
+d:singleton.hpp|1|14b485e5f23|f88|df9162e|643de8a0782d11e38c3b0002c9bb1e4c|0

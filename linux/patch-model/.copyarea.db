@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\patch-model
+2
+3
+a:install.sh|1|14b48587cd7|31e|48d7f7fa|2b433a22780a11e388120002c9bb1e4c|0
+5:smsrv|1|14b48587cc7|25493|dab288c|271339ea780a11e388120002c9bb1e4c|0
+9:vdics.cfg|1|14b48587cd7|0|0|29033a06780a11e388120002c9bb1e4c|0

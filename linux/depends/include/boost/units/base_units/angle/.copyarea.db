@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\units\base_units\angle
+2
+7
+d:arcminute.hpp|1|14b485998e4|450|e4716713|543091327ce611e398210002c9bb1e4c|0
+d:arcsecond.hpp|1|14b48598969|4b0|f9d888f4|0b108d427ce611e398210002c9bb1e4c|0
+e:revolution.hpp|1|14b485998e4|42e|b5b95eeb|945094967ce611e398210002c9bb1e4c|0
+a:degree.hpp|1|14b48598969|3af|a8412824|c70089a67ce511e398210002c9bb1e4c|0
+b:gradian.hpp|1|14b48598969|3b6|29f22aaa|812085ee7ce511e398210002c9bb1e4c|0
+d:steradian.hpp|1|14b485998e4|506|378c9e3a|7e1093627ce611e398210002c9bb1e4c|0
+a:radian.hpp|1|14b48598969|4f2|fa3a9683|7b40859a7ce511e398210002c9bb1e4c|0

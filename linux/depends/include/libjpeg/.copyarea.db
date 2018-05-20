@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\libjpeg
+2
+3
+9:jconfig.h|1|14b48588955|a51|36531c16|53d84ab47cf611e384270002c9bb1e4c|0
+9:jpeglib.h|1|14b48588955|b8da|6be9030|bcc842b87cf511e384270002c9bb1e4c|0
+a:jmorecfg.h|1|14b485887b0|32c1|f5d9010d|b44842487cf511e384270002c9bb1e4c|0

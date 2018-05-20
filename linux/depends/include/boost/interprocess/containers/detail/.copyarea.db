@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\containers\detail
+2
+3
+8:tree.hpp|1|14b485f2082|9803|d0c9cdd|d38eb854783d11e38c3b0002c9bb1e4c|0
+15:node_alloc_holder.hpp|1|14b485f2072|3b66|23acc658|532e403c783411e38c3b0002c9bb1e4c|0
+d:flat_tree.hpp|1|14b485f1b34|7afb|e0590ba5|502e0d98783011e38c3b0002c9bb1e4c|0

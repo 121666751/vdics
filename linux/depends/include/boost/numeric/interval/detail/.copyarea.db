@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\numeric\interval\detail
+2
+e
+19:ia64_rounding_control.hpp|1|14b48651d70|8b8|f83fce7a|7d6e6898783711e38c3b0002c9bb1e4c|0
+19:msvc_rounding_control.hpp|1|14b48651d8f|b45|8adc468d|660ed87c784011e38c3b0002c9bb1e4c|0
+8:bugs.hpp|1|14b48651d7f|944|32f3dda2|62ee73f8783811e38c3b0002c9bb1e4c|0
+18:x86_rounding_control.hpp|1|14b48651d70|c90|80662b0c|046e2fb8783311e38c3b0002c9bb1e4c|0
+18:ppc_rounding_control.hpp|1|14b48651d8f|bec|5dade1e0|910ee5f0784111e38c3b0002c9bb1e4c|0
+16:interval_prototype.hpp|1|14b48651d70|432|24ca6118|87de4fc4783511e38c3b0002c9bb1e4c|0
+1a:alpha_rounding_control.hpp|1|14b48651d60|e87|6e1eb3ad|f0de1578783011e38c3b0002c9bb1e4c|0
+1b:x86gcc_rounding_control.hpp|1|14b48651d70|51f|af399d2|57be66bc783711e38c3b0002c9bb1e4c|0
+c:division.hpp|1|14b48651d7f|1e0d|bfb4c461|3f5ebdb0783e11e38c3b0002c9bb1e4c|0
+1b:c99sub_rounding_control.hpp|1|14b48651d8f|56f|f05c121|9c9ef2bc784211e38c3b0002c9bb1e4c|0
+e:test_input.hpp|1|14b48651d7f|960|ab7f1eaf|0b7ebb2c783e11e38c3b0002c9bb1e4c|0
+1a:sparc_rounding_control.hpp|1|14b48651d7f|c64|cd93f457|6a4ebfe0783e11e38c3b0002c9bb1e4c|0
+18:c99_rounding_control.hpp|1|14b48651d50|4d8|644b95be|a31df8ec782e11e38c3b0002c9bb1e4c|0
+18:bcc_rounding_control.hpp|1|14b48651d7f|663|74a20c84|016e7bbc783911e38c3b0002c9bb1e4c|0

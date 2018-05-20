@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail\math
+2
+4
+e:fpclassify.hpp|1|14b485be73c|1948|4c8e3df1|e2dd635e7cd411e3980e0002c9bb1e4c|0
+18:nonfinite_num_facets.hpp|1|14b485be72c|395d|4bfa12b8|68cd230e7cd011e3980e0002c9bb1e4c|0
+b:signbit.hpp|1|14b485be72c|87b|2a6e62e1|5a5d309e7cd111e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|cb4cfda27ccd11e3980e0002c9bb1e4c|0

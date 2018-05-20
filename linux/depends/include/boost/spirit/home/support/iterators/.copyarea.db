@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\iterators
+2
+4
+e:multi_pass.hpp|1|14b485bf6d5|1968|fb8a5245|e0dd469a7cd211e3980e0002c9bb1e4c|0
+12:multi_pass_fwd.hpp|1|14b485bf6d5|5d4|9200b4e1|7a0d5d767cd411e3980e0002c9bb1e4c|0
+6:detail|2|0|0|0|b3fcfc827ccd11e3980e0002c9bb1e4c|0
+e:look_ahead.hpp|1|14b485bf6c6|8fb|a904af41|6a9d317e7cd111e3980e0002c9bb1e4c|0

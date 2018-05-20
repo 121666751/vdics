@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpi\collectives
+2
+8
+8:scan.hpp|1|14b4863372e|17b9|a70ad1c0|e88def4c782d11e38c3b0002c9bb1e4c|0
+a:gather.hpp|1|14b4863373e|12c1|8c03e060|aa6e5e18783611e38c3b0002c9bb1e4c|0
+e:all_reduce.hpp|1|14b48634f51|100c|61489b78|fc0ec718783e11e38c3b0002c9bb1e4c|0
+e:all_gather.hpp|1|14b48634f60|a59|cf19502b|9b5edae4784011e38c3b0002c9bb1e4c|0
+a:reduce.hpp|1|14b4863373e|31ab|b3158452|566e4d40783511e38c3b0002c9bb1e4c|0
+e:all_to_all.hpp|1|14b48634f51|141d|93502663|dc7eac84783c11e38c3b0002c9bb1e4c|0
+d:broadcast.hpp|1|14b48634f51|1112|bc2bd7a0|304e8ab8783a11e38c3b0002c9bb1e4c|0
+b:scatter.hpp|1|14b4863372e|1516|de7c8305|0d5de424782d11e38c3b0002c9bb1e4c|0

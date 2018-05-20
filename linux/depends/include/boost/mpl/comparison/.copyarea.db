@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\mpl\comparison
+2
+6
+10:not_equal_to.hpp|1|14b486129ae|855|64a6956f|b56e7804783811e38c3b0002c9bb1e4c|0
+b:greater.hpp|1|14b4861299f|82c|6afc843b|39ee5884783611e38c3b0002c9bb1e4c|0
+11:greater_equal.hpp|1|14b4861297f|7e5|e823717d|2ecdf2e8782e11e38c3b0002c9bb1e4c|0
+e:less_equal.hpp|1|14b4861298f|843|932a8e47|db9e07cc782f11e38c3b0002c9bb1e4c|0
+c:equal_to.hpp|1|14b486129ae|831|cd97879a|7adec0c0783e11e38c3b0002c9bb1e4c|0
+8:less.hpp|1|14b4861299f|811|67ec7a91|ce9e5fd8783611e38c3b0002c9bb1e4c|0

@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\regex\detail
+2
+c
+d:regex_kmp.hpp|1|14b485eacb8|b7b|c2d3a5d1|65340f8c7cc311e3880a0002c9bb1e4c|0
+f:regex_split.hpp|1|14b485eaca8|12d9|54ee02d4|9933f9ac7cc111e3880a0002c9bb1e4c|0
+19:regex_library_include.hpp|1|14b485eacb8|1236|ddec4e90|c8c4217c7cc411e3880a0002c9bb1e4c|0
+d:instances.hpp|1|14b485ea420|2810|1d9eaf39|3963dcb07cbf11e3880a0002c9bb1e4c|0
+f:regex_match.hpp|1|14b485ea410|10697|438976ab|6c33c5d47cbd11e3880a0002c9bb1e4c|0
+c:fileiter.hpp|1|14b485ea420|2c98|251b435f|cbc3caa47cbd11e3880a0002c9bb1e4c|0
+11:regex_compile.hpp|1|14b485eacb8|121bb|77b252f9|045424a87cc511e3880a0002c9bb1e4c|0
+11:regex_cstring.hpp|1|14b485ea401|b0e|7d098008|6413c5647cbd11e3880a0002c9bb1e4c|0
+14:regex_raw_buffer.hpp|1|14b485ea420|1607|54590cff|9993d4d07cbe11e3880a0002c9bb1e4c|0
+f:regex_stack.hpp|1|14b485eaca8|1562|aeaaa36|5ed3ebac7cc011e3880a0002c9bb1e4c|0
+f:regex_synch.hpp|1|14b485eaca8|1241|8d8ed5bb|ffc3e6c07cbf11e3880a0002c9bb1e4c|0
+10:regex_format.hpp|1|14b485eacb8|44b0|6999e72e|f5940a307cc211e3880a0002c9bb1e4c|0

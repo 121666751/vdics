@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\preprocessor\arithmetic
+2
+8
+7:add.hpp|1|14b4863c4a1|775|db5f257a|f50ed320783f11e38c3b0002c9bb1e4c|0
+7:dec.hpp|1|14b4863bc28|2185|9a31666|951deb08782d11e38c3b0002c9bb1e4c|0
+7:mod.hpp|1|14b4863bc38|521|4e4a7aeb|94ee2a40783211e38c3b0002c9bb1e4c|0
+7:div.hpp|1|14b4863c4a1|521|877c7b0b|e31ec5e4783e11e38c3b0002c9bb1e4c|0
+7:mul.hpp|1|14b4863c4a1|843|42661d|c7aed0d4783f11e38c3b0002c9bb1e4c|0
+7:sub.hpp|1|14b4863c4a1|742|48621639|0ffebb64783e11e38c3b0002c9bb1e4c|0
+6:detail|2|0|0|0|47fdda4c782c11e38c3b0002c9bb1e4c|0
+7:inc.hpp|1|14b4863c4a1|2189|906d25e8|39ae71e4783811e38c3b0002c9bb1e4c|0

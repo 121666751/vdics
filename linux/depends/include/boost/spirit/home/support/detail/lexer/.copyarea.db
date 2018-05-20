@@ -1,0 +1,21 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\home\support\detail\lexer
+2
+11
+d:generator.hpp|1|14b485bddba|6fa9|6de466f6|651d3f9a7cd211e3980e0002c9bb1e4c|0
+6:parser|2|0|0|0|b7fcfcb27ccd11e3980e0002c9bb1e4c|0
+d:serialise.hpp|1|14b485bddc9|335|789904ea|83bd5e027cd411e3980e0002c9bb1e4c|0
+10:string_token.hpp|1|14b485bd679|24ca|7d7da134|592d05a27cce11e3980e0002c9bb1e4c|0
+9:partition|2|0|0|0|c77cfd727ccd11e3980e0002c9bb1e4c|0
+f:char_traits.hpp|1|14b485bddc9|406|c9e23df6|fcdd483e7cd211e3980e0002c9bb1e4c|0
+9:rules.hpp|1|14b485bdcef|3593|878b9737|92fd33ca7cd111e3980e0002c9bb1e4c|0
+10:generate_cpp.hpp|1|14b485bd689|3b04|34399eb7|dabd29667cd011e3980e0002c9bb1e4c|0
+e:file_input.hpp|1|14b485bd679|31fb|292c3222|993d175a7ccf11e3980e0002c9bb1e4c|0
+a:size_t.hpp|1|14b485bd679|1e9|c61a960f|b5cd0aaa7cce11e3980e0002c9bb1e4c|0
+9:input.hpp|1|14b485bd679|3915|6e8e7642|d34d0c4e7cce11e3980e0002c9bb1e4c|0
+a:consts.hpp|1|14b485bddc9|4f6|98e2948e|b4cd44167cd211e3980e0002c9bb1e4c|0
+a:conversion|2|0|0|0|cfecfdde7ccd11e3980e0002c9bb1e4c|0
+9:debug.hpp|1|14b485bd689|1f75|884c865b|554d21f67cd011e3980e0002c9bb1e4c|0
+a:containers|2|0|0|0|c49cfd4e7ccd11e3980e0002c9bb1e4c|0
+11:runtime_error.hpp|1|14b485bd689|243|c5cbb754|b35d27367cd011e3980e0002c9bb1e4c|0
+11:state_machine.hpp|1|14b485bdcef|371f|5180db86|e47d29f27cd011e3980e0002c9bb1e4c|0

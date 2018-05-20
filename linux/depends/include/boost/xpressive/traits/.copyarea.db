@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\xpressive\traits
+2
+4
+15:null_regex_traits.hpp|1|14b485ac68d|1b7c|ecbe69f2|b7a827b47cf311e384270002c9bb1e4c|0
+14:cpp_regex_traits.hpp|1|14b485ac68d|669a|adc9071b|cbc836247cf411e384270002c9bb1e4c|0
+12:c_regex_traits.hpp|1|14b485ac68d|33ab|fb01ae9d|088846c47cf611e384270002c9bb1e4c|0
+6:detail|2|0|0|0|9ea826547cf311e384270002c9bb1e4c|0

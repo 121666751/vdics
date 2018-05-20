@@ -1,0 +1,24 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\interprocess\sync
+2
+14
+19:named_recursive_mutex.hpp|1|14b485f2f03|1973|921a656d|56ce8000783911e38c3b0002c9bb1e4c|0
+9:emulation|2|0|0|0|359dd974782c11e38c3b0002c9bb1e4c|0
+21:interprocess_upgradable_mutex.hpp|1|14b485f265b|59eb|44409b5f|f76e15cc783011e38c3b0002c9bb1e4c|0
+13:named_semaphore.hpp|1|14b485f37e8|20e2|7a73c95b|f0feded4784011e38c3b0002c9bb1e4c|0
+20:interprocess_recursive_mutex.hpp|1|14b485f264c|14e0|81c3b0cb|5f1e01ac782f11e38c3b0002c9bb1e4c|0
+11:sharable_lock.hpp|1|14b485f2f03|39ee|8b4d6fe8|c76e78e4783811e38c3b0002c9bb1e4c|0
+16:interprocess_mutex.hpp|1|14b485f2f12|13b9|78bb4887|47de989c783b11e38c3b0002c9bb1e4c|0
+5:posix|2|0|0|0|fecdd6f8782b11e38c3b0002c9bb1e4c|0
+10:mutex_family.hpp|1|14b485f37e8|763|5610645d|ce0eabdc783c11e38c3b0002c9bb1e4c|0
+1a:interprocess_condition.hpp|1|14b485f2745|1666|31790699|b3fe5e88783611e38c3b0002c9bb1e4c|0
+e:null_mutex.hpp|1|14b485f264c|1003|d5a4139b|c0cde034782c11e38c3b0002c9bb1e4c|0
+18:interprocess_barrier.hpp|1|14b485f2f03|1065|2ab93cf7|299e8a64783a11e38c3b0002c9bb1e4c|0
+13:named_condition.hpp|1|14b485f2f12|2da5|f3fa9a8a|b6de9e14783b11e38c3b0002c9bb1e4c|0
+1a:named_upgradable_mutex.hpp|1|14b485f265b|3d79|5ebfbc46|6dce418c783411e38c3b0002c9bb1e4c|0
+d:file_lock.hpp|1|14b485f2ef3|2a43|7e387137|672e7430783811e38c3b0002c9bb1e4c|0
+13:upgradable_lock.hpp|1|14b485f264c|3b2c|a92bc959|e68de22c782c11e38c3b0002c9bb1e4c|0
+f:scoped_lock.hpp|1|14b485f2ef3|4a33|e9294053|c53e6bfc783711e38c3b0002c9bb1e4c|0
+1a:interprocess_semaphore.hpp|1|14b485f2f12|128a|31b109d|0cee95c4783b11e38c3b0002c9bb1e4c|0
+f:named_mutex.hpp|1|14b485f37e8|1d8b|9b379b21|9d6ea974783c11e38c3b0002c9bb1e4c|0
+10:lock_options.hpp|1|14b485f265b|751|dfc75cba|7c0e35a0783311e38c3b0002c9bb1e4c|0

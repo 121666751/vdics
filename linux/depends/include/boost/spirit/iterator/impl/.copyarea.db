@@ -1,0 +1,6 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\iterator\impl
+2
+2
+11:file_iterator.ipp|1|14b485bb4a7|2db7|378338a4|0bcd2c227cd111e3980e0002c9bb1e4c|0
+15:position_iterator.ipp|1|14b485bb4b6|fe2|d484fc6b|d3ad37667cd111e3980e0002c9bb1e4c|0

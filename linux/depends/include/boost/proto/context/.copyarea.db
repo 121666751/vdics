@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\proto\context
+2
+3
+8:null.hpp|1|14b485ef3a7|add|d7a4f171|27eb15ca78f711e3b42d0002c9bb1e4c|0
+c:callable.hpp|1|14b485ef3b7|367e|e465b1bf|341b167278f711e3b42d0002c9bb1e4c|0
+b:default.hpp|1|14b485efaf7|564f|99c7b89|6d5b198278f711e3b42d0002c9bb1e4c|0

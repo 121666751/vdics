@@ -1,0 +1,9 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\Linux(广东)\pasrv
+2
+5
+12:authinput_main.cpp|1|14efc638eca|319|474ae226|e110e110344311e5842e0002c9bb1e4c|0
+b:authinput.h|1|14efc638f0c|c63|ba61d9e7|e3b0e12c344311e5842e0002c9bb1e4c|0
+8:Makefile|1|14efc638e6d|506|a0ca7d0d|de80e0f4344311e5842e0002c9bb1e4c|0
+d:authinput.cpp|1|14efc638fb4|676b|26a4cafa|e650e148344311e5842e0002c9bb1e4c|0
+9:create.sh|1|14efc638ff3|5d|5c6d1e1b|e920e164344311e5842e0002c9bb1e4c|0

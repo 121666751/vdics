@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="vdics.exe"/>
+    <OBJFILES value="vdics.obj main.obj single.obj clerks.obj clkinfo.obj warrant.obj 
+      batscan.obj scannerini.obj selNet.obj setupdlg.obj vchmodel.obj 
+      vchname.obj waitdlg.obj ztwain.obj ConfigFile.obj image.obj more.obj 
+      wsimages.obj images.obj wscheck.obj Password.obj bocs.obj vchtype.obj 
+      configs.obj upload.obj sendSpecForm.obj pbcdata.obj pbcimg.obj 
+      upLoadsumbj.obj pubfun.obj bjpbc.obj datesess.obj newcollection.obj 
+      check.obj mainimage.obj sendForm.obj distimage.obj replacescan.obj 
+      envimage.obj login.obj state.obj undo.obj statics.obj upLoadsum.obj 
+      distData.obj imageid.obj billinfo.obj"/>
+    <RESFILES value="vdics.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) main.dfm single.dfm clerks.dfm clkinfo.dfm warrant.dfm 
+      batscan.dfm selNet.dfm setupdlg.dfm vchmodel.dfm vchname.dfm waitdlg.dfm 
+      image.dfm more.dfm wsimages.dfm images.dfm wscheck.dfm Password.dfm 
+      bocs.dfm vchtype.dfm configs.dfm upload.dfm sendSpecForm.dfm pbcdata.dfm 
+      pbcimg.dfm upLoadsumbj.dfm bjpbc.dfm datesess.dfm newcollection.dfm 
+      check.dfm mainimage.dfm sendForm.dfm distimage.dfm replacescan.dfm 
+      envimage.dfm login.dfm state.dfm undo.dfm statics.dfm upLoadsum.dfm 
+      distData.dfm imageid.dfm billinfo.dfm"/>
+    <LIBFILES value="..\usemodal\lib\libmysql_b.lib ..\usemodal\lib\zcommon_b.lib 
+      ..\usemodal\lib\libxml2_b.lib ..\usemodal\lib\iconv_b.lib"/>
+    <LIBRARIES value=""/>
+    <SPARELIBS value="vcl.lib rtl.lib tee.lib vclx.lib dbrtl.lib dsnap.lib cds.lib dbexpress.lib 
+      dbxcds.lib nmfast.lib xmlrtl.lib inet.lib teedb.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi indy.bpi vclie.bpi xmlrtl.bpi inet.bpi inetdbbde.bpi 
+      inetdbxpress.bpi vclx.bpi dbrtl.bpi adortl.bpi vcldb.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      bcb2kaxserver.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="WIN32"/>
+    <SYSDEFINES value="_RTLDLL;NO_STRICT;USEPACKAGES"/>
+    <MAINSOURCE value="vdics.cpp"/>
+    <INCLUDEPATH value="&quot;D:\Program Files\Borland\CBuilder6\Projects&quot;;E:\Demo;$(BCB)\include;$(BCB)\include\vcl;../usemodal/include"/>
+    <LIBPATH value="&quot;D:\Program Files\Borland\CBuilder6\Projects&quot;;E:\Demo;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I&quot;D:\Program Files\Borland\CBuilder6\Projects&quot; -IE:\Demo -I$(BCB)\include 
+      -I$(BCB)\include\vcl -I../usemodal/include -src_suffix cpp -DWIN32 -boa"/>
+    <CFLAG1 value="-O2 -Vx -Ve -X- -a8 -b- -k- -vi -c -tW -tWM"/>
+    <PFLAGS value="-$Y- -$L- -$D- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zn"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="vdics.res" FORMNAME="" UNITNAME="vdics.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vdics.cpp" FORMNAME="" UNITNAME="vdics" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="main.cpp" FORMNAME="FmIC" UNITNAME="main" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="single.cpp" FORMNAME="FmVoucher" UNITNAME="single" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="clerks.cpp" FORMNAME="FmClerks" UNITNAME="clerks" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="clkinfo.cpp" FORMNAME="FmCkInfo" UNITNAME="clkinfo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="warrant.cpp" FORMNAME="FormWarrant" UNITNAME="warrant" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\usemodal\lib\libmysql_b.lib" FORMNAME="" UNITNAME="libmysql_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="batscan.cpp" FORMNAME="FormScan" UNITNAME="batscan" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="scannerini.cpp" FORMNAME="" UNITNAME="scannerini.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="selNet.cpp" FORMNAME="FmSelNet" UNITNAME="selNet" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="setupdlg.cpp" FORMNAME="FmSetup" UNITNAME="setupdlg" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vchmodel.cpp" FORMNAME="VchMode" UNITNAME="vchmodel" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vchname.cpp" FORMNAME="Newvch" UNITNAME="vchname" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="waitdlg.cpp" FORMNAME="FmWait" UNITNAME="waitdlg" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ztwain.cpp" FORMNAME="" UNITNAME="ztwain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ConfigFile.cpp" FORMNAME="" UNITNAME="ConfigFile" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="image.cpp" FORMNAME="FormImage" UNITNAME="image" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="more.cpp" FORMNAME="FmEnv" UNITNAME="more" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="wsimages.cpp" FORMNAME="FormWsImage" UNITNAME="wsimages" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="images.cpp" FORMNAME="FormImages" UNITNAME="images" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="wscheck.cpp" FORMNAME="FormWsCheck" UNITNAME="wscheck" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\usemodal\lib\zcommon_b.lib" FORMNAME="" UNITNAME="zcommon_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Password.cpp" FORMNAME="FormPWD" UNITNAME="Password" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="bocs.cpp" FORMNAME="FormNets" UNITNAME="bocs" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="vchtype.cpp" FORMNAME="FmVchtype" UNITNAME="vchtype" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="configs.cpp" FORMNAME="FormConfig" UNITNAME="configs" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="upload.cpp" FORMNAME="FormTrans" UNITNAME="upload" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="sendSpecForm.cpp" FORMNAME="FormSendSpec" UNITNAME="sendSpecForm" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pbcdata.cpp" FORMNAME="FormPBC" UNITNAME="pbcdata" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pbcimg.cpp" FORMNAME="FormDet" UNITNAME="pbcimg" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\usemodal\lib\libxml2_b.lib" FORMNAME="" UNITNAME="libxml2_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="..\usemodal\lib\iconv_b.lib" FORMNAME="" UNITNAME="iconv_b.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="upLoadsumbj.cpp" FORMNAME="FormSignBJ" UNITNAME="upLoadsumbj" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="pubfun.cpp" FORMNAME="" UNITNAME="pubfun" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="bjpbc.cpp" FORMNAME="BjFormPBC" UNITNAME="bjpbc" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="datesess.cpp" FORMNAME="FormDate" UNITNAME="datesess" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="newcollection.cpp" FORMNAME="FormNWS" UNITNAME="newcollection" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="check.cpp" FORMNAME="FormCheck" UNITNAME="check" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="mainimage.cpp" FORMNAME="FormMainImage" UNITNAME="mainimage" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="sendForm.cpp" FORMNAME="FormSend" UNITNAME="sendForm" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="distimage.cpp" FORMNAME="distFormImage" UNITNAME="distimage" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="replacescan.cpp" FORMNAME="FormReplace" UNITNAME="replacescan" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="envimage.cpp" FORMNAME="FormEnvImage" UNITNAME="envimage" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="login.cpp" FORMNAME="FormLogin" UNITNAME="login" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="state.cpp" FORMNAME="FormST" UNITNAME="state" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="undo.cpp" FORMNAME="FormUndo" UNITNAME="undo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="statics.cpp" FORMNAME="FormStatic" UNITNAME="statics" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="upLoadsum.cpp" FORMNAME="FormSign" UNITNAME="upLoadsum" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="distData.cpp" FORMNAME="distForm" UNITNAME="distData" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="imageid.cpp" FORMNAME="FormImageID" UNITNAME="imageid" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="billinfo.cpp" FORMNAME="FormBill" UNITNAME="billinfo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2052
+CodePage=936
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=2
+Item0=D:\Program Files\Borland\CBuilder6\Projects;E:\Demo;$(BCB)\include;$(BCB)\include\vcl;../usemodal/include
+Item1=D:\Program Files\Borland\CBuilder6\Projects;E:\Demo;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=1
+Item0=D:\Program Files\Borland\CBuilder6\Projects;E:\Demo;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=4
+Item0=WIN32
+Item1=WIN32;_DEBUG
+Item2=_DEBUG;WIN32
+Item3=_DEBUG
+
+[HistoryLists\hlFinalOutputDir]
+Count=4
+Item0=D:\svngsip\install\jzth\
+Item1=D:\svngsip\install\jzth
+Item2=E:\works\svn\gsip\install\jzth\
+Item3=E:\works\svn\gsip\install\jzth
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

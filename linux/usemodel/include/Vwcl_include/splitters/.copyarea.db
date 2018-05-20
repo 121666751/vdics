@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\usemodel\include\Vwcl_include\splitters
+2
+7
+17:vmdisplitmainwindow.hpp|1|14b48572106|944|26aa0f26|8f886df87cfa11e384270002c9bb1e4c|0
+18:vmdisplitchildwindow.hpp|1|14b48572115|84f|311fa5a9|88287b887cfb11e384270002c9bb1e4c|0
+10:vsplitdialog.hpp|1|14b485720f6|7a8|5c328022|78f86cc47cfa11e384270002c9bb1e4c|0
+14:vsplitmaindialog.hpp|1|14b48572106|82e|d0e2a66e|93486e307cfa11e384270002c9bb1e4c|0
+11:vsplitsupport.hpp|1|14b48572115|54b7|a90f0a24|8a787ba47cfb11e384270002c9bb1e4c|0
+14:vsplitmainwindow.hpp|1|14b48572115|e15|e3a96fc2|667879ac7cfb11e384270002c9bb1e4c|0
+10:vsplitwindow.hpp|1|14b48572106|7aa|75f58333|442877d07cfb11e384270002c9bb1e4c|0

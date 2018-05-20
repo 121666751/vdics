@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\wave\cpplexer\re2clex
+2
+4
+12:cpp_re2c_lexer.hpp|1|14b485a2b93|38c9|b29f2470|509ab6007cea11e3ac0b0002c9bb1e4c|0
+a:cpp_re.hpp|1|14b485a21d3|735|51bf10d4|4f2aa81c7ce911e3ac0b0002c9bb1e4c|0
+b:scanner.hpp|1|14b485a21d3|cb6|3e8bbac|e18ab0187ce911e3ac0b0002c9bb1e4c|0
+6:aq.hpp|1|14b485a2b93|7d2|43b15155|f1babe6c7cea11e3ac0b0002c9bb1e4c|0

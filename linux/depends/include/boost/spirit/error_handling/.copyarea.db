@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\spirit\error_handling
+2
+4
+12:exceptions_fwd.hpp|1|14b485da544|495|22e26b7b|6f0403d87cc211e3880a0002c9bb1e4c|0
+a:typeof.hpp|1|14b485da534|46d|b0945cc4|fc13f2c87cc011e3880a0002c9bb1e4c|0
+4:impl|2|0|0|0|1ff3c2087cbd11e3880a0002c9bb1e4c|0
+e:exceptions.hpp|1|14b485da544|481|7b77641b|25a4192c7cc411e3880a0002c9bb1e4c|0

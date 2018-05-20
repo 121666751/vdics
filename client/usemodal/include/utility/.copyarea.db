@@ -1,0 +1,14 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\client\usemodal\include\utility
+2
+a
+7:xmlpp.h|1|14b48665363|152d|d233cbcb|70542a047cc511e3880a0002c9bb1e4c|0
+b:zregistry.h|1|14b486650b4|2d61|9a888d63|3d63dce87cbf11e3880a0002c9bb1e4c|0
+f:libraryloader.h|1|14b486650b4|260|6b30b556|4c93d0e07cbe11e3880a0002c9bb1e4c|0
+10:singleinstance.h|1|14b486650c4|314|3a78ed1b|198425c07cc511e3880a0002c9bb1e4c|0
+a:zbitmask.h|1|14b486650a5|12e2|b9eff158|b813c9a87cbd11e3880a0002c9bb1e4c|0
+8:verchk.h|1|14b486650c4|39c|1e79f357|e863f1cc7cc011e3880a0002c9bb1e4c|0
+e:ConfigFile.cpp|1|14b486650c4|2028|1238a212|91e3f9587cc111e3880a0002c9bb1e4c|0
+c:zntservice.h|1|14b486650c4|522b|717d030f|d983fca07cc111e3880a0002c9bb1e4c|0
+a:calictrl.h|1|14b486650c4|3d1|d34133a6|4623ea5c7cc011e3880a0002c9bb1e4c|0
+c:ConfigFile.h|1|14b486650c4|758|c41f3abe|dd0409347cc211e3880a0002c9bb1e4c|0

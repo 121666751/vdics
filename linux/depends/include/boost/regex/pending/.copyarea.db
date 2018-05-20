@@ -1,0 +1,7 @@
+ClearCase CopyAreaDB|4
+vobs\gsip\gsip_code\gsip\c\jzth\linux\depends\include\boost\regex\pending
+2
+3
+10:object_cache.hpp|1|14b485e849e|14bd|b9b5a4e|f6e3d9847cbe11e3880a0002c9bb1e4c|0
+10:static_mutex.hpp|1|14b485e849e|1163|9f159b04|5233eb047cc011e3880a0002c9bb1e4c|0
+14:unicode_iterator.hpp|1|14b485e84cd|5457|854157c6|db3422787cc411e3880a0002c9bb1e4c|0
